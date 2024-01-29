@@ -2,7 +2,7 @@
 title: 表格单元格合并
 description: 
 published: true
-date: 2024-01-29T18:45:02.560Z
+date: 2024-01-29T18:45:19.278Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T18:45:02.560Z
@@ -45,7 +45,7 @@ dateCreated: 2024-01-29T18:45:02.560Z
 
 ### 1. 下载模板文件/需要编辑的文件
 
-请前往[网站资源](/useful-resource)下载文件到本地。
+请前往[网站资源](/zh/useful-resource)下载文件到本地。
 
 ### 2. 创建、编辑、上传、Excel文件
 > 此处的上传语言目录均以中文为示例，其他语言请上传至对应目录结构)
