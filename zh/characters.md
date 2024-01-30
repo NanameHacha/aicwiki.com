@@ -2,11 +2,14 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2024-01-30T08:40:17.022Z
+date: 2024-01-30T09:04:20.453Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T15:05:28.620Z
 ---
+
+> 此页面人物立绘重置施工中，负责人：Cicini, Akari
+{.is-warning}
 
 # 登场角色
 > 该游戏尚处于开发阶段，最终角色介绍请以成品为准。
