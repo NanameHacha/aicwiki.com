@@ -2,8 +2,8 @@
 title: 小瓶香料
 description: 伏沦岭特产的小瓶香辛料。气味令人食欲大开。
 published: true
-date: 2024-01-29T19:17:30.746Z
-tags: 
+date: 2024-02-02T12:40:57.621Z
+tags: 物品, 物品：食材, 物品：调味料
 editor: markdown
 dateCreated: 2024-01-29T19:17:30.746Z
 ---
