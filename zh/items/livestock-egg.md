@@ -2,8 +2,8 @@
 title: 家禽蛋
 description: 养在山里的家禽生下的蛋。居然把还未孵化的生物做成菜肴吃掉，我们可真是罪孽深重。但正因如此，它才有这般美味吧。
 published: true
-date: 2024-01-29T19:18:11.909Z
-tags: 
+date: 2024-02-02T12:38:52.176Z
+tags: 物品, 物品：食材, 物品：蛋类
 editor: markdown
 dateCreated: 2024-01-29T19:18:11.909Z
 ---
