@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2024-02-02T12:53:41.366Z
+date: 2024-02-02T13:38:56.828Z
 tags: 游戏内容
 editor: markdown
 dateCreated: 2024-01-29T15:05:28.620Z
@@ -37,7 +37,7 @@ dateCreated: 2024-01-29T15:05:28.620Z
 | ![300px-delfini.webp](/assets/global/characters/cornehl/300px-delfini.webp) | 诺艾儿的父亲。<br><br>目前柯涅尔家族的家主，管教严厉，对柯涅尔家族成员能力自信的同时又极为看重家族的声望，认为诺艾儿这样天赋异禀的人会遭到嫉妒，将诺艾儿两周前遇到的事故视为家族的耻辱。虽然反对诺艾儿继续进修军官课程，但尊重诺艾儿本人的意愿。 |
 
 
-- 大哥：杰斯·柯涅尔（<ruby>ゼス<rt>Zeth</rt>·コルネール<rt>Cornehl</rt></ruby>）[^2]
+- 大哥：杰斯·柯涅尔（<ruby>ゼス<rt>Zeth</rt>·コルネール<rt>Cornehl</rt></ruby>）[^1]
 - 母亲：希特拉斯·柯涅尔（<ruby>シトラス<rt>Citrus</rt>·コルネール<rt>Cornehl</rt></ruby>）
 - 祖父：贝利尔·柯涅尔（<ruby>ベリル<rt>Beryl</rt>·コルネール<rt>Cornehl</rt></ruby>）
 - 祖母：夏丝塔·柯涅尔（<ruby>シャスタ<rt>Shastar</rt>·コルネール<rt>Cornehl</rt></ruby>）
@@ -92,3 +92,6 @@ dateCreated: 2024-01-29T15:05:28.620Z
 </div> 
 
 </details>
+
+
+[^1]: 该角色未出场，仅在丽薇歌塔与诺艾儿的对话中提及。
