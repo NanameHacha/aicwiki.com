@@ -2,7 +2,7 @@
 title: 快速参考
 description: 此页面列举了所有内容和索引
 published: true
-date: 2024-01-29T19:10:30.693Z
+date: 2024-02-02T12:36:40.346Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T19:10:30.693Z
@@ -11,7 +11,7 @@ dateCreated: 2024-01-29T19:10:30.693Z
 # 游戏内容
 - [首页](https://aicwiki.com/zh/home)
 - [物品](/zh/items)
-- [魔族](/zh/enemy)
+- [魔族](/zh/enemy-list)
 - [剧情](/zh/story)
 - [版本记录](/zh/version)
 
