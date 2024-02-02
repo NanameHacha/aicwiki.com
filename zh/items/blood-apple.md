@@ -2,8 +2,8 @@
 title: 血苹果
 description: 吃下去可以恢复一些体力。这种水果不但吃起来很美味，而且附带治愈效果，有珍贵的药用价值呢。
 published: true
-date: 2024-01-29T19:12:30.417Z
-tags: 
+date: 2024-02-02T12:47:14.539Z
+tags: 物品, 物品：食材, 物品：保健品, 物品：水果, 物品：hp恢复
 editor: markdown
 dateCreated: 2024-01-29T19:12:30.417Z
 ---
