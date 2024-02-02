@@ -2,8 +2,8 @@
 title: 物品
 description: 物品标签目录
 published: true
-date: 2024-01-29T19:08:32.726Z
-tags: 
+date: 2024-02-02T13:06:51.719Z
+tags: 游戏内容, 索引
 editor: markdown
 dateCreated: 2024-01-29T19:08:32.726Z
 ---
