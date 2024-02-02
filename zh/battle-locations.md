@@ -2,8 +2,8 @@
 title: 战斗点
 description: Alice In Cradle 战斗点
 published: true
-date: 2024-01-29T18:09:10.227Z
-tags: 
+date: 2024-02-02T12:49:37.597Z
+tags: 游戏内容
 editor: markdown
 dateCreated: 2024-01-29T18:09:10.227Z
 ---
