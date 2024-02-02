@@ -2,8 +2,8 @@
 title: 卷心菜
 description: 拿来做沙拉会更好吃。
 published: true
-date: 2024-01-29T19:06:08.868Z
-tags: 
+date: 2024-02-02T12:38:17.679Z
+tags: 物品, 物品：食材, 物品：蔬菜
 editor: markdown
 dateCreated: 2024-01-29T19:06:08.868Z
 ---
