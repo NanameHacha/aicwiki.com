@@ -2,8 +2,8 @@
 title: 快速参考
 description: 此页面列举了所有内容和索引
 published: true
-date: 2024-02-02T13:02:27.083Z
-tags: 
+date: 2024-02-02T13:04:47.467Z
+tags: 索引
 editor: markdown
 dateCreated: 2024-01-29T19:10:30.693Z
 ---
@@ -23,7 +23,11 @@ dateCreated: 2024-01-29T19:10:30.693Z
 - [异常状态](/zh/effects-debuffs)
 - [彩蛋](/zh/easter-eggs)
 - [剧情](/zh/story)
+- [音乐](/zh/music-list)
 - [版本记录](/zh/version)
+
+# 游戏衍生
+- [衍生梗](/zh/related-memes)
 
 # 相关链接
 - [官方 ci-en 账号](https://ci-en.dlsite.com/creator/12611)
