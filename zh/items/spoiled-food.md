@@ -2,8 +2,8 @@
 title: 腐烂的食物
 description: 因暴露在魔力环境下而腐烂的食物。已经不能吃了。
 published: true
-date: 2024-01-29T19:11:21.372Z
-tags: 
+date: 2024-02-02T12:44:31.678Z
+tags: 物品, 物品：废品
 editor: markdown
 dateCreated: 2024-01-29T19:11:21.372Z
 ---
