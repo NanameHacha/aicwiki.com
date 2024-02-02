@@ -2,16 +2,26 @@
 title: 快速参考
 description: 此页面列举了所有内容和索引
 published: true
-date: 2024-02-02T12:36:40.346Z
+date: 2024-02-02T13:02:27.083Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T19:10:30.693Z
 ---
 
 # 游戏内容
-- [首页](https://aicwiki.com/zh/home)
+- [世界观](/zh/world-outlook)
+- [登场角色](/zh/characters)
+- [魔法](/zh/spells)
+- [魔力系统](/zh/mana-crystal)
+- [技能](/zh/skills)
+- [插件](/zh/enhancers)
+- [烹饪、炼金与合成](/zh/cooking-crafting-alchemyrecipe)
 - [物品](/zh/items)
+- [地图](/zh/maps)
 - [魔族](/zh/enemy-list)
+- [宝箱转轮](/zh/chest-reels)
+- [异常状态](/zh/effects-debuffs)
+- [彩蛋](/zh/easter-eggs)
 - [剧情](/zh/story)
 - [版本记录](/zh/version)
 
