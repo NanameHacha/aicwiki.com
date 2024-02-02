@@ -2,8 +2,8 @@
 title: 铃兰球茎
 description: 似乎有剧毒的样子。姐姐经常跟我强调，这个东西绝对不能放进嘴里。
 published: true
-date: 2024-01-29T19:17:00.482Z
-tags: 
+date: 2024-02-02T12:48:19.561Z
+tags: 物品, 物品：素材
 editor: markdown
 dateCreated: 2024-01-29T19:17:00.482Z
 ---
