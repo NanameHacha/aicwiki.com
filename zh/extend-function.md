@@ -2,7 +2,7 @@
 title: 扩展语法
 description: 
 published: true
-date: 2024-02-02T12:55:39.182Z
+date: 2024-02-03T06:44:35.789Z
 tags: 百科编辑
 editor: markdown
 dateCreated: 2024-01-29T18:41:54.100Z
@@ -13,3 +13,4 @@ dateCreated: 2024-01-29T18:41:54.100Z
 
 - [表格单元格合并](/zh/extend-function/table-rowspan)
 - [文本黑幕](/zh/extend-function/spoiler)
+- [内容标签页](/zh/extend-function/content-tabs)
