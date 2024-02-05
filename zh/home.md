@@ -2,7 +2,7 @@
 title: 简体中文百科
 description: Alice In Cradle 简体中文百科 - 由社区编辑者编写
 published: true
-date: 2024-02-05T11:38:42.677Z
+date: 2024-02-05T11:42:34.823Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-29T14:45:09.477Z
@@ -17,7 +17,6 @@ dateCreated: 2024-01-29T14:45:09.477Z
 > 本网站内容和网站建设已取得原萌娘百科中大部分内容的大部分编辑者同意，[点击此处了解详情](https://t.bilibili.com/847892334568800257)。
 {.is-info}
 
-CONTENT FOR TEST
 # Alice In Cradle
  
 > “ <ruby>可怜即可爱！<rt>かわいそうはかわいい！</rt></ruby>”<p style="text-align: right;">**——ひなゆあ**</p>
