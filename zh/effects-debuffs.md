@@ -2,7 +2,7 @@
 title: 异常状态
 description: Alice In Cradle 异常状态
 published: true
-date: 2024-02-02T12:51:33.079Z
+date: 2024-02-05T04:39:34.297Z
 tags: 游戏内容
 editor: markdown
 dateCreated: 2024-01-29T18:17:50.485Z
@@ -11,7 +11,7 @@ dateCreated: 2024-01-29T18:17:50.485Z
 # 异常状态
 
 - 濒死：HP 在最大 HP 的 15% 以下。
-- ![45px-debuffdead.webp](/assets/global/effects-debuffs/45px-debuffdead.webp =20x20) 无法战斗：HP 为 0，在怪物们满足回去之前，请耐心等待吧。
+- ![45px-debuffdead.webp](/assets/global/effects-debuffs/45px-debuffdead.webp?ver=240205fix =20x20) 无法战斗：HP 为 0，在怪物们满足回去之前，请耐心等待吧。
 - ![45px-debuffexhausted.webp](/assets/global/effects-debuffs/45px-debuffexhausted.webp =20x20) 枯竭：MP 在最大 MP 的 20% 以下，无法进行奔跑和闪避。
 - ![45px-alice_in_cradle_buff_破盾.webp](/assets/global/effects-debuffs/45px-alice_in_cradle_buff_破盾.webp =20x20) 破盾：护盾被击碎的状态。到恢复正常为止将受到 1.5 倍的伤害。
 - 丸吞：被吞进魔物体内的状态。进行抵抗，或者等魔物自己吐出。
