@@ -1,4 +1,7 @@
 # Contents of aicwiki.com
+
+![status](https://status.devnet.work/api/badge/7/status?style=for-the-badge)
+
 Written by community members.  
 You can submit a PR directly to modify the content or contact `@Tsurukawa` in the `AliceInCradle Official Discord` to get direct editing rights to the site.  
   
