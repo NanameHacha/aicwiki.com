@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2024-02-13T06:18:53.000Z
+date: 2024-02-13T06:23:06.204Z
 tags: 游戏内容
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
@@ -12,11 +12,14 @@ dateCreated: 2024-02-12T12:03:38.257Z
 > 该游戏尚处于开发阶段，最终角色介绍请以成品为准。
 {.is-info}
 
+> 本页面立绘插图版权归NanameHacha所有，仅提供给本wiki使用，不允许在其他网页或程序等地方使用本页面立绘插图。
+{.is-warning}
+
 ## 柯涅尔家
 
 | <img style="float: left;" src="/assets/global/characters/45px_pixels/45px-noelpixel.webp" />诺艾儿·柯涅尔（<ruby>ノエル<rt>Noel</rt>·コルネール<rt>Cornehl</rt></ruby>） ||
 | --- | --- |
-| ![600x_9_14_noel_240212_233954.webp](/assets/global/characters/cornehl/600x_9_14_noel_240212_233954.webp =300x) | 本作的女主角。<br>出身于正统精灵的炼金术师的家系中分出的柯涅尔家族的后裔，是精灵、人类和兽人的混血。<br><br>立志成为姐姐一样帅气优秀的魔法使，并对老师所说的、传说在魔法云雾外 “镶嵌在夜空的天花板上的宝石般的繁星” 感到憧憬。在第二天得知前一天夜里出现魔族暴动、伊夏同学陷入危险后，踏上旅途。 |
+| ![600x_9_14_noel_240212_233954.webp](/assets/global/characters/cornehl/600x_9_14_noel_240212_233954.webp) | 本作的女主角。<br>出身于正统精灵的炼金术师的家系中分出的柯涅尔家族的后裔，是精灵、人类和兽人的混血。<br><br>立志成为姐姐一样帅气优秀的魔法使，并对老师所说的、传说在魔法云雾外 “镶嵌在夜空的天花板上的宝石般的繁星” 感到憧憬。在第二天得知前一天夜里出现魔族暴动、伊夏同学陷入危险后，踏上旅途。 |
 
 
 | <img style="float: left;" src="/assets/global/characters/45px_pixels/45px-laevigatapixel.webp">丽薇歌塔·柯涅尔（<ruby>レヴィガータ<rt>Laevigata</rt>·コルネール<rt>Cornehl</rt></ruby>） ||
