@@ -3,12 +3,12 @@ title: 生菜
 description: 绿油油的鲜嫩蔬菜。
 published: true
 date: 2024-02-02T12:43:32.717Z
-tags: 物品, 物品：食材, 物品：蔬菜
+tags: item, item-food, item-vegetable
 editor: markdown
 dateCreated: 2024-01-29T19:14:21.819Z
 ---
 
-| <img style="float: left;" src="此处放物品图标" alt="物品图标" />生菜（<ruby>レタス<rt>Lettuce</rt></ruby>) ||
+| <img style="float: left;" src="此处放物品图标" alt="物品图标" />生菜（<ruby>レタス<rt>Lettuce</rt></ruby>） ||
 | - | - |
 | 绿油油的鲜嫩蔬菜。 ||
 | 类别 | 食材、蔬菜 |

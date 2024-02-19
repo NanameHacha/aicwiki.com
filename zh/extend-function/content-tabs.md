@@ -3,7 +3,7 @@ title: 内容标签页
 description: 在页面中插入标签页
 published: true
 date: 2024-02-03T06:42:06.237Z
-tags: 百科编辑
+tags: wiki-guide
 editor: markdown
 dateCreated: 2024-02-03T06:41:34.520Z
 ---
