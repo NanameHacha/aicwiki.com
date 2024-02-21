@@ -3,7 +3,7 @@ title: 魔力系统
 description: Alice In Cradle 魔力系统
 published: true
 date: 2024-02-02T12:54:25.609Z
-tags: 游戏内容
+tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T17:32:47.317Z
 ---

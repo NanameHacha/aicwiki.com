@@ -3,7 +3,7 @@ title: 扩展语法
 description: 
 published: true
 date: 2024-02-03T06:44:35.789Z
-tags: 百科编辑
+tags: wiki-guide
 editor: markdown
 dateCreated: 2024-01-29T18:41:54.100Z
 ---

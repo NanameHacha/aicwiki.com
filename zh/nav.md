@@ -3,7 +3,7 @@ title: 快速参考
 description: 此页面列举了所有内容和索引
 published: true
 date: 2024-02-02T13:04:47.467Z
-tags: 索引
+tags: index
 editor: markdown
 dateCreated: 2024-01-29T19:10:30.693Z
 ---

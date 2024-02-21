@@ -3,7 +3,7 @@ title: 表格单元格合并
 description: 
 published: true
 date: 2024-02-12T11:54:59.949Z
-tags: 百科编辑
+tags: wiki-guide
 editor: markdown
 dateCreated: 2024-01-29T18:45:02.560Z
 ---

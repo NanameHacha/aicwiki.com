@@ -3,7 +3,7 @@ title: 异常状态
 description: Alice In Cradle 异常状态
 published: true
 date: 2024-02-05T04:39:34.297Z
-tags: 游戏内容
+tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:17:50.485Z
 ---

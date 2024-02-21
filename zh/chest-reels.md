@@ -3,7 +3,7 @@ title: 宝箱转轮
 description: Alice In Cradle 宝箱转轮
 published: true
 date: 2024-02-12T12:17:52.618Z
-tags: 游戏内容
+tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:00:41.508Z
 ---
