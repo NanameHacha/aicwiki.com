@@ -2,8 +2,8 @@
 title: 操作说明
 description: Alice In Cradle 操作说明
 published: true
-date: 2024-02-02T13:27:45.595Z
-tags: 教程
+date: 2024-02-21T22:00:54.666Z
+tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T15:27:25.815Z
 ---
