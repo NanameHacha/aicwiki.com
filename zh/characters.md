@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2024-02-22T04:32:59.658Z
+date: 2024-02-22T06:53:08.318Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
@@ -79,6 +79,8 @@ dateCreated: 2024-02-12T12:03:38.257Z
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-mephapixel.webp"><div class="character-title">梅法·格里亚德（<ruby>メーファ<rt>Mepha</rt>·グリッドヤード<rt>Gridyard</rt></ruby>）</div></div> ||
 | --- | --- |
 | ![600x_9_14_mepha_240212_234207.webp](/assets/global/characters/other/600x_9_14_mepha_240212_234207.webp) | 高阶卫兵。<br>精灵之村武装力量 “<ruby>述命者军<rt>LifeTeller Army</rt></ruby>” 的队长。塌方发生后，负责看守被收起的、连接小恶魔之丘与酸液巨树的大吊桥。随着清除瓦砾和爆破障碍物的工作顺利进行，回到述命者军中追捕出没于格拉提亚郊外的大型魔族，在诺艾儿将其击退后与其结识。<br><br>希望有朝一日与诺艾儿在精灵之村相会。<span class="spoiler">然而由于柯涅尔一家几乎都被禁止进入精灵之村，这一愿望似乎不能实现。</span> |
+
+<!-- 未正式公开角色不展示，保留内容供未来内容更新后使用 -->
 
 <!-- <details>
   <summary><span class="spoiler">？？？：<font color=#f7cecd>爱丽丝</font>（<ruby>アリス<rt>Alice</rt></ruby>）（点击查看）</span></summary>
