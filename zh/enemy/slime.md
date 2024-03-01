@@ -2,7 +2,7 @@
 title: 史莱姆
 description: 一种普通魔物，身体呈现果冻状，通过跳跃移动。
 published: true
-date: 2024-03-01T07:42:39.673Z
+date: 2024-03-01T07:47:37.239Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-03-01T07:42:39.673Z
@@ -16,7 +16,7 @@ dateCreated: 2024-03-01T07:42:39.673Z
 
 | 史莱姆 ||
 | - | - |
-| 日文名称 | スライム |
+| 日文名称 | <span lang="ja">スライム</span> |
 | 英文名称 | Slime |
 | 掉落素材 | [史莱姆的假卵](/zh/item/fake-slime-egg) |
 | H 演出 | 有 |
