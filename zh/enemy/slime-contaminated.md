@@ -1,8 +1,8 @@
 ---
-title: 史莱姆污染体
-description: 
+title: 史莱姆（污染体）
+description: 一种污染体变种魔物，相比普通史莱姆体型更大，更具攻击性。
 published: true
-date: 2024-03-01T07:51:03.528Z
+date: 2024-03-01T07:52:04.025Z
 tags: enemy, enemy-contaminated
 editor: markdown
 dateCreated: 2024-03-01T07:51:03.528Z
@@ -10,7 +10,7 @@ dateCreated: 2024-03-01T07:51:03.528Z
 
 # 史莱姆（污染体）
 
-**史莱姆（污染体）** 是一种污染体变种魔物，体型比普通史莱姆更大，更具攻击性。
+**史莱姆（污染体）** 是一种污染体变种魔物，相比普通史莱姆体型更大，更具攻击性。
 
 <!-- 在这里放置图像 -->
 
