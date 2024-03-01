@@ -2,8 +2,8 @@
 title: 魔物页面模板
 description: 
 published: false
-date: 2024-03-01T07:29:16.666Z
-tags: 
+date: 2024-03-01T07:30:10.375Z
+tags: wiki-template
 editor: markdown
 dateCreated: 2024-03-01T07:29:16.666Z
 ---
