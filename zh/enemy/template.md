@@ -2,7 +2,7 @@
 title: 魔物页面模板
 description: 
 published: false
-date: 2024-03-01T07:30:10.375Z
+date: 2024-03-01T07:47:12.960Z
 tags: wiki-template
 editor: markdown
 dateCreated: 2024-03-01T07:29:16.666Z
@@ -16,7 +16,7 @@ dateCreated: 2024-03-01T07:29:16.666Z
 
 | 魔物名称 ||
 | - | - |
-| 日文名称 | 这里填写日文名称 |
+| 日文名称 | <span lang="ja">这里填写日文名称</span> |
 | 英文名称 | 这里填写英文名称 |
 | 掉落素材 | 在这里填写掉落素材，没有填无 |
 | H 演出 | 有或无 |
