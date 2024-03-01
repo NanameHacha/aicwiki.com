@@ -2,7 +2,7 @@
 title: 快速参考
 description: 此页面列举了所有内容和索引
 published: true
-date: 2024-02-02T13:04:47.467Z
+date: 2024-03-01T07:31:22.785Z
 tags: index
 editor: markdown
 dateCreated: 2024-01-29T19:10:30.693Z
@@ -40,3 +40,4 @@ dateCreated: 2024-01-29T19:10:30.693Z
 # 百科编辑
 - [实用工具](/zh/useful-tools)
 - [扩展语法](/zh/extend-function)
+- [模板](/t/wiki-template)
