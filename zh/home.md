@@ -2,7 +2,7 @@
 title: 简体中文百科
 description: Alice In Cradle 简体中文百科 - 由社区编辑者编写
 published: true
-date: 2024-04-12T18:21:24.367Z
+date: 2024-04-12T19:39:04.946Z
 tags: index
 editor: markdown
 dateCreated: 2024-01-29T14:45:09.477Z
@@ -29,10 +29,10 @@ dateCreated: 2024-01-29T14:45:09.477Z
 
 # 各下载线路版本
 - 全球线路 / Fantia / Ci-en
-  - 压缩包<code id="aic_verdis_global">VER_DISPLAY</code>
+  - 压缩包<code id="aic_zip_verdis_global">VER_DISPLAY</code>
   - 安装包<code id="aic_ins_verdis_global">VER_DISPLAY</code>
 - 中国大陆
-  - 压缩包<code id="aic_verdis_cn">VER_DISPLAY</code>
+  - 压缩包<code id="aic_zip_verdis_cn">VER_DISPLAY</code>
   - 安装包<code id="aic_ins_verdis_cn">暂无</code>
 # 内容讨论与问题反馈
 请加入 [Alice In Cradle Discord](https://discord.gg/aliceincradle) 后访问<code>wiki-discussion</code>频道。
