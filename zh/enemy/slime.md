@@ -2,7 +2,7 @@
 title: 史莱姆
 description: 一种普通魔物，身体呈现果冻状。
 published: true
-date: 2024-04-29T03:03:42.352Z
+date: 2024-04-29T04:19:50.336Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-03-01T07:42:39.673Z
@@ -34,4 +34,4 @@ dateCreated: 2024-03-01T07:42:39.673Z
 
 ## 备注
 
-史莱姆仅在地面活动，可以跃上台阶。
+- 史莱姆仅在地面活动，可以跃上台阶。
