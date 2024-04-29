@@ -2,13 +2,13 @@
 title: 魔族图鉴
 description: Alice In Cradle 魔族图鉴
 published: true
-date: 2024-02-02T12:54:38.533Z
+date: 2024-04-29T02:39:23.510Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:11:16.969Z
 ---
 
-[魔力系统]: /zh/mana-rystal
+[魔力系统]: /zh/mana-crystal
 
 # 简介
 
