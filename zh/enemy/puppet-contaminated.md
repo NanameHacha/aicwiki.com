@@ -1,21 +1,21 @@
 ---
 title: 木偶（污染体）
-description: 一种污染体变种魔物，相比普通木偶体型更大，更具攻击性。
+description: 一种污染体变种魔族，相比普通木偶体型更大，更具攻击性。
 published: true
-date: 2024-04-30T04:29:48.748Z
+date: 2024-05-01T09:59:28.563Z
 tags: enemy, enemy-contaminated
 editor: markdown
 dateCreated: 2024-04-30T02:59:17.264Z
 ---
 
-**木偶（污染体）** 是一种污染体变种魔物，相比普通木偶体型更大，更具攻击性。
+**木偶（污染体）** 是一种污染体变种魔族，相比普通木偶体型更大，更具攻击性。
 
 <!-- 在这里放置图像 -->
 
-| 木偶（污染体） ||
+| 木偶（污染体） / 巨人 ||
 | - | - |
-| 日文名称 | <span lang="ja">木偶 (汚染体)</span> |
-| 英文名称 | Puppet (Contaminated) |
+| 日文名称 | <span lang="ja">木偶 (汚染体) / 巨人</span> |
+| 英文名称 | Puppet (Contaminated) / Giant |
 | 掉落素材 | [木偶的右手](/zh/item/golem’s-right-hand) |
 | H 演出 | 有 |
 | 相关魔物 | [木偶](/zh/enemy/puppet) |
