@@ -1,14 +1,14 @@
 ---
 title: 机甲木偶
-description: 一种特殊魔物，身体呈现巨大的组装机甲人偶状。
+description: 一种特殊魔族，身体呈现巨大的组装机甲人偶状。
 published: true
-date: 2024-05-01T09:21:46.425Z
+date: 2024-05-01T10:01:14.819Z
 tags: enemy, enemy-special
 editor: markdown
 dateCreated: 2024-05-01T09:21:46.425Z
 ---
 
-**机甲木偶**是一种特殊魔物，身体呈现巨大的组装机甲人偶状。
+**机甲木偶**是一种特殊魔族，身体呈现巨大的组装机甲人偶状。
 
 <!-- 在这里放置图像 -->
 
