@@ -1,14 +1,14 @@
 ---
 title: 壁虎
-description: 一种普通魔物，身体呈现壁虎形状。
+description: 一种普通魔族，身体呈现壁虎形状。
 published: true
-date: 2024-04-29T09:30:50.365Z
+date: 2024-05-01T09:54:32.071Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-29T09:30:50.365Z
 ---
 
-**壁虎**是一种普通魔物，身体呈现壁虎形状。
+**壁虎**是一种普通魔族，身体呈现壁虎形状。
 
 <!-- 在这里放置图像 -->
 
