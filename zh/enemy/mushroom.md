@@ -1,14 +1,14 @@
 ---
 title: 蘑菇
-description: 一种普通魔物，身体呈现蘑菇形状。
+description: 一种普通魔族，身体呈现蘑菇形状。
 published: true
-date: 2024-04-29T04:43:10.575Z
+date: 2024-05-01T10:02:45.906Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-29T04:43:10.575Z
 ---
 
-**蘑菇**是一种普通魔物，身体呈现蘑菇形状。
+**蘑菇**是一种普通魔族，身体呈现蘑菇形状。
 
 <!-- 在这里放置图像 -->
 
