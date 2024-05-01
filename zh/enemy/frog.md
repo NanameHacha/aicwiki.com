@@ -1,14 +1,14 @@
 ---
 title: 沼蛙
-description: 一种普通魔物，身体呈现巨大的青蛙状。
+description: 一种普通魔族，身体呈现巨大的青蛙状。
 published: true
-date: 2024-04-29T12:58:10.435Z
+date: 2024-05-01T10:02:03.168Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-29T12:58:10.435Z
 ---
 
-**沼蛙**是一种普通魔物，身体呈现巨大的青蛙状。
+**沼蛙**是一种普通魔族，身体呈现巨大的青蛙状。
 
 <!-- 在这里放置图像 -->
 
