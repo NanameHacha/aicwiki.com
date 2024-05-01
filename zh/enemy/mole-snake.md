@@ -1,14 +1,14 @@
 ---
 title: 土蛇
-description: 一种普通魔物，身体呈现巨蛇状。
+description: 一种普通魔族，身体呈现巨蛇状。
 published: true
-date: 2024-04-30T13:19:16.095Z
+date: 2024-05-01T09:54:10.827Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-29T08:24:35.895Z
 ---
 
-**土蛇**是一种普通魔物，身体呈现巨蛇状。
+**土蛇**是一种普通魔族，身体呈现巨蛇状。
 
 <!-- 在这里放置图像 -->
 
