@@ -1,14 +1,14 @@
 ---
 title: 史莱姆
-description: 一种普通魔物，身体呈现果冻状。
+description: 一种普通魔族，身体呈现果冻状。
 published: true
-date: 2024-04-30T13:20:12.679Z
+date: 2024-05-01T09:53:28.651Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-03-01T07:42:39.673Z
 ---
 
-**史莱姆**是一种普通魔物，身体呈现果冻状。
+**史莱姆**是一种普通魔族，身体呈现果冻状。
 
 <!-- 在这里放置图像 -->
 
