@@ -1,14 +1,14 @@
 ---
 title: 木偶
-description: 一种普通魔物，身体呈现机械的人形。
+description: 一种普通魔族，身体呈现机械的人形。
 published: true
-date: 2024-04-29T04:18:37.602Z
+date: 2024-05-01T09:56:14.149Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-28T11:21:35.486Z
 ---
 
-**木偶**是一种普通魔物，身体呈现机械的人形。
+**木偶**是一种普通魔族，身体呈现机械的人形。
 
 <!-- 在这里放置图像 -->
 
