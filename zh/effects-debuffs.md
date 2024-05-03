@@ -2,7 +2,7 @@
 title: 异常状态
 description: Alice In Cradle 异常状态
 published: true
-date: 2024-05-02T08:39:55.140Z
+date: 2024-05-03T16:16:17.843Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:17:50.485Z
@@ -10,10 +10,11 @@ dateCreated: 2024-01-29T18:17:50.485Z
 
 # 异常状态
 
+### 在用户界面中可被显示的状态
 - 濒死：HP 在最大 HP 的 15% 以下。
 - ![45px-debuffdead.webp](/assets/global/effects-debuffs/45px-debuffdead.webp?ver=240205fix =20x20) 无法战斗：HP 为 0，在怪物们满足回去之前，请耐心等待吧。
-- ![45px-debuffexhausted.webp](/assets/global/effects-debuffs/45px-debuffexhausted.webp =20x20) 枯竭：MP 在最大 MP 的 20% 以下，无法进行奔跑和闪避。
-- ![45px-alice_in_cradle_buff_破盾.webp](/assets/global/effects-debuffs/45px-alice_in_cradle_buff_破盾.webp =20x20) 破盾：护盾被击碎的状态。到恢复正常为止将受到 1.5 倍的伤害。
+- ![45px-debuffexhausted.webp](/assets/global/effects-debuffs/45px-debuffexhausted.webp =20x20) 枯竭：MP 在最大 MP 的 20% 以下，无法奔跑和闪避。
+- ![45px-alice_in_cradle_buff_破盾.webp](/assets/global/effects-debuffs/45px-alice_in_cradle_buff_破盾.webp =20x20) 破盾：护盾被击碎的状态。此状态下受到的伤害将增加一半。
 - 丸吞：被吞进魔物体内的状态。进行抵抗，或者等魔物自己吐出。
 - ![45px-debuffsleep.webp](/assets/global/effects-debuffs/45px-debuffsleep.webp =20x20) 睡眠：忍不住睡意。在醒来之前无法行动。受到攻击会略微缩短睡眠时间。
 - ![45px-debuffconfuse.webp](/assets/global/effects-debuffs/45px-debuffconfuse.webp =20x20) 混乱：上下左右的操控颠倒。
@@ -36,9 +37,13 @@ dateCreated: 2024-01-29T18:17:50.485Z
 - ![45px-debuffembarassed.webp](/assets/global/effects-debuffs/45px-debuffembarassed.webp =20x20) 羞耻：因为羞耻导致精神很难集中的状态。虽然在和敌人接触时更不容易摔倒，但在咏唱时受到攻击的话更容易散落魔力。
   - 羞耻（魔力流失）：因为羞耻导致精神很难集中的状态。虽然在和敌人接触时更不容易摔倒，但在咏唱时受到攻击的话更容易散落魔力。
   - 羞耻（沾湿）：弄脏了内裤的状态。虽然在和敌人接触时更不容易摔倒，但在咏唱时受到攻击的话更容易散落魔力。
-  - 羞耻（兴奋）：无法抑制住兴奋的状态。虽然在和敌人接触时更不容易摔倒，但在咏唱时受到攻击的话更容易散落魔力。
+  - 羞耻（兴奋）：[兴奋率>50%]无法抑制住兴奋的状态。虽然在和敌人接触时更不容易摔倒，但在咏唱时受到攻击的话更容易散落魔力。
+- 晕乎乎：摄入酒精后意识属于飘飘欲仙的状态；从料理中获得的增益效果按等级减少[每级别减少10%]；一定程度上防止心之容器破裂，但魔力恢复效率降低。
+  该效果无法借坐在长椅上解除，只可以战斗一段时间或饮水恢复。
+  - 晕乎乎 Lv.2：[在拥有晕乎乎Lv.1效果时再次酒后]偶尔会踉跄跌倒在地。
+  - 晕乎乎 Lv.3：[在拥有晕乎乎Lv.2效果时再次酒后]偶尔会踉跄跌倒在地。~~(真不应该喝这么多的)~~
 - ![45px-debuffincubated.webp](/assets/global/effects-debuffs/45px-debuffincubated.webp =20x20) 怀卵：子宫中怀有魔物的卵的状态。魔法攻击力略微上升，但会降低咏唱速度和普通攻击力。会对魔法的咏唱和「魔法霰弹」产生反应，并吸收 MP。返回据点后可自行取出。
-  - 怀卵 Lv.2：【卵填充70%以上的MP计量槽^*存疑*^】兴奋度变得更容易上升。MP 计量槽变得非常容易破裂。产卵时的排出时间增加一倍。卵会自动排出。
+  - 怀卵 Lv.2：【卵填充70%^*存疑*^以上的MP计量槽】兴奋度变得更容易上升。MP 计量槽变得非常容易破裂。产卵时的排出时间增加一倍。卵会自动排出。
 - 产卵：魔物的卵孵化，并往子宫外排出的状态。在产卵结束之前无法行动。
 - 无法产卵：产道中塞满了异物，似乎无法将卵排出。
 - 恍惚：刚刚高潮过后的余韵。无法进行奔跑、且移动速度减慢。稍微防止MP计量槽的破裂。降低魔力的恢复效率。
@@ -48,3 +53,6 @@ dateCreated: 2024-01-29T18:17:50.485Z
 - 植物寄生：会从宿主身上慢慢吸取 HP。必须要打倒施加这一效果的敌人方可解除。
 - ![45px-alice_in_cradle_buff_尿意_lv1.webp](/assets/global/effects-debuffs/45px-alice_in_cradle_buff_尿意_lv1.webp =20x20) 尿意：想去洗手间。MP 计量槽变得容易破裂。容易从拘束中挣脱。
   - ![alice_in_cradle_buff_尿意_lv2.webp](/assets/global/effects-debuffs/alice_in_cradle_buff_尿意_lv2.webp =20x20) 尿意 Lv2：跌倒时可能会失禁。
+#### - 特殊用途：
+- 在![alice_in_cradle_buff_尿意_lv2.webp](/assets/global/effects-debuffs/alice_in_cradle_buff_尿意_lv2.webp =20x20)尿意Lv.2和晕乎乎(>Lv.2)时由于获得晕乎乎的场所特殊且更容易失禁，从而在格拉提亚触发特殊剧情和彩蛋；
+- 在![45px-debuffincubated.webp](/assets/global/effects-debuffs/45px-debuffincubated.webp =20x20)怀卵Lv.2下，"诺艾尔的卵"的品质恒定为✦✦✦✦✦，并且可以自行产出，这提供了一种借助虫墙批量生产诺艾尔的卵的途径。
