@@ -2,7 +2,7 @@
 title: 剧情章节
 description: Alice In Cradle 剧情章节
 published: true
-date: 2024-02-02T12:50:43.984Z
+date: 2024-05-03T03:41:20.785Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T15:24:16.755Z
@@ -23,6 +23,7 @@ dateCreated: 2024-01-29T15:24:16.755Z
   - （1.2）前往城镇
   - （1.3）给兽人帮忙
   - （1.4）击败大型魔族救出伊夏同学
+  - （1.5）前往贝尔米特士官学园
   
 以下剧情目前未实装，译名为暂定，可能与最终作品不同。
 - 【2】幽灵（<ruby>幽霊<rt>The Ghost</rt></ruby>）
