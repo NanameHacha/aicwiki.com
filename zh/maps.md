@@ -2,7 +2,7 @@
 title: 地图
 description: Alice In Cradle 地图
 published: true
-date: 2024-05-03T06:31:00.889Z
+date: 2024-05-03T06:36:24.832Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:06:39.646Z
@@ -25,7 +25,7 @@ dateCreated: 2024-01-29T18:06:39.646Z
 
 ### NPC刷新点
 
-![1313px-alice_in_cradle_地图_编织者之森_npc刷新点_ver.20230924a.webp](/assets/zh_cn/地图/alice_in_cradle_地图_编织者之森_npc刷新点_ver.20230924a_fork.webp){ .pixelated-image }
+![1313px-alice_in_cradle_地图_编织者之森_npc刷新点_ver.20230924a.webp](/assets/zh_cn/地图/alice_in_cradle_地图_编织者之森_npc刷新点_ver.20230924a_fork.webp)
 
 ### 地图明细
 
@@ -111,11 +111,17 @@ dateCreated: 2024-01-29T18:06:39.646Z
 
 ## 恩惠之城「格拉提亚」
 
-![alice_in_cradle_地图_格拉提亚_ver.20240503b.png](/assets/zh_cn/地图/alice_in_cradle_地图_格拉提亚_ver.20240503b.png){ .pixelated-image style="max-width: 990px" }
+![alice_in_cradle_地图_格拉提亚_ver.20240503b.png](/assets/zh_cn/地图/alice_in_cradle_地图_格拉提亚_ver.20240503b.png){ .pixelated-image .map-grazia }
+
+<style>
+  .v-main .contents img.map-grazia {
+  	max-width: min(495px, 100%);
+  }
+</style>
 
 ## 贝尔米特士官学园
 
-![贝尔米特士官学园](/assets/zh_cn/地图/alice_in_cradle_地图_贝尔米特士官学园_025a.png){ .pixelated-image }
+![贝尔米特士官学园](/assets/zh_cn/地图/alice_in_cradle_地图_贝尔米特士官学园_025a.png)
 
 ### 房间名
 
