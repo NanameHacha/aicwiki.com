@@ -2,7 +2,7 @@
 title: 地图
 description: Alice In Cradle 地图
 published: true
-date: 2024-05-03T06:40:03.365Z
+date: 2024-05-04T07:03:25.729Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:06:39.646Z
@@ -17,11 +17,11 @@ dateCreated: 2024-01-29T18:06:39.646Z
 
 ## 魔女的杂货店
 
-![alice_in_cradle_地图_魔女的杂货店_ver.20230915a.webp](/assets/zh_cn/地图/alice_in_cradle_地图_魔女的杂货店_ver.20230915a_fork.webp){ .pixelated-image }
+![alice_in_cradle_地图_魔女的杂货店_ver.20230915a.webp](/assets/zh_cn/地图/alice_in_cradle_地图_魔女的杂货店_ver.20230915a_fork.webp =324x){ .pixelated-image }
 
 ## 编织者之森
 
-![1313px-alice_in_cradle_地图_编织者之森_ver.20230924a.webp](/assets/zh_cn/地图/alice_in_cradle_地图_编织者之森_ver.20230924a_fork.webp){ .pixelated-image }
+![1313px-alice_in_cradle_地图_编织者之森_ver.20230924a.webp](/assets/zh_cn/地图/alice_in_cradle_地图_编织者之森_ver.20230924a_fork.webp =1750x){ .pixelated-image }
 
 ### NPC刷新点
 
@@ -111,7 +111,7 @@ dateCreated: 2024-01-29T18:06:39.646Z
 
 ## 恩惠之城「格拉提亚」
 
-![alice_in_cradle_地图_格拉提亚_ver.20240503b.png](/assets/zh_cn/地图/alice_in_cradle_地图_格拉提亚_ver.20240503c.png){ .pixelated-image .map-grazia }
+![alice_in_cradle_地图_格拉提亚_ver.20240503b.png](/assets/zh_cn/地图/alice_in_cradle_地图_格拉提亚_ver.20240503c.png =495x){ .pixelated-image }
 
 ## 贝尔米特士官学园
 
