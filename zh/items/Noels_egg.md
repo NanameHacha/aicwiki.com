@@ -2,8 +2,8 @@
 title: 诺艾儿的卵
 description: ……疼死了。只要未陷入无法战斗的状态，便可安全回收。虽然不太情愿……
 published: true
-date: 2024-05-04T06:51:53.879Z
-tags: item-egg, item-made_by_noel
+date: 2024-05-04T12:20:30.757Z
+tags: item, item-egg, item-made-in-noel
 editor: markdown
 dateCreated: 2024-05-04T06:51:53.879Z
 ---
