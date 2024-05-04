@@ -2,7 +2,7 @@
 title: 版本记录
 description: 记录了各个版本的发布日期
 published: true
-date: 2024-05-04T07:19:21.954Z
+date: 2024-05-04T16:02:42.135Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T19:07:22.980Z
@@ -15,6 +15,7 @@ dateCreated: 2024-01-29T19:07:22.980Z
 ## 0.25
 | 版本号 | 发布日期 |
 | - | - |
+| 0.25b | 2024 年 5 月 4 日 |
 | 0.25a | 2024 年 5 月 2 日 |
 
 ## 0.24
