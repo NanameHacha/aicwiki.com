@@ -2,7 +2,7 @@
 title: 地图
 description: Alice In Cradle 地图
 published: true
-date: 2024-05-04T07:03:25.729Z
+date: 2024-05-04T07:04:33.321Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:06:39.646Z
@@ -21,7 +21,7 @@ dateCreated: 2024-01-29T18:06:39.646Z
 
 ## 编织者之森
 
-![1313px-alice_in_cradle_地图_编织者之森_ver.20230924a.webp](/assets/zh_cn/地图/alice_in_cradle_地图_编织者之森_ver.20230924a_fork.webp =1750x){ .pixelated-image }
+![1313px-alice_in_cradle_地图_编织者之森_ver.20230924a.webp](/assets/zh_cn/地图/alice_in_cradle_地图_编织者之森_ver.20230924a_fork.webp =875x){ .pixelated-image }
 
 ### NPC刷新点
 
