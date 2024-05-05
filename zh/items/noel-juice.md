@@ -2,7 +2,7 @@
 title: 诺艾儿汁
 description: 持有空瓶且诺艾儿漏出魔力或液体时自动获得。虽说可以恢复少量魔力……
 published: true
-date: 2024-05-05T16:02:26.253Z
+date: 2024-05-05T16:02:44.200Z
 tags: item, item-water, item-made-in-noel
 editor: markdown
 dateCreated: 2024-05-04T16:10:45.794Z
@@ -33,11 +33,11 @@ dateCreated: 2024-05-04T16:10:45.794Z
 ## 烹饪
 | 品质 | 烹饪后的效果 |
 | - | - |
-| ✦ | MP上限+6%<br><ruby style="color: #d03231;">**异常状态持续时间+19%<br>异常状态抗性-12%**<ruby> |
-| ✦✦ | MP上限+10%<br><ruby style="color: #d03231;">**异常状态持续时间+32%<br>异常状态抗性-18%**<ruby> |
-| ✦✦✦ | MP上限+13%<br><ruby style="color: #d03231;">**异常状态持续时间+49%<br>异常状态抗性-25%**<ruby> |
-| ✦✦✦✦ | MP上限+16%<br><ruby style="color: #d03231;">**异常状态持续时间+69%<br>异常状态抗性-31%**<ruby> |
-| ✦✦✦✦✦ | MP上限+20%<br><ruby style="color: #d03231;">**异常状态持续时间+96%<br>异常状态抗性-37%**<ruby> |
+| ✦ | MP上限+6%<br><ruby style="color: #d03231;">**异常状态持续时间+19%<br>异常状态抗性-12%**</ruby> |
+| ✦✦ | MP上限+10%<br><ruby style="color: #d03231;">**异常状态持续时间+32%<br>异常状态抗性-18%**</ruby> |
+| ✦✦✦ | MP上限+13%<br><ruby style="color: #d03231;">**异常状态持续时间+49%<br>异常状态抗性-25%**</ruby> |
+| ✦✦✦✦ | MP上限+16%<br><ruby style="color: #d03231;">**异常状态持续时间+69%<br>异常状态抗性-31%**</ruby> |
+| ✦✦✦✦✦ | MP上限+20%<br><ruby style="color: #d03231;">**异常状态持续时间+96%<br>异常状态抗性-37%**</ruby> |
 涉及该物品的料理/炼金术：
 - 三明治
 - 汉堡
