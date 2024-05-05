@@ -2,7 +2,7 @@
 title: 诺艾儿汁
 description: 持有空瓶且诺艾儿漏出魔力或液体时自动获得。虽说可以恢复少量魔力……
 published: true
-date: 2024-05-05T15:58:54.029Z
+date: 2024-05-05T16:02:26.253Z
 tags: item, item-water, item-made-in-noel
 editor: markdown
 dateCreated: 2024-05-04T16:10:45.794Z
@@ -23,11 +23,11 @@ dateCreated: 2024-05-04T16:10:45.794Z
 ## 直接使用
 | 品质 | 效果 |
 | - | - |
-| ✦ | 恢复2MP<br><ruby style="color:#8b508c;">增加19兴奋度<ruby>* |
-| ✦✦ | 恢复3MP<br><ruby style="color:#8b508c;">增加29兴奋度<ruby> |
-| ✦✦✦ | 恢复4MP<br><ruby style="color:#8b508c;">增加39兴奋度<ruby> |
-| ✦✦✦✦ | 恢复5MP<br><ruby style="color:#8b508c;">增加49兴奋度<ruby> |
-| ✦✦✦✦✦ | 恢复6MP<br><ruby style="color:#8b508c;">增加59兴奋度<ruby> |
+| ✦ | 恢复2MP<br><ruby style="color:#8b508c;">增加19兴奋度</ruby>* |
+| ✦✦ | 恢复3MP<br><ruby style="color:#8b508c;">增加29兴奋度</ruby> |
+| ✦✦✦ | 恢复4MP<br><ruby style="color:#8b508c;">增加39兴奋度</ruby> |
+| ✦✦✦✦ | 恢复5MP<br><ruby style="color:#8b508c;">增加49兴奋度</ruby> |
+| ✦✦✦✦✦ | 恢复6MP<br><ruby style="color:#8b508c;">增加59兴奋度</ruby> |
 \*在图鉴中为“降低-19兴奋度”，下同。
 
 ## 烹饪
