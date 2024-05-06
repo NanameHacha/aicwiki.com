@@ -2,15 +2,14 @@
 title: 诺艾儿汁
 description: 持有空瓶且诺艾儿漏出魔力或液体时自动获得。虽说可以恢复少量魔力……
 published: true
-date: 2024-05-05T16:02:44.200Z
+date: 2024-05-06T04:38:41.345Z
 tags: item, item-water, item-made-in-noel
 editor: markdown
 dateCreated: 2024-05-04T16:10:45.794Z
 ---
 
-# 诺艾尔汁
 **名称依品质可变。**
-| <img style="float: left;" src="此处放物品图标" alt="物品图标" /> ||
+| <img style="float: left;" src="此处放物品图标" /> ||
 | - | - |
 | 持有空瓶且诺艾儿漏出<br>魔力和液体时自动获得。<br>虽说可以恢复少量魔力…… ||
 | 类别 | 液体、诺艾儿自产 |
