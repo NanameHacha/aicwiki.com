@@ -2,14 +2,13 @@
 title: 诺艾儿的卵
 description: ……疼死了。只要未陷入无法战斗的状态，便可安全回收。虽然不太情愿……
 published: true
-date: 2024-05-06T04:09:39.028Z
+date: 2024-05-06T04:39:10.055Z
 tags: item, item-egg, item-made-in-noel
 editor: markdown
 dateCreated: 2024-05-04T06:51:53.879Z
 ---
 
-诺艾儿的卵
-| <img style="float: left;" src="此处放物品图标" alt="物品图标" />诺艾儿的卵（<ruby>ノエルの卵<rt>Noel egg</rt></ruby>） ||
+| <img style="float: left;" src="此处放物品图标" />诺艾儿的卵（<ruby>ノエルの卵<rt>Noel egg</rt></ruby>） ||
 | - | - |
 | ……疼死了<br>只要未陷入无法战斗的状态，<br>便可以安全回收<br>虽然不太情愿……||
 | 类别 | 蛋类、诺艾儿自产 |
