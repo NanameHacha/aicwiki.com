@@ -2,13 +2,13 @@
 title: 诺艾儿乳
 description: 本该是生宝宝的精灵母亲才会分泌的东西……
 published: true
-date: 2024-05-06T04:37:15.555Z
+date: 2024-05-06T04:45:31.520Z
 tags: item, item-water, item-made-in-noel, item-milk
 editor: markdown
 dateCreated: 2024-05-05T11:21:50.973Z
 ---
 
-| <img style="float: left;" src="此处放物品图标" />诺艾儿乳（<ruby>ノエルミルク<rt>——</rt></ruby>） ||
+| <img style="float: left;" src="此处放物品图标" />诺艾儿乳（<ruby>ノエルミルク<rt>Noel Milk</rt></ruby>） ||
 | - | - |
 | 本该是生宝宝的精灵母亲才会分泌的东西……<br>调制完毕后需要空瓶子才能带走。 ||
 | 类别 | 诺艾尔自产、乳品、液体 |
