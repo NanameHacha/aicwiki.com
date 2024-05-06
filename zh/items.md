@@ -2,7 +2,7 @@
 title: 物品
 description: 物品标签目录
 published: true
-date: 2024-02-02T13:06:51.719Z
+date: 2024-05-06T04:22:23.223Z
 tags: gameplay, index
 editor: markdown
 dateCreated: 2024-01-29T19:08:32.726Z
@@ -22,6 +22,8 @@ dateCreated: 2024-01-29T19:08:32.726Z
   - [珠宝矿石](/t/item/item-mineral)
   - [战利品](/t/item/item-monster-drop)
   - [缓冲材料](/t/item/item-cushioning)
+  - [豆类](/t/item/item-bean)
+  - [乳品](/t/item/item-milk)
 
 # 食材
 - [食材](/t/item/item-food)
