@@ -2,13 +2,13 @@
 title: 地图标注印章
 description: 用于记录在地图上标注的信息的附加设备。只要有一个就可以在地图上任意进行标注。
 published: true
-date: 2024-05-06T05:02:35.489Z
+date: 2024-05-07T16:35:19.658Z
 tags: item, item-precious-item
 editor: markdown
 dateCreated: 2024-05-06T05:02:35.489Z
 ---
 
-| <img style="float: left;" src="此处放物品图标" />地图标注印章（<ruby>マップ用マーカー<rt>Map Marker</rt></ruby>） ||
+| 地图标注印章（<ruby>マップ用マーカー<rt>Map Marker</rt></ruby>） ||
 | - | - |
 | 用于记录在地图上标注的信息的附加设备。<br>只要有一个就可以在地图上任意进行标注。||
 | 类别 | 重要物品 |
