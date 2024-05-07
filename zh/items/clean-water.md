@@ -2,8 +2,8 @@
 title: 清水
 description: 喝了之后能让心情变得舒畅一点。调制完毕后需要空瓶子才能带走。
 published: true
-date: 2024-02-02T12:43:08.646Z
-tags: item, item-food, item-healing, item-water
+date: 2024-05-07T12:13:22.018Z
+tags: item, item-food, item-healing, item-water, item-calms-ep
 editor: markdown
 dateCreated: 2024-01-29T19:14:49.774Z
 ---
