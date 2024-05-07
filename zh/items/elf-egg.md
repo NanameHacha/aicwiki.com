@@ -2,13 +2,13 @@
 title: 精灵的卵
 description: 不知又是谁在被蹂躏的痛苦中产下的结晶。不论魔族们多么可恶，不得不承认这些卵的营养价值着实让人垂涎三尺……
 published: true
-date: 2024-05-05T11:12:59.055Z
+date: 2024-05-07T16:32:07.217Z
 tags: item, item-egg
 editor: markdown
 dateCreated: 2024-05-05T11:12:59.055Z
 ---
 
-| <img style="float: left;" src="此处放物品图标" />精灵的卵（<ruby>エルフの卵<rt>Elf Egg</rt></ruby>） ||
+| <img style="float: left; image-rendering: pixelated;" src="/assets/global/items/common_egg.png" alt="物品图标" />精灵的卵（<ruby>エルフの卵<rt>Elf Egg</rt></ruby>） ||
 | - | - |
 |  不知又是谁在被蹂躏的痛苦中产下的结晶。<br>不论魔族们多么可恶，不得不承认<br>这些卵的营养价值着实让人垂涎三尺……||
 | 类别 | 食材、蛋类 |
