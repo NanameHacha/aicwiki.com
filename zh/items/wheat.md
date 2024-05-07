@@ -2,13 +2,13 @@
 title: 小麦
 description: 地上城市以这种植物作为主食。可作为便携食品的素材。
 published: true
-date: 2024-02-02T12:41:42.760Z
+date: 2024-05-07T16:34:50.062Z
 tags: item, item-food, item-grain
 editor: markdown
 dateCreated: 2024-01-29T19:15:34.181Z
 ---
 
-| <img style="float: left;" src="此处放物品图标" />小麦（<ruby>コムギ<rt>Wheat</rt></ruby>） ||
+| <img style="float: left; image-rendering: pixelated;" src="/assets/global/items/common_grain.png" alt="物品图标" />小麦（<ruby>コムギ<rt>Wheat</rt></ruby>） ||
 | - | - |
 | 地上城市以这种植物作为主食。可作为便携食品的素材。 ||
 | 类别 | 食材、谷物 |
