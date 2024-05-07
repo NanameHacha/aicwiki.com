@@ -2,8 +2,8 @@
 title: 诺艾儿汁
 description: 持有空瓶且诺艾儿漏出魔力或液体时自动获得。虽说可以恢复少量魔力……
 published: true
-date: 2024-05-06T04:38:41.345Z
-tags: item, item-water, item-made-in-noel
+date: 2024-05-07T12:14:29.462Z
+tags: item, item-water, item-made-in-noel, item-calms-ep
 editor: markdown
 dateCreated: 2024-05-04T16:10:45.794Z
 ---
@@ -12,7 +12,7 @@ dateCreated: 2024-05-04T16:10:45.794Z
 | <img style="float: left;" src="此处放物品图标" /> ||
 | - | - |
 | 持有空瓶且诺艾儿漏出<br>魔力和液体时自动获得。<br>虽说可以恢复少量魔力…… ||
-| 类别 | 液体、诺艾儿自产 |
+| 类别 | 液体、诺艾儿自产、兴奋率相关 |
 | 名称 | ✦ 诺艾尔汁（<ruby>ノエルジュース<rt>Noel Juice</rt></ruby>）<br>✦✦ 热乎乎的诺艾尔汁（<ruby>ほかほかノエルジュース<rt>Nice and warm Noel Juice</rt></ruby>）<br>✦✦✦ 鲜榨的诺艾尔汁（<ruby>搾りたてノエルジュース<rt>Freshly juiced Noel Juice</rt></ruby>）<br>✦✦✦✦ 品质优良的诺艾尔汁（<ruby>品質管理済ノエルジュース<rt>Q.C-passed Noel Juice</rt></ruby>）<br>✦✦✦✦✦ 诺艾尔汁·初酿（<ruby>ノエルジュース・ヌーヴォー<rt>Noel Juice Nouveau</rt></ruby>） |
 | 基础价格/售价(兑锭) | 57/19 ✦<br>71/23 ✦✦<br>85/28 ✦✦✦<br>99/33 ✦✦✦✦<br>114/38 ✦✦✦✦✦ |
 | 可堆叠 | 5 |
