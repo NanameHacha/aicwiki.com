@@ -2,13 +2,13 @@
 title: 腐烂的食物
 description: 因暴露在魔力环境下而腐烂的食物。已经不能吃了。
 published: true
-date: 2024-02-02T12:44:31.678Z
+date: 2024-05-07T16:38:30.367Z
 tags: item, item-junk
 editor: markdown
 dateCreated: 2024-01-29T19:11:21.372Z
 ---
 
-| <img style="float: left;" src="此处放物品图标" />腐烂的食物（<ruby>腐った料理<rt>Spoiled Food</rt></ruby>） ||
+| <img style="float: left; image-rendering: pixelated;" src="/assets/global/items/spoiled_food.png" alt="物品图标" />腐烂的食物（<ruby>腐った料理<rt>Spoiled Food</rt></ruby>） ||
 | - | - |
 | 因暴露在魔力环境下而腐烂的食物。已经不能吃了。 ||
 | 类别 | 废品 |
