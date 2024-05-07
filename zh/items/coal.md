@@ -2,13 +2,13 @@
 title: 煤炭
 description: 因为会弄脏手所以不太想碰，但要使用炼金术就绝对会用到。
 published: true
-date: 2024-05-06T04:39:32.397Z
+date: 2024-05-07T16:20:18.157Z
 tags: item, item_crafting
 editor: markdown
 dateCreated: 2024-05-05T15:38:11.202Z
 ---
 
-| <img style="float: left;" src="此处放物品图标" />煤炭（<ruby>石炭<rt>Coal</rt></ruby>） ||
+| <img style="float: left; image-rendering: pixelated;" src="/assets/global/items/common_item.png" alt="物品图标" />煤炭（<ruby>石炭<rt>Coal</rt></ruby>） ||
 | - | - |
 | 因为会弄脏手所以不太想碰，但要使用炼金术就绝对会用到。 ||
 | 类别 | 工艺原料 |
