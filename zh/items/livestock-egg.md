@@ -2,15 +2,15 @@
 title: 家禽蛋
 description: 养在山里的家禽生下的蛋。居然把还未孵化的生物做成菜肴吃掉，我们可真是罪孽深重。但正因如此，它才有这般美味吧。
 published: true
-date: 2024-02-02T12:38:52.176Z
+date: 2024-05-07T16:32:58.601Z
 tags: item, item-food, item-egg
 editor: markdown
 dateCreated: 2024-01-29T19:18:11.909Z
 ---
 
-| <img style="float: left;" src="此处放物品图标" />家禽蛋（<ruby>家畜の卵<rt>Livestock Egg</rt></ruby>） ||
+| <img style="float: left; image-rendering: pixelated;" src="/assets/global/items/egg.png" alt="物品图标" />家禽蛋（<ruby>家畜の卵<rt>Livestock Egg</rt></ruby>） ||
 | - | - |
-| 养在山里的家禽生下的蛋。居然把还未孵化的生物做成菜肴吃掉，我们可真是罪孽深重。但正因如此，它才有这般美味吧。 ||
+| 养在山里的家禽生下的蛋。<br>居然把还未孵化的生物做成菜肴吃掉，我们可真是罪孽深重。<br>但正因如此，它才有这般美味吧。 ||
 | 类别 | 食材、蛋类 |
 | 基础价格/售价 | 50/20 ✦<br>75/30 ✦✦<br>100/40 ✦✦✦<br>125/50 ✦✦✦✦<br>150/60 ✦✦✦✦✦ |
 | 可堆叠 | 20 |
