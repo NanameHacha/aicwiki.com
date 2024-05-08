@@ -2,14 +2,14 @@
 title: 诺艾儿汁
 description: 持有空瓶且诺艾儿漏出魔力或液体时自动获得。虽说可以恢复少量魔力……
 published: true
-date: 2024-05-07T16:27:28.008Z
+date: 2024-05-08T03:53:20.200Z
 tags: item, item-water, item-made-in-noel, item-calms-ep, item-recovers-mp
 editor: markdown
 dateCreated: 2024-05-04T16:10:45.794Z
 ---
 
 **名称依品质可变。**
-| <img style="float: left; image-rendering: pixelated;" src="/assets/global/items/noel_juice.png" alt="物品图标" /> ||
+| <img style="float: left; image-rendering: pixelated;" src="/assets/global/items/noel_juice_bottle.png" alt="物品图标" /> ||
 | - | - |
 | 持有空瓶且诺艾儿漏出魔力和液体时自动获得。<br>虽说可以恢复少量魔力…… ||
 | 类别 | 液体、诺艾儿自产、MP恢复、兴奋率相关 |
