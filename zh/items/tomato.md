@@ -2,19 +2,20 @@
 title: 番茄
 description: 多汁粘稠的口感不太能接受。但做成番茄酱就很喜欢了。
 published: true
-date: 2024-05-07T16:22:40.579Z
+date: 2024-05-08T04:15:45.808Z
 tags: item, item-food, item-vegetable
 editor: markdown
 dateCreated: 2024-01-29T19:13:52.772Z
 ---
 
-| <img style="float: left; image-rendering: pixelated;" src="/assets/global/items/common_vegetable.png" alt="物品图标" />番茄（<ruby>トマト<rt>Tomato</rt></ruby>） ||
+| <div markdown>![物品图标](/assets/global/items/common_vegetable.png) <span>番茄（<ruby>トマト<rt>Tomato</rt></ruby>）</span></div>||
 | - | - |
 | 多汁粘稠的口感不太能接受。但做成番茄酱就很喜欢了。 ||
 | 类别 | 食材、蔬菜 |
 | 基础价格/售价 | 45/18 ✦<br>67/27 ✦✦<br>90/36 ✦✦✦<br>112/45 ✦✦✦✦<br>135/54 ✦✦✦✦✦ |
 | 可堆叠 | 20 |
 | 饱腹度 | 1 |
+{ .info-table }
 
 # 用途
 ## 烹饪
