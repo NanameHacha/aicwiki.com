@@ -2,7 +2,7 @@
 title: 诺艾儿的卵
 description: ……疼死了。只要未陷入无法战斗的状态，便可安全回收。虽然不太情愿……
 published: true
-date: 2024-05-08T04:19:55.826Z
+date: 2024-05-08T17:39:56.828Z
 tags: item, item-egg, item-made-in-noel
 editor: markdown
 dateCreated: 2024-05-04T06:51:53.879Z
@@ -32,4 +32,4 @@ dateCreated: 2024-05-04T06:51:53.879Z
 - 华夫饼
 # 获取方式
 - 在诺艾儿拥有![45px-debuffincubated.webp](/assets/global/effects-debuffs/45px-debuffincubated.webp =20x20)怀卵异常状态且经过一段时间(怀卵Lv.2则即刻排出)
-  - 能够致使诺艾儿怀卵的魔族：虫墙、史莱姆(污染体)、
+  - 能够致使诺艾儿怀卵的魔族：虫墙、[史莱姆(污染体)](/zh/enemy/slime-contaminated)、[蘑菇(污染体)](/zh/enemy/mushroom-contaminated)
