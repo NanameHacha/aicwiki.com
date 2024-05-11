@@ -2,8 +2,8 @@
 title: 香薰
 description: 进行休息室剧情所必要的步骤
 published: true
-date: 2024-05-11T10:28:52.495Z
-tags: 
+date: 2024-05-11T10:30:49.682Z
+tags: gameplay
 editor: markdown
 dateCreated: 2024-05-11T10:28:52.495Z
 ---
