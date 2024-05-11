@@ -2,8 +2,8 @@
 title: 魔族一览
 description: Alice In Cradle 魔族一览
 published: true
-date: 2024-05-11T08:37:45.068Z
-tags: gameplay
+date: 2024-05-11T11:19:45.140Z
+tags: gameplay, index
 editor: markdown
 dateCreated: 2024-01-29T18:11:16.969Z
 ---
@@ -33,7 +33,7 @@ dateCreated: 2024-01-29T18:11:16.969Z
 
 许多魔族的攻击拥有拼刀机制，即在精准的时机使用轻攻击、魔法霰弹或护盾冲击可以将攻击弹开并打断。
 
-# 编织者之森
+# 魔族列表
 
 ## 普通
 
