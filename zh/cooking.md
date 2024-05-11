@@ -2,11 +2,14 @@
 title: 烹饪
 description: 一种制作料理的方法
 published: true
-date: 2024-05-11T09:17:12.884Z
+date: 2024-05-11T09:40:57.066Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-05-11T09:16:03.298Z
 ---
+
+> 关于制作扩容材料合成系统，请见[合成](/zh/crafting)。
+{.is-info}
 
 **烹饪**（日语：**<span lang="ja">料理</span>**，英语：**Cooking**）是一种制作料理的方法，通过在序章中与哥哥提尔德·柯涅尔的交谈解锁。使用食材进行烹饪可以制作料理，并使得料理拥有食材所限定的属性加成。食用较高属性的料理可以极大提升战斗体验，甚至对胜负起到决定性的作用。
 
