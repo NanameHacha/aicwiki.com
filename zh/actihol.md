@@ -1,8 +1,8 @@
 ---
 title: 酿造
-description: 一种制作酒类饮品的方法
+description: 一种使用酿造桶制作酒类饮品的方法
 published: true
-date: 2024-05-11T09:51:18.943Z
+date: 2024-05-11T09:51:45.666Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-05-11T09:51:18.943Z
