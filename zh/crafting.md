@@ -2,13 +2,13 @@
 title: 合成
 description: 一种使用工作台制作升级物件的方法
 published: true
-date: 2024-05-11T09:57:58.093Z
+date: 2024-05-11T10:51:04.568Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-05-11T09:30:21.121Z
 ---
 
-> 关于炼金系统，请见[炼金](/zh/alchemy)。
+> 关于制作消耗品或容器的炼金系统，请见[炼金](/zh/alchemy)。
 {.is-info}
 
 **合成**是一种使用工作台制作升级物件的方法，目前仅可合成空瓶收纳槽或对背包进行容量扩容。合成得到的扩容效果永久有效。
