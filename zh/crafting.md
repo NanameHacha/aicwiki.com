@@ -1,8 +1,8 @@
 ---
 title: 合成
-description: 
+description: 一种使用工作台制作升级物件的方法
 published: true
-date: 2024-05-11T09:30:21.121Z
+date: 2024-05-11T09:30:36.677Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-11T09:30:21.121Z
