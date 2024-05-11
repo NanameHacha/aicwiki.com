@@ -2,7 +2,7 @@
 title: 快速参考
 description: 此页面列举了所有内容和索引
 published: true
-date: 2024-05-11T10:40:49.440Z
+date: 2024-05-11T10:41:11.773Z
 tags: index
 editor: markdown
 dateCreated: 2024-01-29T19:10:30.693Z
@@ -33,7 +33,7 @@ dateCreated: 2024-01-29T19:10:30.693Z
 ## 图鉴
 - [物品](/zh/items)
 - [地图](/zh/maps)
-- [魔族](/zh/enemy-list)
+- [魔族](/zh/enemy)
 - [宝箱转轮](/zh/chest-reels)
 
 # 游戏衍生
