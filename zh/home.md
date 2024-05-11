@@ -2,7 +2,7 @@
 title: 简体中文百科
 description: Alice In Cradle 简体中文百科 - 由社区编辑者编写
 published: true
-date: 2024-04-12T20:14:02.880Z
+date: 2024-05-11T09:02:53.649Z
 tags: index
 editor: markdown
 dateCreated: 2024-01-29T14:45:09.477Z
@@ -27,5 +27,18 @@ dateCreated: 2024-01-29T14:45:09.477Z
 
 本游戏由原作者进行日文版与英文版的制作，其他语言的译本为粉丝与志愿者投稿，简体中文版本已由简中 A 与简中 B 合并，以及繁体中文、韩文和泰文各一个版本。如无特别说明，本百科中的人名、事件、物品、魔法、地名等译名均以简体中文译本为准。
 
+# 相关内容
+## 周边
+> “全球”站点的支持国家请以网站内实际情况为准。
+{.is-info}
+- 中国大陆：[喵德斯企业店](https://store.nyads.cn)
+- 全球站点：[Nyads Store](https://nyads.net/collections/aliceincradle)
+## 表情包
+- Discord：请在Discord频道内购买
+- Line：[StickerShop](https://store.line.me/stickershop/product/25649586)
+- BiliBili
+  - 充电表情包：于B站[@AliceInCradle官方](https://space.bilibili.com/3493078251866300)处加入包月充电6元档及以上即可使用
+  - 装扮表情包：于B站购买特定装扮套装（正在上架）后即可使用
+- QQ：购买表情包即可使用（正在上架）
 # 内容讨论与问题反馈
 请加入 [Alice In Cradle Discord](https://discord.gg/aliceincradle) 后访问<code>wiki-discussion</code>频道。
