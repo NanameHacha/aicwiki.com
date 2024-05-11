@@ -1,8 +1,8 @@
 ---
 title: 魔族
-description: Alice In Cradle 魔族一览
+description: 一种外观普遍为通体漆黑、带有红色轮廓和标志性白色方块印记的生物
 published: true
-date: 2024-05-11T11:24:50.457Z
+date: 2024-05-11T11:25:44.492Z
 tags: gameplay, index
 editor: markdown
 dateCreated: 2024-01-29T18:11:16.969Z
