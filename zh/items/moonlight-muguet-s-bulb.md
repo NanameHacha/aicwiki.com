@@ -2,13 +2,13 @@
 title: 铃兰球茎
 description: 似乎有剧毒的样子。姐姐经常跟我强调，这个东西绝对不能放进嘴里。
 published: true
-date: 2024-05-08T04:20:59.425Z
+date: 2024-05-12T14:12:14.082Z
 tags: item, item-material
 editor: markdown
 dateCreated: 2024-01-29T19:17:00.482Z
 ---
 
-| <div markdown>![物品图标](/assets/global/items/common_plant.png) <span>铃兰球茎（<ruby>鈴蘭の球根<rt>Moonlight Muguet's Bulb</rt></ruby>）</span></div> ||
+| <div markdown>![物品图标](/assets/global/items/common_plant.png) <span>铃兰球茎（<ruby lang="ja">鈴蘭の球根<rt>Moonlight Muguet's Bulb</rt></ruby>）</span></div> ||
 | - | - |
 | 似乎有剧毒的样子。姐姐经常跟我强调，这个东西绝对不能放进嘴里。 ||
 | 类别 | 素材 |
