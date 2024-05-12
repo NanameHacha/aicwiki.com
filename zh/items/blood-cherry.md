@@ -2,13 +2,13 @@
 title: 血樱桃
 description: 吃下去可以恢复少量体力。这种水果不但吃起来很美味，而且附带治愈效果，有珍贵的药用价值呢。
 published: true
-date: 2024-05-08T04:17:51.773Z
+date: 2024-05-12T14:10:55.369Z
 tags: item, item-food, item-healing, item-fruit, item-heals-hp
 editor: markdown
 dateCreated: 2024-01-29T19:13:07.207Z
 ---
 
-| <div markdown>![物品图标](/assets/global/items/blood_cherry.png) <span>血樱桃（<ruby>ブラッドチェリー<rt>Blood Cherry</rt></ruby>）</span></div>||
+| <div markdown>![物品图标](/assets/global/items/blood_cherry.png) <span>血樱桃（<ruby lang="ja">ブラッドチェリー<rt>Blood Cherry</rt></ruby>）</span></div>||
 | - | - |
 | 吃下去可以恢复少量体力。<br>这种水果不但吃起来很美味，而且附带治愈效果，有珍贵的药用价值呢。 ||
 | 类别 | 保健品、食材、水果、HP恢复 |
