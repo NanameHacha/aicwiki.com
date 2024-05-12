@@ -2,13 +2,13 @@
 title: 小瓶香料
 description: 伏沦岭特产的小瓶香辛料。气味令人食欲大开。
 published: true
-date: 2024-05-08T04:09:21.756Z
+date: 2024-05-12T14:08:46.825Z
 tags: item, item-food, item-seasoning
 editor: markdown
 dateCreated: 2024-01-29T19:17:30.746Z
 ---
 
-| <div markdown>![物品图标](/assets/global/items/bottle_of_spices.png) <span>小瓶香料（<ruby>スパイスの小瓶<rt>Bottle of Spices</rt></ruby>）</span></div>||
+| <div markdown>![物品图标](/assets/global/items/bottle_of_spices.png) <span>小瓶香料（<ruby lang="ja">スパイスの小瓶<rt>Bottle of Spices</rt></ruby>）</span></div>||
 | - | - |
 | 伏沦岭特产的小瓶香辛料。气味令人食欲大开。 ||
 | 类别 | 食材、调味料 |
