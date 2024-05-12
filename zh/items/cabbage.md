@@ -2,13 +2,13 @@
 title: 卷心菜
 description: 拿来做沙拉会更好吃。
 published: true
-date: 2024-05-08T03:58:21.954Z
+date: 2024-05-12T14:07:53.917Z
 tags: item, item-food, item-vegetable
 editor: markdown
 dateCreated: 2024-01-29T19:06:08.868Z
 ---
 
-| <div markdown>![物品图标](/assets/global/items/common_vegetable.png) <span>卷心菜（<ruby>キャベツ<rt>Cabbage</rt></ruby>）</span></div> ||
+| <div markdown>![物品图标](/assets/global/items/common_vegetable.png) <span>卷心菜（<ruby lang="ja">キャベツ<rt>Cabbage</rt></ruby>）</span></div> ||
 | - | - |
 | 拿来做沙拉会更好吃。 ||
 | 类别 | 食材、蔬菜 |
