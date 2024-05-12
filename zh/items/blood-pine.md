@@ -2,13 +2,13 @@
 title: 血菠萝
 description: 吃下去可以恢复一些体力。这种水果不但吃起来很美味，而且附带治愈效果，有珍贵的药用价值呢。
 published: true
-date: 2024-05-08T04:19:09.955Z
+date: 2024-05-12T14:11:18.808Z
 tags: item, item-food, item-healing, item-fruit, item-heals-hp
 editor: markdown
 dateCreated: 2024-01-29T19:11:58.662Z
 ---
 
-| <div markdown>![物品图标](/assets/global/items/blood_pine.png) <span>血菠萝（<ruby>ブラッドパイン<rt>Blood Pine</rt></ruby>）</span></div>||
+| <div markdown>![物品图标](/assets/global/items/blood_pine.png) <span>血菠萝（<ruby lang="ja">ブラッドパイン<rt>Blood Pine</rt></ruby>）</span></div>||
 | - | - |
 | 吃下去可以恢复一些体力。<br>这种水果不但吃起来很美味，而且附带治愈效果，有珍贵的药用价值呢。 ||
 | 类别 | 保健品、食材、水果、HP恢复 |
