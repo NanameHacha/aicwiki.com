@@ -2,13 +2,13 @@
 title: 清水
 description: 喝了之后能让心情变得舒畅一点。调制完毕后需要空瓶子才能带走。
 published: true
-date: 2024-05-08T03:56:09.173Z
+date: 2024-05-12T14:09:20.429Z
 tags: item, item-food, item-healing, item-water, item-calms-ep
 editor: markdown
 dateCreated: 2024-01-29T19:14:49.774Z
 ---
 
-| <div markdown>![物品图标](/assets/global/items/clean_water_bottle.png) <span>清水（<ruby>新鮮な水<rt>Clean Water</rt></ruby>）</span></div> ||
+| <div markdown>![物品图标](/assets/global/items/clean_water_bottle.png) <span>清水（<ruby lang="ja">新鮮な水<rt>Clean Water</rt></ruby>）</span></div> ||
 | - | - |
 | 喝了之后能让心情变得舒畅一点。调制完毕后需要空瓶子才能带走。 ||
 | 类别 | 保健品、食材、液体、兴奋率相关 |
