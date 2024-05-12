@@ -2,7 +2,7 @@
 title: 简体中文百科
 description: Alice In Cradle 简体中文百科 - 由社区编辑者编写
 published: true
-date: 2024-05-11T10:42:53.233Z
+date: 2024-05-12T14:04:29.201Z
 tags: index
 editor: markdown
 dateCreated: 2024-01-29T14:45:09.477Z
@@ -21,7 +21,7 @@ dateCreated: 2024-01-29T14:45:09.477Z
  
 > “ <ruby>可怜即可爱！<rt>かわいそうはかわいい！</rt></ruby>”<p style="text-align: right;">**——ひなゆあ**</p>
 
-<img style="float: right;" src="/assets/global/hello.png"/>《**<ruby style="color: #b47f4d;">Alice<rt>アリス</rt> In<rt>イン</rt> Cradle<rt>クレイドル</rt></ruby>**》是一款由<a href="https://twitter.com/hinayua_r18" target="_blank" style="color: #56bcf9;">ひなゆあ</a>、<a href="https://twitter.com/HashinoMizuha" target="_blank" style="color: #f6c5cb;">橋野みずは</a>开发的 R-18 同人 ACT 游戏，目前正在制作中。
+<img style="float: right;" src="/assets/global/hello.png"/>《**<ruby style="color: #b47f4d;">Alice<rt>アリス</rt> In<rt>イン</rt> Cradle<rt>クレイドル</rt></ruby>**》是一款由<a href="https://twitter.com/hinayua_r18" target="_blank" style="color: #56bcf9;" lang="ja">ひなゆあ</a>、<a href="https://twitter.com/HashinoMizuha" target="_blank" style="color: #f6c5cb;" lang="ja">橋野みずは</a>开发的 R-18 同人 ACT 游戏，目前正在制作中。
 
 游戏不定期在 [ci-en]、[fantia]、[官网]和[中文官网]进行免费的试玩版发布，目前最新的试玩版本为 <code id="aic_zip_verdis_global">VER_DISPLAY</code>。
 
@@ -31,7 +31,7 @@ dateCreated: 2024-01-29T14:45:09.477Z
 
 # 相关内容
 ## 周边
-> <code>全球站点</code>的支持国家请以网站内实际情况为准。
+> **全球站点**的支持国家请以网站内实际情况为准。
 {.is-info}
 - 中国大陆：[喵德斯企业店](https://store.nyads.cn)
 - 全球站点：[Nyads Store](https://nyads.net/collections/aliceincradle)
