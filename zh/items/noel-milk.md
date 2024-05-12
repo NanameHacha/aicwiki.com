@@ -2,13 +2,13 @@
 title: 诺艾儿乳
 description: 本该是生宝宝的精灵母亲才会分泌的东西……
 published: true
-date: 2024-05-08T03:54:56.504Z
+date: 2024-05-12T14:11:32.171Z
 tags: item, item-heals-hp, item-water, item-made-in-noel, item-milk, item-calms-ep, item-recovers-mp
 editor: markdown
 dateCreated: 2024-05-05T11:21:50.973Z
 ---
 
-| <div markdown>![物品图标](/assets/global/items/noel_juice_bottle.png) <span>诺艾儿乳（<ruby>ノエルミルク<rt>Noel Milk</rt></ruby>）</span></div> ||
+| <div markdown>![物品图标](/assets/global/items/noel_juice_bottle.png) <span>诺艾儿乳（<ruby lang="ja">ノエルミルク<rt>Noel Milk</rt></ruby>）</span></div> ||
 | - | - |
 | 本该是生宝宝的精灵母亲才会分泌的东西……<br>调制完毕后需要空瓶子才能带走。 ||
 | 类别 | 诺艾尔自产、乳品、液体、HP恢复、MP恢复、兴奋率相关 |
