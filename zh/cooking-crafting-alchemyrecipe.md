@@ -2,7 +2,7 @@
 title: 烹饪、炼金与合成
 description: Alice In Cradle 烹饪、炼金与合成
 published: true
-date: 2024-02-26T05:52:36.469Z
+date: 2024-05-18T21:01:32.640Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T17:53:49.048Z
@@ -13,6 +13,9 @@ dateCreated: 2024-01-29T17:53:49.048Z
 <script type="module" src="/assets/zh_cn/excel/料理与烹饪/loader/料理与烹饪-2.js"></script>
 <script type="module" src="/assets/zh_cn/excel/炼金与合成/loader/炼金-1.js"></script>
 <script type="module" src="/assets/zh_cn/excel/炼金与合成/loader/炼金-2.js"></script>
+
+> 此页面已被拆分，请勿编辑此页面。
+{.error}
 
 # 烹饪、炼金与合成
 
