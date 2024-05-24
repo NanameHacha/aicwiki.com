@@ -2,7 +2,7 @@
 title: 烹饪
 description: 一种制作料理的方法
 published: true
-date: 2024-05-24T13:56:09.052Z
+date: 2024-05-24T14:57:41.433Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-11T09:16:03.298Z
@@ -79,7 +79,7 @@ dateCreated: 2024-05-11T09:16:03.298Z
 
 </details>
 
-特殊地，最大HP与最大MP受料理效果影响的计算方法为：
+特殊地，最大HP与最大MP受料理效果影响的计算规则如下：
 
 <details>
   <summary>点击展开</summary>
