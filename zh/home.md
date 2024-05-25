@@ -2,7 +2,7 @@
 title: 简体中文百科
 description: Alice In Cradle 简体中文百科 - 由社区编辑者编写
 published: true
-date: 2024-05-25T05:48:30.559Z
+date: 2024-05-25T05:49:33.639Z
 tags: index
 editor: markdown
 dateCreated: 2024-01-29T14:45:09.477Z
@@ -44,6 +44,6 @@ dateCreated: 2024-01-29T14:45:09.477Z
 - QQ：
   - [AIC](https://zb.vip.qq.com/hybrid/emoticonmall/detail?id=238796)
   - [AIC02](https://zb.vip.qq.com/hybrid/emoticonmall/detail?id=238966)
-  ![aicqqs.webp](https://cdn.sa.net/2024/05/25/Gt49iIV6FK7rNjn.webp)
+![aicqqs.webp](https://cdn.sa.net/2024/05/25/Gt49iIV6FK7rNjn.webp)
 # 内容讨论与问题反馈
 请加入 [Alice In Cradle Discord](https://discord.gg/aliceincradle) 后访问 `wiki-discussion` 频道。
