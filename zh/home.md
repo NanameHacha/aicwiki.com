@@ -2,7 +2,7 @@
 title: 简体中文百科
 description: Alice In Cradle 简体中文百科 - 由社区编辑者编写
 published: true
-date: 2024-05-20T12:49:52.080Z
+date: 2024-05-25T05:46:58.862Z
 tags: index
 editor: markdown
 dateCreated: 2024-01-29T14:45:09.477Z
@@ -41,6 +41,7 @@ dateCreated: 2024-01-29T14:45:09.477Z
 - BiliBili
   - 充电表情包：于B站[@AliceInCradle官方](https://space.bilibili.com/3493078251866300)处加入包月充电6元档及以上即可使用
   - 装扮表情包：于B站购买特定装扮套装（正在上架）后即可使用
-- QQ：[QQ表情商城](https://zb.vip.qq.com/hybrid/emoticonmall/detail?id=238796)
+- QQ：
+  ![aicqqs.webp](https://cdn.sa.net/2024/05/25/Gt49iIV6FK7rNjn.webp)
 # 内容讨论与问题反馈
 请加入 [Alice In Cradle Discord](https://discord.gg/aliceincradle) 后访问 `wiki-discussion` 频道。
