@@ -2,7 +2,7 @@
 title: 简体中文百科
 description: Alice In Cradle 简体中文百科 - 由社区编辑者编写
 published: true
-date: 2024-07-22T14:41:42.233Z
+date: 2024-07-22T14:43:19.578Z
 tags: index
 editor: markdown
 dateCreated: 2024-01-29T14:45:09.477Z
@@ -33,7 +33,7 @@ dateCreated: 2024-01-29T14:45:09.477Z
 ## 周边
 > **全球站点**的支持国家请以网站内实际情况为准。
 {.is-info}
-- 中国大陆：[喵德斯企业店](https://store.nyads.cn)
+- 中国大陆：[喵德斯企业店](https://nyads.taobao.com/search.htm?search=y&keyword=aliceincradle)
 - 全球站点：[Nyads Store](https://nyads.net/collections/aliceincradle)
 ## 表情包
 - Discord：请在 Discord 频道内购买
