@@ -2,7 +2,7 @@
 title: 合成
 description: 一种使用工作台制作升级物件的方法
 published: true
-date: 2024-05-21T16:44:27.785Z
+date: 2024-09-15T16:16:31.671Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-05-11T09:30:21.121Z
@@ -99,4 +99,4 @@ dateCreated: 2024-05-11T09:30:21.121Z
 - [烹饪](/zh/cooking) —— 制作料理。
 - [炼金](/zh/alchemy) —— 制作各种冒险所需的消耗品或容器。
 - [香薰](/zh/aloma) —— 进行休息室剧情所必要的步骤。
-- [酿造](/zh/actihol) —— 使用酿造桶制作酒类饮品。
+- [鸡尾饮料](/zh/actihol) —— 一种使用酿造桶制作的饮品。
