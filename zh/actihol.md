@@ -1,8 +1,8 @@
 ---
-title: 酿造
-description: 一种使用酿造桶制作酒类饮品的方法
+title: 鸡尾饮料
+description: 一种使用酿造桶制作的饮品
 published: true
-date: 2024-05-21T16:47:46.603Z
+date: 2024-09-15T16:15:39.454Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-05-11T09:51:18.943Z
@@ -11,9 +11,9 @@ dateCreated: 2024-05-11T09:51:18.943Z
 > 关于制作食物的烹饪系统，请见[烹饪](/zh/cooking)。
 {.is-info}
 
-**酿造**（暂译）是一种使用[酿造桶](/zh/items/这里应该有个链接但是没有对应的官方英译)制作酒类饮品的方法。
+**鸡尾饮料**是一种使用[酿造桶](/zh/items/keg)制作的饮品。
 
-截至当前版本，酿造系统还未正式加入。
+（待补充）
 
 # 另见
 
