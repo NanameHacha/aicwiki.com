@@ -2,7 +2,7 @@
 title: 香薰
 description: 进行休息室剧情所必要的步骤
 published: true
-date: 2024-05-11T10:30:49.682Z
+date: 2024-09-15T16:17:20.992Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-05-11T10:28:52.495Z
@@ -38,4 +38,4 @@ dateCreated: 2024-05-11T10:28:52.495Z
 - [合成](/zh/crafting) —— 使用工作台制作升级物件。
 - [烹饪](/zh/cooking) —— 制作料理。
 - [炼金](/zh/alchemy) —— 制作各种冒险所需的消耗品或容器。
-- [酿造](/zh/actihol) —— 使用酿造桶制作酒类饮品。
+- [鸡尾饮料](/zh/actihol) —— 一种使用酿造桶制作的饮品。
