@@ -2,7 +2,7 @@
 title: 地图
 description: Alice In Cradle 地图
 published: true
-date: 2024-09-15T16:11:39.192Z
+date: 2024-09-15T16:29:32.399Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:06:39.646Z
@@ -111,7 +111,7 @@ dateCreated: 2024-01-29T18:06:39.646Z
 
 ## 恩惠之城「格拉提亚」
 
-![恩惠之城「格拉提亚」](/assets/zh_cn/地图/alice_in_cradle_地图_格拉提亚_ver.20240916a.png =571x){ .pixelated-image }
+![恩惠之城「格拉提亚」](/assets/zh_cn/地图/alice_in_cradle_地图_格拉提亚_ver.20240916b.png =571x){ .pixelated-image }
 
 ## 贝尔米特士官学园
 
