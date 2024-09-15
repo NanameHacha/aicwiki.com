@@ -2,7 +2,7 @@
 title: 炼金
 description: 一种可以制作各种冒险所需的消耗品或容器的方法
 published: true
-date: 2024-05-21T16:21:35.003Z
+date: 2024-09-15T16:17:07.690Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-05-11T09:40:09.328Z
@@ -46,4 +46,4 @@ dateCreated: 2024-05-11T09:40:09.328Z
 - [合成](/zh/crafting) —— 使用工作台制作升级物件。
 - [烹饪](/zh/cooking) —— 制作料理。
 - [香薰](/zh/aloma) —— 进行休息室剧情所必要的步骤。
-- [酿造](/zh/actihol) —— 使用酿造桶制作酒类饮品。
+- [鸡尾饮料](/zh/actihol) —— 一种使用酿造桶制作的饮品。
