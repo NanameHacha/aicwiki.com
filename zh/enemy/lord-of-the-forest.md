@@ -2,7 +2,7 @@
 title: 森之领主
 description: 一种BOSS魔族，身体呈现以巨大花朵为核心的大树状。
 published: true
-date: 2024-05-01T10:01:36.612Z
+date: 2024-09-17T11:57:51.654Z
 tags: enemy, enemy-boss
 editor: markdown
 dateCreated: 2024-04-30T10:58:47.115Z
@@ -16,6 +16,8 @@ dateCreated: 2024-04-30T10:58:47.115Z
 | - | - |
 | 日文名称 | <span lang="ja">森のヌシ</span> |
 | 英文名称 | Lord of the Forest |
+| HP | 3500 |
+| MP | 1800 |
 | 掉落素材 | 无 |
 | H 演出 | 有 |
 | 相关魔物 |  |
