@@ -2,7 +2,7 @@
 title: 三角木马
 description: 一种仅能经由木偶的机关建造生成的普通魔族。
 published: true
-date: 2024-05-01T09:51:54.975Z
+date: 2024-09-17T13:43:13.300Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-29T05:34:51.598Z
@@ -16,6 +16,9 @@ dateCreated: 2024-04-29T05:34:51.598Z
 | - | - |
 | 日文名称 | <span lang="ja">木馬</span> |
 | 英文名称 | Wooden Horse |
+| 最大 HP | 150 |
+| 最大 MP | 200 |
+| 初始 MP | 0 |
 | 掉落素材 | 无 |
 | H 演出 | 有 |
 | 相关魔物 | [木偶](/zh/enemy/puppet) |
