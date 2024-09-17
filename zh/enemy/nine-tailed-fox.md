@@ -2,7 +2,7 @@
 title: 妖狐
 description: 一种普通魔族，身体呈现燃烧的九尾狐状。
 published: true
-date: 2024-05-11T08:40:50.323Z
+date: 2024-09-17T14:13:47.801Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-29T10:08:37.756Z
@@ -16,6 +16,9 @@ dateCreated: 2024-04-29T10:08:37.756Z
 | - | - |
 | 日文名称 | <span lang="ja">妖狐</span> |
 | 英文名称 | Nine-tailed Fox |
+| 最大 HP | 290 |
+| 最大 MP | 200 |
+| 初始 MP | 95 ~ 190 |
 | 掉落素材 | 无 |
 | H 演出 | 有 |
 | 相关魔物 |  |
