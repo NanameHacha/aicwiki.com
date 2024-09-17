@@ -2,7 +2,7 @@
 title: 机甲木偶
 description: 一种特殊魔族，身体呈现巨大的组装机甲人偶状。
 published: true
-date: 2024-09-17T14:55:38.532Z
+date: 2024-09-17T14:56:14.492Z
 tags: enemy, enemy-special
 editor: markdown
 dateCreated: 2024-05-01T09:21:46.425Z
@@ -21,11 +21,11 @@ dateCreated: 2024-05-01T09:21:46.425Z
 | 初始 MP | 50 ~ 150 |
 | 掉落素材 | 无 |
 | H 演出 | 有 |
-| 相关魔物 | [木偶商人](zh/enemy/puppet-npc)、[木偶](/zh/enemy/puppet)、[木偶（污染体）](/zh/enemy/puppet-contaminated) |
+| 相关魔物 | [木偶商人](/zh/enemy/puppet-npc)、[木偶](/zh/enemy/puppet)、[木偶（污染体）](/zh/enemy/puppet-contaminated) |
 
 # 出现地点
 
-机甲木偶会在诺艾儿杀死[木偶商人](zh/enemy/puppet-npc)后在以下战斗点随机出现：裂隙看守者、盗掘者、遛狗公园、机关人偶、菌丝之王、装配试验间。详见[木偶复仇战](/zh/battle-locations/puppet-revenge)。
+机甲木偶会在诺艾儿杀死[木偶商人](/zh/enemy/puppet-npc)后在以下战斗点随机出现：裂隙看守者、盗掘者、遛狗公园、机关人偶、菌丝之王、装配试验间。详见[木偶复仇战](/zh/battle-locations/puppet-revenge)。
 
 # 行动方式
 
