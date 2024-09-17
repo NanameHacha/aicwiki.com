@@ -1,8 +1,8 @@
 ---
 title: 木偶的造物：弓
-description: 一种仅能经由木偶的建造生成的机关
+description: 一种仅能经由木偶的建造生成的机关。
 published: true
-date: 2024-09-17T14:02:24.157Z
+date: 2024-09-17T15:17:54.796Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-29T05:22:10.821Z
