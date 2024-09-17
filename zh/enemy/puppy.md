@@ -2,7 +2,7 @@
 title: 幼犬
 description: 一种普通魔族，身体呈现由大量触手缠绕组成的小狗形状。
 published: true
-date: 2024-05-01T09:55:24.398Z
+date: 2024-09-17T14:08:45.208Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-29T07:20:12.079Z
@@ -16,6 +16,9 @@ dateCreated: 2024-04-29T07:20:12.079Z
 | - | - |
 | 日文名称 | <span lang="ja">子犬</span> |
 | 英文名称 | Puppy |
+| 最大 HP | 10 |
+| 最大 MP | 150 |
+| 初始 MP | 50 |
 | 掉落素材 | 无 |
 | H 演出 | 有 |
 | 相关魔物 |  |
