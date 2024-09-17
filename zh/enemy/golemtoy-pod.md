@@ -2,7 +2,7 @@
 title: 木偶的造物：导弹
 description: 一种仅能经由木偶的建造生成的机关
 published: true
-date: 2024-09-17T14:03:04.543Z
+date: 2024-09-17T14:03:11.917Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-29T05:30:02.501Z
@@ -15,7 +15,7 @@ dateCreated: 2024-04-29T05:30:02.501Z
 
 <!-- 在这里放置图像 -->
 
-| 木偶的造物3 ||
+| 木偶的造物：导弹 ||
 | - | - |
 | 日文名称 | <span lang="ja"></span> |
 | 英文名称 |  |
