@@ -2,7 +2,7 @@
 title: 蘑菇
 description: 一种普通魔族，身体呈现蘑菇形状。
 published: true
-date: 2024-05-01T10:02:45.906Z
+date: 2024-09-17T13:38:45.621Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-29T04:43:10.575Z
@@ -16,6 +16,9 @@ dateCreated: 2024-04-29T04:43:10.575Z
 | - | - |
 | 日文名称 | <span lang="ja">キノコ</span> |
 | 英文名称 | Mushroom |
+| 最大 HP | 40 |
+| 最大 MP | 340 |
+| 初始 MP | 18 ~ 36 |
 | 掉落素材 | [黑棉孢子](/zh/item/black-cotton-spores) |
 | H 演出 | 无 |
 | 相关魔物 | [蘑菇（污染体）](/zh/enemy/mushroom-contaminated) |
