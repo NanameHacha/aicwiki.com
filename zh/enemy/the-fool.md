@@ -2,7 +2,7 @@
 title: 愚者
 description: 一种普通魔族，身体呈现骑着扫帚的女巫状。
 published: true
-date: 2024-05-01T09:55:51.596Z
+date: 2024-09-17T13:44:17.613Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-29T10:49:15.672Z
@@ -16,6 +16,9 @@ dateCreated: 2024-04-29T10:49:15.672Z
 | - | - |
 | 日文名称 | <span lang="ja">愚者</span> |
 | 英文名称 | The Fool |
+| 最大 HP | 90 |
+| 最大 MP | 170 |
+| 初始 MP | 28 ~ 75 |
 | 掉落素材 | 无 |
 | H 演出 | 无 |
 | 相关魔物 |  |
