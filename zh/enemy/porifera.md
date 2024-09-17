@@ -2,7 +2,7 @@
 title: 海绵
 description: 一种普通魔族，身体呈现类似蒲公英的植物形状。
 published: true
-date: 2024-05-01T10:02:24.184Z
+date: 2024-09-17T14:07:38.551Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-29T07:01:33.427Z
@@ -16,6 +16,9 @@ dateCreated: 2024-04-29T07:01:33.427Z
 | - | - |
 | 日文名称 | <span lang="ja">海綿</span> |
 | 英文名称 | Porifera |
+| 最大 HP | 190 |
+| 最大 MP | 660 |
+| 初始 MP | 25 ~ 200 |
 | 掉落素材 | [海绵的球壳](/zh/item/round-sponge-shell) |
 | H 演出 | 无 |
 | 相关魔物 |  |
