@@ -2,7 +2,7 @@
 title: 魔族页面模板
 description: 
 published: false
-date: 2024-05-01T10:04:54.048Z
+date: 2024-09-17T11:57:22.277Z
 tags: wiki-template
 editor: markdown
 dateCreated: 2024-03-01T07:29:16.666Z
@@ -16,6 +16,8 @@ dateCreated: 2024-03-01T07:29:16.666Z
 | - | - |
 | 日文名称 | <span lang="ja">这里填写日文名称</span> |
 | 英文名称 | 这里填写英文名称 |
+| HP | 不知道就填未知 |
+| MP | 不知道就填未知 |
 | 掉落素材 | 在这里填写掉落素材，没有填无 |
 | H 演出 | 有或无 |
 | 相关魔物 | 污染体变种和BOSS变种，没有填无 |
