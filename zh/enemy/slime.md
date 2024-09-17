@@ -2,7 +2,7 @@
 title: 史莱姆
 description: 一种普通魔族，身体呈现果冻状。
 published: true
-date: 2024-09-17T12:06:51.740Z
+date: 2024-09-17T13:37:10.299Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-03-01T07:42:39.673Z
@@ -17,7 +17,8 @@ dateCreated: 2024-03-01T07:42:39.673Z
 | 日文名称 | <span lang="ja">スライム</span> |
 | 英文名称 | Slime |
 | 最大 HP | 60 |
-| 初始 MP | 48 |
+| 最大 MP | 240 |
+| 初始 MP | 18 ~ 36 |
 | 掉落素材 | [史莱姆的假卵](/zh/item/fake-slime-egg) |
 | H 演出 | 有 |
 | 相关魔物 | [史莱姆（污染体）](/zh/enemy/slime-contaminated) |
