@@ -2,7 +2,7 @@
 title: 乳牛
 description: 一种出现在牧场的魔族牛。
 published: true
-date: 2024-09-17T15:18:14.797Z
+date: 2024-09-17T15:21:43.757Z
 tags: enemy, enemy-npc
 editor: markdown
 dateCreated: 2024-09-17T14:46:28.859Z
@@ -18,7 +18,7 @@ dateCreated: 2024-09-17T14:46:28.859Z
 | 英文名称 | Cow |
 | 最大 HP | 321 |
 | 最大 MP | 1920 |
-| 初始 MP | 1920 |
+| 初始 MP | 0 |
 | 掉落素材 | 无 |
 | H 演出 | 无 |
 | 相关魔物 | 无 |
