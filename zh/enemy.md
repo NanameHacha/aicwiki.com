@@ -2,7 +2,7 @@
 title: 魔族
 description: 一种外观普遍为通体漆黑、带有红色轮廓和标志性白色方块印记的生物
 published: true
-date: 2024-09-17T13:51:14.426Z
+date: 2024-09-17T13:56:53.904Z
 tags: gameplay, index
 editor: markdown
 dateCreated: 2024-01-29T18:11:16.969Z
@@ -36,7 +36,7 @@ dateCreated: 2024-01-29T18:11:16.969Z
 - [史莱姆](/zh/enemy/slime)：一种普通魔族，身体呈现果冻状。
 - [蘑菇](/zh/enemy/mushroom)：一种普通魔族，身体呈现蘑菇形状。
 - [木偶](/zh/enemy/puppet)：一种普通魔族，身体呈现机械的人形。
-- [木偶的造物1](/zh/enemy/puppet-mechanism-1)：一种仅能经由木偶的建造生成的机关。
+- [木偶的造物1](/zh/enemy/golemtoy-rm)：一种仅能经由木偶的建造生成的机关。
 - [木偶的造物：弓](/zh/enemy/golemtoy-bow)：一种仅能经由木偶的建造生成的机关。
 - [木偶的造物3](/zh/enemy/puppet-mechanism-3)：一种仅能经由木偶的建造生成的机关。
 - [三角木马](/zh/enemy/puppet-mechanism-4)：一种仅能经由木偶的机关建造生成的普通魔族。
