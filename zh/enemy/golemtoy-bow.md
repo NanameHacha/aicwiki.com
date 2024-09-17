@@ -1,12 +1,15 @@
 ---
 title: 木偶的造物：弓
-description: 一种仅能经由木偶的建造生成的机关。
+description: 一种仅能经由木偶的建造生成的机关
 published: true
-date: 2024-09-17T13:50:22.930Z
+date: 2024-09-17T14:01:52.961Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-29T05:22:10.821Z
 ---
+
+> 当前页面中的魔物名称并非官方名称，因为其在游戏中从未出现过名称。
+{.is-info}
 
 **木偶的造物：弓**是一种仅能经由木偶的建造生成的机关。
 
