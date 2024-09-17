@@ -2,11 +2,14 @@
 title: 木偶的造物：导弹
 description: 一种仅能经由木偶的建造生成的机关
 published: true
-date: 2024-09-17T13:58:17.449Z
+date: 2024-09-17T14:03:04.543Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-29T05:30:02.501Z
 ---
+
+> 该魔物名称并非官方名称，因为其在游戏中从未出现过名称。
+{.is-info}
 
 **木偶的造物：导弹**是一种仅能经由木偶的建造生成的机关。
 
