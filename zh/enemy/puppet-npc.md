@@ -1,8 +1,8 @@
 ---
 title: 木偶商人
-description: 在野外随机出现的可以与诺艾儿交易的魔族
+description: 在野外随机出现的可以与诺艾儿交易的魔族。
 published: true
-date: 2024-09-17T14:57:10.348Z
+date: 2024-09-17T15:18:08.790Z
 tags: enemy, enemy-npc
 editor: markdown
 dateCreated: 2024-09-17T14:54:48.297Z
