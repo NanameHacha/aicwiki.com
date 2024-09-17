@@ -2,7 +2,7 @@
 title: 土蛇
 description: 一种普通魔族，身体呈现巨蛇状。
 published: true
-date: 2024-05-01T09:54:10.827Z
+date: 2024-09-17T14:12:36.995Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-29T08:24:35.895Z
@@ -16,6 +16,9 @@ dateCreated: 2024-04-29T08:24:35.895Z
 | - | - |
 | 日文名称 | <span lang="ja">土蛇</span> |
 | 英文名称 | Mole Snake |
+| 最大 HP | 180 |
+| 最大 MP | 300 |
+| 初始 MP | 35 ~ 70 |
 | 掉落素材 | [蛇皮](/zh/item/snake-skin) |
 | H 演出 | 有 |
 | 相关魔物 |  |
