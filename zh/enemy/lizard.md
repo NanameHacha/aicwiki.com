@@ -2,7 +2,7 @@
 title: 壁虎
 description: 一种普通魔族，身体呈现壁虎形状。
 published: true
-date: 2024-05-01T09:54:32.071Z
+date: 2024-09-17T14:15:04.720Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-29T09:30:50.365Z
@@ -16,6 +16,9 @@ dateCreated: 2024-04-29T09:30:50.365Z
 | - | - |
 | 日文名称 | <span lang="ja">トカゲ</span> |
 | 英文名称 | Lizard |
+| 最大 HP | 100 |
+| 最大 MP | 220 |
+| 初始 MP | 40 ~ 100 |
 | 掉落素材 | [扭动的壁虎尾](/zh/item/lizard-tail) |
 | H 演出 | 有 |
 | 相关魔物 |  |
