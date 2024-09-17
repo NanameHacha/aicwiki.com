@@ -2,7 +2,7 @@
 title: 沼蛙
 description: 一种普通魔族，身体呈现巨大的青蛙状。
 published: true
-date: 2024-05-01T10:02:03.168Z
+date: 2024-09-17T14:15:52.197Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-29T12:58:10.435Z
@@ -16,6 +16,9 @@ dateCreated: 2024-04-29T12:58:10.435Z
 | - | - |
 | 日文名称 | <span lang="ja">沼蛙</span> |
 | 英文名称 | Frog |
+| 最大 HP | 420 |
+| 最大 MP | 400 |
+| 初始 MP | 60 ~ 200 |
 | 掉落素材 | 无 |
 | H 演出 | 有 |
 | 相关魔物 |  |
