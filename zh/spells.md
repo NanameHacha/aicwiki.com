@@ -2,7 +2,7 @@
 title: 魔法
 description: Alice In Cradle 魔法
 published: true
-date: 2024-09-17T13:20:37.012Z
+date: 2024-09-17T13:21:05.914Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T17:59:25.550Z
@@ -51,7 +51,7 @@ dateCreated: 2024-01-29T17:59:25.550Z
 
 但是飞散的绝大部分魔力施法者无法回收，有可能会给对手白白送上魔力。
 
-此外,在没有魔力的状态下使用爆发魔法的话，会对施法者的精神造成极大的损伤。
+此外，在没有魔力的状态下使用爆发魔法的话，会对施法者的精神造成极大的损伤。
 
 ## 雷霆电击
 
