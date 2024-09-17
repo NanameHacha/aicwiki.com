@@ -2,7 +2,7 @@
 title: 剑山
 description: 一种普通魔族，身体呈现长有尖刺的球状。
 published: true
-date: 2024-05-01T09:52:28.549Z
+date: 2024-09-17T14:10:53.813Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-29T09:14:04.114Z
@@ -16,6 +16,9 @@ dateCreated: 2024-04-29T09:14:04.114Z
 | - | - |
 | 日文名称 | <span lang="ja">剣山</span> |
 | 英文名称 | Urchin |
+| 最大 HP | 50 |
+| 最大 MP | 144 |
+| 初始 MP | 15 ~ 50 |
 | 掉落素材 | [剑山的刺](/zh/item/urchin-spine) |
 | H 演出 | 无 |
 | 相关魔物 | [剑山（污染体）](/zh/enemy/urchin-contaminated) |
