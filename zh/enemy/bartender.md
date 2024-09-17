@@ -1,8 +1,8 @@
 ---
 title: 酒保
-description: 在「三月兔」酒吧中工作的魔族酒保
+description: 在「三月兔」酒吧中工作的魔族酒保。
 published: true
-date: 2024-09-17T14:58:41.516Z
+date: 2024-09-17T15:18:20.554Z
 tags: enemy, enemy-npc
 editor: markdown
 dateCreated: 2024-09-17T14:39:55.303Z
