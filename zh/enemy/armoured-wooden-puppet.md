@@ -2,7 +2,7 @@
 title: 机甲木偶
 description: 一种特殊魔族，身体呈现巨大的组装机甲人偶状。
 published: true
-date: 2024-05-01T10:08:31.571Z
+date: 2024-09-17T14:26:31.367Z
 tags: enemy, enemy-special
 editor: markdown
 dateCreated: 2024-05-01T09:21:46.425Z
@@ -16,6 +16,9 @@ dateCreated: 2024-05-01T09:21:46.425Z
 | - | - |
 | 日文名称 | <span lang="ja">機甲木偶</span> |
 | 英文名称 | Armoured Wooden Puppet |
+| 最大 HP | 70 |
+| 最大 MP | 180 |
+| 初始 MP | 50 ~ 150 |
 | 掉落素材 | 无 |
 | H 演出 | 有 |
 | 相关魔物 | [木偶](/zh/enemy/puppet)、[木偶（污染体）](/zh/enemy/puppet-contaminated) |
