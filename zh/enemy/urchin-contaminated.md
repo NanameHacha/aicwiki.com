@@ -2,7 +2,7 @@
 title: 剑山（污染体）
 description: 一种污染体变种魔族，相比普通剑山体型更大，更具攻击性。
 published: true
-date: 2024-05-01T09:52:54.589Z
+date: 2024-09-18T08:27:25.613Z
 tags: enemy, enemy-contaminated
 editor: markdown
 dateCreated: 2024-04-30T04:21:58.678Z
@@ -16,6 +16,8 @@ dateCreated: 2024-04-30T04:21:58.678Z
 | - | - |
 | 日文名称 | <span lang="ja">剣山 (汚染体)</span> |
 | 英文名称 | Urchin (Contaminated) |
+| 最大 HP | 350 |
+| 最大 MP | 432 |
 | 掉落素材 | [剑山的刺](/zh/item/urchin-spine) |
 | H 演出 | 有 |
 | 相关魔物 | [剑山](/zh/enemy/urchin) |
