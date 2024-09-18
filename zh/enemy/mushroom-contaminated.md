@@ -2,7 +2,7 @@
 title: 蘑菇（污染体）
 description: 一种污染体变种魔族，相比普通蘑菇体型更大，更具攻击性。
 published: true
-date: 2024-05-01T10:03:10.453Z
+date: 2024-09-18T08:10:01.881Z
 tags: enemy, enemy-contaminated
 editor: markdown
 dateCreated: 2024-04-30T02:36:49.345Z
@@ -16,6 +16,8 @@ dateCreated: 2024-04-30T02:36:49.345Z
 | - | - |
 | 日文名称 | <span lang="ja">キノコ (汚染体)</span> |
 | 英文名称 | Mushroom (Contaminated) |
+| 最大 HP | 640 |
+| 最大 MP | 1190 |
 | 掉落素材 | [黑棉孢子](/zh/item/black-cotton-spores) |
 | H 演出 | 有 |
 | 相关魔物 | [蘑菇](/zh/enemy/mushroom) |
