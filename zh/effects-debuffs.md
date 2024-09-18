@@ -2,7 +2,7 @@
 title: 异常状态
 description: Alice In Cradle 异常状态
 published: true
-date: 2024-09-18T04:06:19.683Z
+date: 2024-09-18T04:07:00.599Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:17:50.485Z
@@ -66,5 +66,5 @@ dateCreated: 2024-01-29T18:17:50.485Z
 
 # 特殊用途：
 
-- 在恩惠之城「格拉提亚」的「三月兔」酒吧里很容易因晕乎乎和尿意状态而失禁，从而触发酒保的特殊剧情。
+- 在恩惠之城「格拉提亚」的「三月兔」酒吧里很容易因晕乎乎和尿意状态而失禁，从而触发[酒保](/zh/enemy/bartender)的特殊剧情。
 - 在怀卵Lv.2下，诺艾儿的卵的品质恒定为✦✦✦✦✦，并且可以自行产出。这提供了一种借助虫墙快速获取[诺艾儿的卵](/zh/items/noel-egg)的途径。
