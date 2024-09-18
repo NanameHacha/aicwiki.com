@@ -2,7 +2,7 @@
 title: 魔族
 description: 一种外观普遍为通体漆黑、带有红色轮廓和标志性白色方块印记的生物
 published: true
-date: 2024-09-17T14:57:34.955Z
+date: 2024-09-18T04:09:58.697Z
 tags: gameplay, index
 editor: markdown
 dateCreated: 2024-01-29T18:11:16.969Z
@@ -63,9 +63,9 @@ dateCreated: 2024-01-29T18:11:16.969Z
 ## 特殊
 
 - [机甲木偶](/zh/enemy/armoured-wooden-puppet)：一种特殊魔族，身体呈现巨大的组装机甲人偶状。
+- [乳牛](/zh/enemy/cow)：一种出现在牧场的魔族牛。
 
 ## NPC
 
 - [木偶商人](/zh/enemy/puppet-npc)：在野外随机出现的可以与诺艾儿交易的魔族。
-- [乳牛](/zh/enemy/cow)：一种出现在牧场的魔族牛。
 - [酒保](/zh/enemy/bartender)：在「三月兔」酒吧中工作的魔族酒保。
