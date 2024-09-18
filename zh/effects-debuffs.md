@@ -2,7 +2,7 @@
 title: 异常状态
 description: Alice In Cradle 异常状态
 published: true
-date: 2024-09-18T03:58:32.337Z
+date: 2024-09-18T04:04:15.883Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:17:50.485Z
@@ -56,6 +56,7 @@ dateCreated: 2024-01-29T18:17:50.485Z
 | ![](/assets/global/icons/abnormality/drunk_2.png =32x){ .buff-icon } | 晕乎乎 Lv.2 | 偶尔会踉踉跄跄跌倒在地。 |
 | ![](/assets/global/icons/abnormality/drunk_2.png =32x){ .buff-icon } | 晕乎乎 Lv.3 | 真不应该喝那么多的…… |
 |  | 母乳体质 | 在大地奇异力量的作用下，本应漏出诺艾儿汁的时候，流出的却常常是诺艾儿乳。究其原理……总之就是大地的奇异力量。 |
+{ .table-buff }
 
 <!-- LEGACY
 - ![](/assets/global/icons/abnormality/decline_orgasm.png =16x16) 禁止高潮：性兴奋度最高会止于95%。更容易出现欲火中烧状态。
