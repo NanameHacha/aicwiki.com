@@ -2,8 +2,8 @@
 title: 乳牛
 description: 一种出现在牧场的魔族牛。
 published: true
-date: 2024-09-17T15:21:43.757Z
-tags: enemy, enemy-npc
+date: 2024-09-18T04:10:16.841Z
+tags: enemy, enemy-special
 editor: markdown
 dateCreated: 2024-09-17T14:46:28.859Z
 ---
