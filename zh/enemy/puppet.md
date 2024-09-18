@@ -2,7 +2,7 @@
 title: 木偶
 description: 一种普通魔族，身体呈现机械的人形。
 published: true
-date: 2024-09-17T13:40:54.164Z
+date: 2024-09-18T08:19:17.066Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-28T11:21:35.486Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-28T11:21:35.486Z
 | 初始 MP | 20 ~ 70 |
 | 掉落素材 | [木偶的右手](/zh/item/golem’s-right-hand) |
 | H 演出 | 无 |
-| 相关魔物 | [木偶（污染体）](/zh/enemy/puppet-contaminated)、[木偶的造物1](/zh/enemy/puppet-mechanism-1)、[木偶的造物2](/zh/enemy/puppet-mechanism-2)、[木偶的造物3](/zh/enemy/puppet-mechanism-3)、[三角木马](/zh/enemy/puppet-mechanism-4) |
+| 相关魔物 | [巨人](/zh/enemy/giant)、[木偶的造物：噪声无人机](/zh/enemy/golemtoy-rm)、[木偶的造物：弓](/zh/enemy/golemtoy-bow)、[木偶的造物：导弹](/zh/enemy/golemtoy-pod)、[三角木马](/zh/enemy/wooden-horse) |
 
 # 出现地点
 
@@ -37,6 +37,6 @@ dateCreated: 2024-04-28T11:21:35.486Z
 
 - 木偶仅在地面活动，无法跃上台阶。
 
-- 可以通过其建造机关过程中使用的木板数量来判断正在被建造的机关种类。详见[木偶的造物1](/zh/enemy/puppet-mechanism-1)、[木偶的造物2](/zh/enemy/puppet-mechanism-2)、[木偶的造物3](/zh/enemy/puppet-mechanism-3)、[三角木马](/zh/enemy/puppet-mechanism-4)。
+- 可以通过其建造机关过程中使用的木板数量来判断正在被建造的机关种类。
 
 - 木偶的造物也算作敌人，需要全部击杀才算结束战斗。
