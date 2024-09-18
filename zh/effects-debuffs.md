@@ -2,7 +2,7 @@
 title: 异常状态
 description: 在战斗等事件中获取的负面状态效果。
 published: true
-date: 2024-09-18T05:06:16.899Z
+date: 2024-09-18T05:19:28.320Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:17:50.485Z
@@ -71,13 +71,3 @@ dateCreated: 2024-01-29T18:17:50.485Z
 | ![](/assets/global/icons/abnormality/decline_orgasm.png =32x) | 禁止高潮 | 性兴奋度最高会止于 95%。更容易出现欲火中烧状态。 |
 |  | 高潮后 | 刚高潮过后的状态。无法进行奔跑和闪避。能够防止MP计量槽的破裂。此外，兴奋度也变得更容易上升。 |
 { .table-buff }
-
-<!-- LEGACY
--  ：
-- ：
--->
-
-# 特殊用途
-
-- 在恩惠之城「格拉提亚」的「三月兔」酒吧里很容易因晕乎乎和尿意状态而失禁，从而触发[酒保](/zh/enemy/bartender)的特殊剧情。
-- 在怀卵Lv.2下，诺艾儿的卵的品质恒定为✦✦✦✦✦，并且可以自行产出。这提供了一种借助虫墙快速获取[诺艾儿的卵](/zh/items/noel-egg)的途径。
