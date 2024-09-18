@@ -2,7 +2,7 @@
 title: 魔族
 description: 一种外观普遍为通体漆黑、带有红色轮廓和标志性白色方块印记的生物
 published: true
-date: 2024-09-18T04:09:58.697Z
+date: 2024-09-18T08:15:12.399Z
 tags: gameplay, index
 editor: markdown
 dateCreated: 2024-01-29T18:11:16.969Z
@@ -53,7 +53,7 @@ dateCreated: 2024-01-29T18:11:16.969Z
 
 - [史莱姆（污染体）](/zh/enemy/slime-contaminated)：一种污染体变种魔族，相比普通史莱姆体型更大，更具攻击性。
 - [蘑菇（污染体）](/zh/enemy/mushroom-contaminated)：一种污染体变种魔族，相比普通蘑菇体型更大，更具攻击性。
-- [木偶（污染体）](/zh/enemy/puppet-contaminated)：一种污染体变种魔族，相比普通木偶体型更大，更具攻击性。
+- [巨人](/zh/enemy/giant)：一种污染体变种魔族，相比普通木偶体型更大，更具攻击性。
 - [剑山（污染体）](/zh/enemy/urchin-contaminated)：一种污染体变种魔族，相比普通剑山体型更大，更具攻击性。
 
 ## BOSS
