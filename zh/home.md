@@ -2,7 +2,7 @@
 title: 简体中文百科
 description: Alice In Cradle 简体中文百科 - 由社区编辑者编写
 published: true
-date: 2024-09-16T18:17:26.508Z
+date: 2024-10-07T07:24:10.873Z
 tags: index
 editor: markdown
 dateCreated: 2024-01-29T14:45:09.477Z
@@ -14,7 +14,7 @@ dateCreated: 2024-01-29T14:45:09.477Z
 [官网]: https://get.aliceincradle.dev
 [中文官网]: https://cn.aliceincradle.com
 
-> 本网站内容和网站建设已取得原百科中主要编辑者同意，[点击此处了解详情](https://t.bilibili.com/847892334568800257)。
+> 本网站中2023年10月2日前内容已取得原百科中主要编辑者同意，[点击此处了解详情](https://t.bilibili.com/847892334568800257)。2023年10月2日后修改/新增内容版权归内容编辑者所有，在引用本站内容时应当标明出处，且在未得到对应内容编辑者授权前不得搬运内容至其他Wiki。
 {.is-info}
 
 # Alice In Cradle
