@@ -2,7 +2,7 @@
 title: 沙盒
 description: 仅供测试编辑使用
 published: false
-date: 2024-05-10T04:20:00.447Z
+date: 2024-10-11T04:59:46.388Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-07T16:15:21.071Z
@@ -25,3 +25,16 @@ dateCreated: 2024-05-07T16:15:21.071Z
 | 可堆叠 | 8 |
 | 饱腹度 | 2 |
 { .info-table }
+
+
+# Tabs {.tabset}
+## First Tab
+![宝箱(无色种类序).jpg](/宝箱(无色种类序).jpg)
+## Second Tab
+![宝箱(有色种类序).jpg](/宝箱(有色种类序).jpg)
+## Third Tab
+![战斗点.jpg](/战斗点.jpg)
+## Third Tab
+![资源采集点.jpg](/资源采集点.jpg)
+## Third Tab
+![宝箱(无色顺序序).jpg](/宝箱(无色顺序序).jpg)
