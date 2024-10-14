@@ -2,7 +2,7 @@
 title: 地图
 description: Alice In Cradle 地图
 published: true
-date: 2024-10-14T12:33:02.441Z
+date: 2024-10-14T12:39:54.657Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:06:39.646Z
@@ -45,14 +45,11 @@ dateCreated: 2024-01-29T18:06:39.646Z
 
 #### 明细表
 
-
   
 <details>
-  <summary>战斗点[点击展开]</summary>
-战斗点内细节参见[战斗点]
-  
+  <summary>战斗点</summary> 
 <div class="table-container">  
-  
+
 | 位置<br>(序号) | 名称 | 位置<br>(序号) | 名称 |
 |---|---|---|---|
 | 1. | 鸟笼 | 17. | 酸木前餐 |
@@ -76,7 +73,7 @@ dateCreated: 2024-01-29T18:06:39.646Z
 	</details>
   
   <details>
-  <summary>资源采集点[点击展开]</summary>
+  <summary>资源采集点</summary>
 
 
   ## 资源采集点 {.tabset}
@@ -155,7 +152,7 @@ dateCreated: 2024-01-29T18:06:39.646Z
 </details> 
   
 <details>
-  <summary>宝箱[点击展开]</summary>
+  <summary>宝箱</summary>
   
   ## 宝箱 {.tabset}
   
