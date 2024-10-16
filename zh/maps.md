@@ -2,7 +2,7 @@
 title: 地图
 description: Alice In Cradle 地图
 published: true
-date: 2024-10-14T12:39:54.657Z
+date: 2024-10-16T15:20:29.668Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:06:39.646Z
@@ -35,13 +35,13 @@ dateCreated: 2024-01-29T18:06:39.646Z
 #### 明细 {.tabset}
 
 ##### 战斗点
-![alice_in_cradle_地图_编制者之森_战斗点位置_0.26a.jpg](/assets/zh_cn/地图/alice_in_cradle_地图_编制者之森_战斗点位置_0.26a.jpg)
+![alice_in_cradle_地图_编制者之森_战斗点位置_0.26a.webp](/assets/zh_cn/地图/alice_in_cradle_地图_编制者之森_战斗点位置_0.26a.webp)
 
 ##### 宝箱
-![alice_in_cradle_地图_编制者之森_宝箱位置_0.26a.jpg](/assets/zh_cn/地图/alice_in_cradle_地图_编制者之森_宝箱位置_0.26a.jpg)
+![alice_in_cradle_地图_编制者之森_宝箱位置_0.26a.webp](/assets/zh_cn/地图/alice_in_cradle_地图_编制者之森_宝箱位置_0.26a.webp)
 
 ##### 资源采集点
-![alice_in_cradle_地图_编制者之森_资源采集点位置_0.26a.jpg](/assets/zh_cn/地图/alice_in_cradle_地图_编制者之森_资源采集点位置_0.26a.jpg)
+![alice_in_cradle_地图_编制者之森_资源采集点位置_0.26a.webp](/assets/zh_cn/地图/alice_in_cradle_地图_编制者之森_资源采集点位置_0.26a.webp)
 
 #### 明细表
 
