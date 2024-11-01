@@ -2,7 +2,7 @@
 title: 表格单元格合并
 description: 
 published: true
-date: 2024-02-12T11:54:59.949Z
+date: 2024-11-01T08:14:44.957Z
 tags: wiki-guide
 editor: markdown
 dateCreated: 2024-01-29T18:45:02.560Z
@@ -115,7 +115,7 @@ srgb代码则为 `#******` 格式，例如天蓝色 `#66ccff`
 
 #### 启用加载器
 
-在需要插入表格的页面的编辑界面中，点击右上角的`页面`，进入`脚本`选项
+在需要插入表格的页面的编辑界面中，于本页源文本头部
 按每行一个填写
 `<script type="module" src="/assets/zh_cn/excel/区块目录/loader/表格加载器-x.js"></script>`
 
