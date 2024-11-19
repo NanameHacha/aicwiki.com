@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2024-02-22T06:53:08.318Z
+date: 2024-11-19T16:00:18.941Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
@@ -12,7 +12,7 @@ dateCreated: 2024-02-12T12:03:38.257Z
 > 该游戏尚处于开发阶段，最终角色介绍请以成品为准。
 {.is-info}
 
-> 本页面立绘插图版权归NanameHacha所有，仅提供给本wiki使用，不允许在其他网页或程序等地方使用本页面立绘插图。
+> 本页面立绘插图版权归NanameHacha所有，仅提供给本wiki使用，不允许在其他网页或程序等使用本页面立绘插图。
 {.is-warning}
 
 ## 柯涅尔家
