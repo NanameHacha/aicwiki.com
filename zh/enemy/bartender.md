@@ -2,7 +2,7 @@
 title: 酒保
 description: 在「三月兔」酒吧中工作的魔族酒保。
 published: true
-date: 2024-11-28T14:53:25.554Z
+date: 2024-11-28T14:54:21.106Z
 tags: enemy, enemy-npc
 editor: markdown
 dateCreated: 2024-09-17T14:39:55.303Z
@@ -25,7 +25,7 @@ dateCreated: 2024-09-17T14:39:55.303Z
 
 # 出现地点
 
-酒保通常出现在「三月兔」酒吧的吧台后，可以与诺艾儿进行交易。
+酒保通常出现在「三月兔」酒吧的吧台后。
 
 在进入酒吧贮藏室剧情时，酒保会在酒吧贮藏室出现。
 
