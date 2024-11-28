@@ -2,7 +2,7 @@
 title: 酒保
 description: 在「三月兔」酒吧中工作的魔族酒保。
 published: true
-date: 2024-09-18T07:35:47.363Z
+date: 2024-11-28T14:53:25.554Z
 tags: enemy, enemy-npc
 editor: markdown
 dateCreated: 2024-09-17T14:39:55.303Z
@@ -28,3 +28,9 @@ dateCreated: 2024-09-17T14:39:55.303Z
 酒保通常出现在「三月兔」酒吧的吧台后，可以与诺艾儿进行交易。
 
 在进入酒吧贮藏室剧情时，酒保会在酒吧贮藏室出现。
+
+# 行动方式
+
+酒保一般待在「三月兔」酒吧里，可以与诺艾儿进行交易。
+
+和[木偶商人](/zh/enemy/puppet-npc)不同的是，酒保无法被攻击。
