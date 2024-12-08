@@ -2,7 +2,7 @@
 title: 彩蛋
 description: 隐藏于游戏中的彩蛋
 published: true
-date: 2024-12-08T16:55:29.134Z
+date: 2024-12-08T16:56:35.498Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:23:32.002Z
@@ -26,7 +26,7 @@ dateCreated: 2024-01-29T18:23:32.002Z
 - 解包资源文件 ``resources.assets`` 后打开 ``hipdown.png``，可以在里面找到一只横着的橋野みずは。
 - 烹饪成功的过场画面中，诺艾尔戴着黑色眼镜撒调料的动作玩的是撒盐哥的梗。
 - 反编译游戏的 ``Assembly-CSharp.dll`` 文件在 ``SandDrawCheckBook.cs`` 文件里面定义了一个叫 ``getPageContent`` 的函数，其内容是一大段日文，把字符串取出并把换行符删掉并换行可以得到这么一段日语
-<div markdown lang="ja">
+<div markdown lang="ja" style="clear: both;">
 
 > 雑にステージエディットをしていた
 > 時に発覚したリフトバグを修正。
