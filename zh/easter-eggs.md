@@ -2,7 +2,7 @@
 title: 彩蛋
 description: 隐藏于游戏中的彩蛋
 published: true
-date: 2024-12-08T16:53:41.476Z
+date: 2024-12-08T16:55:29.134Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:23:32.002Z
@@ -20,7 +20,7 @@ dateCreated: 2024-01-29T18:23:32.002Z
 - 在诺艾儿的房间内挂着的风铃中，有一个挂的实际上是埴轮，另有一个是强化插槽。
 - ![room_forest_secret_glacier_0.png](/assets/global/easter-eggs/room_forest_secret_glacier_0.webp =150x110){.align-right}在遛狗公园（ドッグラン）正上方有一个区域，环境和整个编织者森林完全不同，天空颜色不随时间变化，播放着轻缓的钢琴曲。
 - 使用二进制编辑器打开存档文件，在文件开头会看到 “kawaisou ha kawaii. kono game ga ironna hito ni todokimasu youni. by hinayua” 的字样（即：“<span lang=ja>かわいそうはかわいい。このゲームが色んな人に届きますように。——byひなゆあ</span>”，意为：“可怜即可爱。祝愿本游戏能够邂逅形形色色的玩家。——hinayua敬上”）。
-- ![AliceInCradle文字解译.png](/assets/zh_cn/彩蛋/aliceincradle文字解译_20241209a.png =250x){.align-right}游戏内有一套独特的文字，根据其样式可分为印刷体、手写体和仅存在于法杖文字中的像素字体。“J” 和 “K” 在法杖文中最初是互相对调的，作者一开始称是刻意为之，但后来还是在 0.22 版本中被当成 BUG 修复了。根据世界观设定，法杖文和现代文略有不同。
+- ![AliceInCradle文字解译.png](/assets/zh_cn/彩蛋/aliceincradle文字解译_20241209a.png =250x){.align-right}游戏内有一套独特的文字，根据其样式可分为印刷字体和像素字体。
   - 不同类型的宝箱写有不同的文字，除了插件宝箱使用了强化插槽图标、道具宝箱使用了法杖象形文字以外，分为金币宝箱（**K**insen）、**H**P 宝箱、**M**P 宝箱、技能宝箱（**S**kill）和埴轮人偶宝箱（**Y**???）。
 - 解包资源文件 ``resources.assets`` 后打开 ``fatal_snake.png``，可以在里面找到一只橋野みずは。
 - 解包资源文件 ``resources.assets`` 后打开 ``hipdown.png``，可以在里面找到一只横着的橋野みずは。
