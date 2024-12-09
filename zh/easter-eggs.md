@@ -2,7 +2,7 @@
 title: 彩蛋
 description: 隐藏于游戏中的彩蛋
 published: true
-date: 2024-12-08T16:56:35.498Z
+date: 2024-12-09T03:00:18.938Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:23:32.002Z
@@ -20,8 +20,6 @@ dateCreated: 2024-01-29T18:23:32.002Z
 - 在诺艾儿的房间内挂着的风铃中，有一个挂的实际上是埴轮，另有一个是强化插槽。
 - ![room_forest_secret_glacier_0.png](/assets/global/easter-eggs/room_forest_secret_glacier_0.webp =150x110){.align-right}在遛狗公园（ドッグラン）正上方有一个区域，环境和整个编织者森林完全不同，天空颜色不随时间变化，播放着轻缓的钢琴曲。
 - 使用二进制编辑器打开存档文件，在文件开头会看到 “kawaisou ha kawaii. kono game ga ironna hito ni todokimasu youni. by hinayua” 的字样（即：“<span lang=ja>かわいそうはかわいい。このゲームが色んな人に届きますように。——byひなゆあ</span>”，意为：“可怜即可爱。祝愿本游戏能够邂逅形形色色的玩家。——hinayua敬上”）。
-- ![AliceInCradle文字解译.png](/assets/zh_cn/彩蛋/aliceincradle文字解译_20241209a.png =250x){.align-right}游戏内有一套独特的文字，根据其样式可分为印刷字体和像素字体。
-  - 不同类型的宝箱写有不同的文字，除了插件宝箱使用了强化插槽图标、道具宝箱使用了法杖象形文字以外，分为金币宝箱（**K**insen）、**H**P 宝箱、**M**P 宝箱、技能宝箱（**S**kill）和埴轮人偶宝箱（**Y**???）。
 - 解包资源文件 ``resources.assets`` 后打开 ``fatal_snake.png``，可以在里面找到一只橋野みずは。
 - 解包资源文件 ``resources.assets`` 后打开 ``hipdown.png``，可以在里面找到一只横着的橋野みずは。
 - 烹饪成功的过场画面中，诺艾尔戴着黑色眼镜撒调料的动作玩的是撒盐哥的梗。
@@ -69,5 +67,24 @@ dateCreated: 2024-01-29T18:23:32.002Z
 > 何かを作った。/ 予定は未定。（<span lang="zh">这一段原代码是</span>`str = ((num3 >= 20) ? "何かを作った。" : "予定は未定。")`）
 
 </div>
+
+## 文字
+游戏内有一套独特的文字，根据其样式可分为印刷字体和像素字体，如图所示。
+
+![AliceInCradle文字解译.png](/assets/zh_cn/彩蛋/aliceincradle文字解译_20241209a.png =500x){.align-center}
+
+不同类型的宝箱写有不同的文字，除了插件宝箱使用了强化插槽图标、道具宝箱使用了法杖象形文字以外，分为金币宝箱（**K**insen）、**H**P 宝箱、**M**P 宝箱、技能宝箱（**S**kill）和埴轮人偶宝箱（**Y**???）。
+
+### 数字书写规则
+
+这套文字具有特殊的书写规则，游戏中在表示数字时会按规则转换。
+
+- 单独的 0 为句点 `.`。
+- 使用 `1` ~ `9` 表示数字。
+- 游戏中使用 `0`、`!`、`#` 和 `$` 表示十、百、千和万。
+  - 例如，99999 会被书写为 `9$9#9!909`。
+- 所有 0 以及不在个位或万位的 1 都要省略。
+  - 例如，11111 会被书写为 `1$#!01`。
+- 目前无法表示万位以上的数字及负数。
 
 [^1]: 即《和班尼特福迪一起攻克难关》（*Getting Over It with Bennett Foddy*）
