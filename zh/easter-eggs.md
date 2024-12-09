@@ -2,7 +2,7 @@
 title: 彩蛋
 description: 隐藏于游戏中的彩蛋
 published: true
-date: 2024-12-09T03:01:24.262Z
+date: 2024-12-09T03:07:28.048Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:23:32.002Z
@@ -73,7 +73,11 @@ dateCreated: 2024-01-29T18:23:32.002Z
 
 ![AliceInCradle文字解译.png](/assets/zh_cn/彩蛋/aliceincradle文字解译_20241209a.png =500x){.align-center}
 
+像素字体中的每一个字符使用 5 × 5 的点阵表示。
+
 不同类型的宝箱写有不同的文字，除了插件宝箱使用了强化插槽图标、道具宝箱使用了法杖象形文字以外，分为金币宝箱（**K**insen）、**H**P 宝箱、**M**P 宝箱、技能宝箱（**S**kill）和埴轮人偶宝箱（**Y**???）。
+
+像素字体中的逗号是一个完整方块 `█`，目前没有其对应的印刷字体形式。~~因其不符合灵长类生物的书写习惯未在图中展示。~~
 
 ### 数字书写规则
 
