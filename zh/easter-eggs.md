@@ -2,7 +2,7 @@
 title: 彩蛋
 description: 隐藏于游戏中的彩蛋
 published: true
-date: 2024-12-09T03:19:10.230Z
+date: 2024-12-09T04:51:35.589Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:23:32.002Z
@@ -71,7 +71,7 @@ dateCreated: 2024-01-29T18:23:32.002Z
 ## 文字
 游戏内有一套独特的文字，根据其样式可分为印刷字体和像素字体，如图所示。
 
-![AliceInCradle文字解译.png](/assets/zh_cn/彩蛋/aliceincradle文字解译_20241209a.png =500x){.align-center}
+![AliceInCradle文字解译.png](/assets/zh_cn/彩蛋/aliceincradle文字解译_20241209b.png =500x){.align-center}
 
 像素字体中的每一个字符使用 5 × 5 的点阵表示。
 
