@@ -1,24 +1,21 @@
 ---
-title: 木偶的造物：导弹
+title: 导弹发射架
 description: 一种仅能经由木偶的建造生成的机关。
 published: true
-date: 2024-09-17T15:18:00.793Z
-tags: enemy
+date: 2025-02-01T14:13:31.729Z
+tags: enemy, enemy-golemtoy
 editor: markdown
 dateCreated: 2024-04-29T05:30:02.501Z
 ---
 
-> 该魔物名称并非官方名称，因为其在游戏中从未出现过名称。
-{.is-info}
-
-**木偶的造物：导弹**是一种仅能经由木偶的建造生成的机关。
+**导弹发射架**是一种仅能经由木偶的建造生成的机关。
 
 <!-- 在这里放置图像 -->
 
-| 木偶的造物：导弹 ||
+| 导弹发射架 ||
 | - | - |
-| 日文名称 | <span lang="ja"></span> |
-| 英文名称 |  |
+| 日文名称 | <span lang="ja">ミサイルポッド</span> |
+| 英文名称 | Missile Launcher |
 | 最大 HP | 100 |
 | 最大 MP | 200 |
 | 初始 MP | 0 |
