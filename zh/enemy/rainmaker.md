@@ -1,8 +1,8 @@
 ---
-title: 光束发射台
+title: 杂波干扰器
 description: 一种仅能经由木偶的机关建造生成的普通魔族。
 published: true
-date: 2025-02-01T14:06:08.705Z
+date: 2025-02-01T14:06:40.663Z
 tags: enemy, enemy-golemtoy
 editor: markdown
 dateCreated: 2024-04-29T05:08:29.596Z
