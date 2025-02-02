@@ -2,7 +2,7 @@
 title: 相关音乐
 description: Alice In Cradle 相关音乐
 published: true
-date: 2025-02-02T09:47:54.566Z
+date: 2025-02-02T09:48:13.736Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:29:14.198Z
@@ -17,7 +17,7 @@ dateCreated: 2024-01-29T18:29:14.198Z
 
 # 相关音乐
 
->外部版权（非官网原创）曲目不在此列表中
+>外部版权（非官方原创）曲目不在此列表中
 {.is-info}
 
 | 曲目名称 | 说明 | 作曲 | 听歌 |
