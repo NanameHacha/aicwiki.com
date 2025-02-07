@@ -2,7 +2,7 @@
 title: 相关音乐
 description: Alice In Cradle 相关音乐
 published: true
-date: 2025-02-02T09:48:13.736Z
+date: 2025-02-07T08:13:24.641Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:29:14.198Z
@@ -20,25 +20,25 @@ dateCreated: 2024-01-29T18:29:14.198Z
 >外部版权（非官方原创）曲目不在此列表中
 {.is-info}
 
-| 曲目名称 | 说明 | 作曲 | 听歌 |
+| 曲目名称 | 出现场景 | 作曲 | 听歌 |
 | --- | --- | --- | --- |
-| Battle Nusi | 【待更新】 | An-fillnote | [BiliBili](https://www.bilibili.com/video/BV1Wof5YMEnZ/) |
-| Cornehl | 【待更新】 | An-fillnote | [BiliBili](https://www.bilibili.com/video/BV1ejfLYWEiw/) |
-| Cornehl Night | 【待更新】 | An-fillnote | [BiliBili](https://www.bilibili.com/video/BV19jfLYWELV/) |
-| Grazia | 【待更新】 | An-fillnote | [BiliBili](https://www.bilibili.com/video/BV13YFTeeEfN/) |
-| Battle | 【待更新】 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1kZf5YiEUK/) |
-| MGM TTR (4ASCEND) | 【待更新】 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1GYFTeeEfW/) |
-| Normal | 【待更新】 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1reF7eCE5C/) |
-| Normal (Nightingale) | 【待更新】 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1vkFBeZEvm/) |
-| Ixia Battle | 【待更新】 | ginkiha | [BiliBili]() |
-| Ixia Night | 【待更新】 | ginkiha | [BiliBili]() |
-| Ixia Normal | 【待更新】 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1CzFYexEFX/) |
-| Ixia Usual | 【待更新】 | ginkiha | [BiliBili]() |
-| Dojogame | 【待更新】 | hinayua | [BiliBili](https://www.bilibili.com/video/BV16eF7eCEdn/) |
-| Primula | 【待更新】 | rN | [BiliBili](https://www.bilibili.com/video/BV1f8FoeUEqG/) |
-| School | 【待更新】 | rN | [BiliBili](https://www.bilibili.com/video/BV1f8FoeUEc3/) |
-| Tigrina Battle | 【待更新】 | ああああ | [BiliBili](https://www.bilibili.com/video/BV1AgFDeuEAx/) |
-| Tigrina Normal | 【待更新】 | ああああ | [BiliBili](https://www.bilibili.com/video/BV1FjFDeNEVv/) |
+| Battle Nusi | 与[森之领主](/zh/enemy/lord-of-the-forest)战斗时 | An-fillnote | [BiliBili](https://www.bilibili.com/video/BV1Wof5YMEnZ/) |
+| Cornehl | 魔女的杂货店 | An-fillnote | [BiliBili](https://www.bilibili.com/video/BV1ejfLYWEiw/) |
+| Cornehl Night | 魔女的杂货店（夜间） | An-fillnote | [BiliBili](https://www.bilibili.com/video/BV19jfLYWELV/) |
+| Grazia | 标题画面、格拉提亚 | An-fillnote | [BiliBili](https://www.bilibili.com/video/BV13YFTeeEfN/) |
+| Battle | 在编织者之森战斗 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1kZf5YiEUK/) |
+| MGM TTR (4ASCEND) | 4ASCEND 小游戏 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1GYFTeeEfW/) |
+| Normal | 编织者之森 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1reF7eCE5C/) |
+| Normal (Nightingale) | 在编织者之森遇到南丁格尔 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1vkFBeZEvm/) |
+| Ixia Battle | 参与伊夏的战斗 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1ixPReEEhU) |
+| Ixia Night | 夜间遇到伊夏 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1vxPReEERx) |
+| Ixia Normal | 参与伊夏的战斗 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1CzFYexEFX) |
+| Ixia Usual | 遇到伊夏 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1ixPReEEhR) |
+| Dojogame | 在道馆进行训练 | hinayua | [BiliBili](https://www.bilibili.com/video/BV16eF7eCEdn/) |
+| Primula | 剧情 | rN | [BiliBili](https://www.bilibili.com/video/BV1f8FoeUEqG/) |
+| School | 贝尔米特学园 | rN | [BiliBili](https://www.bilibili.com/video/BV1f8FoeUEc3/) |
+| Tigrina Battle | 废弃库房 | ああああ | [BiliBili](https://www.bilibili.com/video/BV1AgFDeuEAx/) |
+| Tigrina Normal | 在废弃库房战斗 | ああああ | [BiliBili](https://www.bilibili.com/video/BV1FjFDeNEVv/) |
 
 <!-- 旧版列表 -->
 <!--<div class="table-container" id="相关音乐-1"></div>-->
