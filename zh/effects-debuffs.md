@@ -2,7 +2,7 @@
 title: 异常状态
 description: 在战斗等事件中获取的负面状态效果。
 published: true
-date: 2024-09-18T05:19:28.320Z
+date: 2025-02-13T09:48:03.899Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:17:50.485Z
@@ -25,7 +25,7 @@ dateCreated: 2024-01-29T18:17:50.485Z
 | ![](/assets/global/icons/abnormality/shield_break.png =32x){ .buff-icon } | 破盾 | 护盾被击碎的状态。到恢复正常为止将受到 1.5 倍的伤害。 |
 | ![](/assets/global/icons/abnormality/sleep.png =32x){ .buff-icon } | 睡眠 | 忍不住睡意。在醒来之前无法行动。受到攻击会略微缩短睡眠时间。 |
 | ![](/assets/global/icons/abnormality/burned.png =32x){ .buff-icon } | 燃烧 | 衣服着火了。等待其自然熄灭、或者通过接触水解除。 |
-| ![](/assets/global/icons/abnormality/frozen_1.png =32x){ .buff-icon } | 冻结 | 咏唱魔法所需的时间变为原来的 1.5 倍。移动速度和挣脱的效率也相应地降低。通过挣扎（快速地尝试往各个方向移动）可以缩短解除所花费的时间。受到物理攻击也会使此状态更快解除，但是受到的伤害会增加。 |
+| ![](/assets/global/icons/abnormality/frozen_1.png =32x){ .buff-icon } | 冻结 | 咏唱魔法所需的时间变为原来的 1.5 倍。移动速度和挣脱的效率也相应地降低。通过挣扎（快速连打方向键）可以更快地解除此状态。受到物理攻击也会加速此状态的解除，但是受到的伤害会增加。 |
 | ![](/assets/global/icons/abnormality/frozen_2.png =32x){ .buff-icon } | 冻结 Lv.2 | 咏唱魔法所需的时间变为原来的 3 倍。无法进行奔跑和闪避。移动速度和挣脱的效率也相应地降低。 |
 | ![](/assets/global/icons/abnormality/frozen_3.png =32x){ .buff-icon } | 冻结 Lv.3 | 此状态下无法移动或咏唱魔法。 |
 | ![](/assets/global/icons/abnormality/paralysis_1.png =32x){ .buff-icon } | 麻痹 | （仅在战斗中）身体偶尔会因麻痹而产生短暂硬直。 |
@@ -60,14 +60,25 @@ dateCreated: 2024-01-29T18:17:50.485Z
 | ![](/assets/global/icons/abnormality/drunk_2.png =32x){ .buff-icon } | 晕乎乎 Lv.2 | 偶尔会踉踉跄跄跌倒在地。 |
 | ![](/assets/global/icons/abnormality/drunk_2.png =32x){ .buff-icon } | 晕乎乎 Lv.3 | 真不应该喝那么多的…… |
 |  | 母乳体质 | 在大地奇异力量的作用下，本应漏出诺艾儿汁的时候，流出的却常常是诺艾儿乳。究其原理……总之就是大地的奇异力量。 |
+| <!-- icon --> | 黏糊糊 | 身上挂满粘液因此更难摆脱拘束攻击。在挣脱出来之前无法行动。 |
+| <!-- icon --> | 黏糊糊 Lv.2 | 效果增强。 |
+| <!-- icon --> | 黏糊糊 Lv.3 | 效果增强。 |
+| <!-- icon --> | 石化 | 咏唱魔法所需的时间变为原来的 1.5 倍。移动速度和挣脱的效率也相应地降低。 |
+| <!-- icon --> | 石化 Lv.2 | 咏唱魔法所需的时间变为原来的 3 倍。无法进行奔跑和闪避。移动速度和挣脱的效率也相应地降低。 |
+| <!-- icon --> | 石化 Lv.3 | 此状态下无法移动或咏唱魔法。 |
+| <!-- icon --> | 完全石化 | 身体从内到外都变成石头无法复原了…… |
+|  | 高潮蓄积 | 无法高潮带来的渴求感积少成多…在最终释放解脱的时候想必会汹涌而出。 |
 { .table-buff }
 
-## 不可获取的效果
+## 未实装的效果
 
-这些效果目前在游戏中没有任何正常途径可获取。
+以下效果目前在游戏中暂无正常途径可以获取。
 
 | 图标 | 名称 | 描述 |
 | - | - | - |
 | ![](/assets/global/icons/abnormality/decline_orgasm.png =32x) | 禁止高潮 | 性兴奋度最高会止于 95%。更容易出现欲火中烧状态。 |
+<!-- 以下为游戏本地化文件中记录的效果，即使用指令也无法获取，应该是已经废弃掉的旧版本效果，仅留此注释作为参考。
 |  | 高潮后 | 刚高潮过后的状态。无法进行奔跑和闪避。能够防止MP计量槽的破裂。此外，兴奋度也变得更容易上升。 |
+|  | 恍惚 | 刚高潮过后的状态。到恢复正常为止将受到 1.5 倍的伤害。能够防止MP计量槽的破裂。此外，兴奋度也变得更容易上升。 |
+-->
 { .table-buff }
