@@ -2,7 +2,7 @@
 title: 地图标注印章
 description: 用于记录在地图上标注的信息的附加设备。只要有一个就可以在地图上任意进行标注。
 published: true
-date: 2024-09-17T16:22:42.544Z
+date: 2025-02-21T12:03:41.395Z
 tags: item, item-precious-item
 editor: markdown
 dateCreated: 2024-05-06T05:02:35.489Z
@@ -57,7 +57,7 @@ dateCreated: 2024-05-06T05:02:35.489Z
 | ![图标](/assets/global/items/map-marker/cup.png){ .pixelated-image } | 杯子 |
 
 ### 木偶商人
-以下地图标注印章可向[木偶商人](/zh/enemy/puppet-npc)交易获取：
+以下地图标注印章可向[木偶店主](/zh/enemy/sales-puppet)交易获取：
 
 | 图标 | 名称 |
 | - | - |
