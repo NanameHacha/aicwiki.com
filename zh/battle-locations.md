@@ -2,7 +2,7 @@
 title: 战斗点
 description: Alice In Cradle 战斗点
 published: true
-date: 2024-10-14T12:48:43.967Z
+date: 2025-02-21T12:05:20.659Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:09:10.227Z
@@ -16,7 +16,7 @@ dateCreated: 2024-01-29T18:09:10.227Z
 
 一些战斗点的附近会有被藤蔓缠绕起来的机关门。这些机关门会在对应的战斗点被首次击破后打开。
 
-若诺艾儿杀死了木偶商人，则在经过一些战斗点时有几率触发木偶的复仇。参见[木偶复仇战](/zh/battle-locations/puppet-revenge)。
+若诺艾儿杀死了[木偶店主](/zh/enemy/sales-puppet)，则在经过一些战斗点时有几率触发木偶的复仇。参见[木偶复仇战](/zh/battle-locations/puppet-revenge)。
 
 ## 危险度
 
