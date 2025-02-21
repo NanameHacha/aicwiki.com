@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2025-02-21T11:52:08.947Z
+date: 2025-02-21T12:58:55.868Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
@@ -52,7 +52,7 @@ dateCreated: 2024-02-12T12:03:38.257Z
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-primulapixel.webp"><div class="character-title">普莉姆拉（<ruby lang="ja">プリムラ<rt>Primula</rt></ruby>）</div></div> ||
 | --- | --- |
-| ![600x_9_15_primula_240212_234104.webp](/assets/global/characters/bermit/600x_9_15_primula_240212_234104.webp) | **角色设计：**[すなぷあ]<br>诺艾儿的老师。<br>十分欣赏诺艾儿，认为诺艾儿天资聪颖。<br>在魔族危机之后的两周后，老师亲自来到诺艾儿家，为她进行魔力使用的复健(也就是新手教程）。<br><br>在知道诺艾儿的心声之后，她给予了诺艾儿安慰，两人在夜空下读起古代神话《爱丽丝梦游仙境》，聊起家族过去的兴衰，传授新的魔法，并在星空下吐露梦想与心声。 |
+| ![600x_9_15_primula_240212_234104.webp](/assets/global/characters/bermit/600x_9_15_primula_240212_234104.webp) | **角色设计：**[すなぷあ]<br>诺艾儿的老师。<br>十分欣赏诺艾儿，认为诺艾儿天资聪颖。<br>在魔族危机之后的两周后，老师亲自来到诺艾儿家，为她进行魔力使用的复健（也就是新手教程）。<br><br>在知道诺艾儿的心声之后，她给予了诺艾儿安慰，两人在夜空下读起古代神话《爱丽丝梦游仙境》，聊起家族过去的兴衰，传授新的魔法，并在星空下吐露梦想与心声。 |
 
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-almapixel.webp"><div class="character-title">阿尔玛・奥普菲帕姆（<ruby lang="ja">アルマ<rt>Alma</rt></ruby>・<ruby lang="ja">オプフェバム<rt>Opfebaum</rt></ruby>）</div></div> ||
@@ -62,7 +62,7 @@ dateCreated: 2024-02-12T12:03:38.257Z
 
 | <div class="character-header"><div class="character-title">蒂格蕾娜・索菈（<ruby lang="ja">ティグリナ<rt>Tigrina</rt></ruby>・<ruby lang="ja">ソアラ<rt>Soala</rt></ruby>）</div></div> ||
 | --- | --- |
-| ![蒂格蕾娜・索菈](/assets/global/characters/bermit/600x_9_14_tigrina_250221_155535.avif) | （待补充）<br><div style="width:30em"></div> |
+| ![蒂格蕾娜・索菈](/assets/global/characters/bermit/600x_9_14_tigrina_250221_155535.avif) | 机械工学科IV级生，住在精灵之村。在故事开始时与诺艾儿并不相识。<br>是机械工学科里最有天赋的学生，但性情古怪。曾未经学校上级允许私自闯入武器库，黑入最新式的设备。<br>在学校社团里创办了 “前沿工学及魔族交流研究部”，在诺艾儿加入前曾有其他部员，现已全部变成幽灵部员。<br><br>通过诺艾儿取回落在武器库的存储卡后，可以利用全息影像技术进行模拟战斗。 |
 
 ## 其他角色
 
