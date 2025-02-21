@@ -2,20 +2,19 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2025-02-21T12:58:55.868Z
+date: 2025-02-21T13:09:44.704Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
 ---
 
-# 登场角色
 > 该游戏尚处于开发阶段，最终角色介绍请以成品为准。
 {.is-info}
 
 > 本页面立绘插图版权归NanameHacha所有，仅提供给本wiki与[https://w.atwiki.jp/aliceincradle](https://w.atwiki.jp/aliceincradle)使用，不允许在其他公开网页或程序等使用本页面立绘插图。
 {.is-warning}
 
-## 柯涅尔家
+# 柯涅尔家
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-noelpixel.webp" /><div class="character-title">诺艾儿・柯涅尔（<ruby lang="ja">ノエル<rt>Noel</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）</div></div> ||
 | --- | --- |
@@ -37,12 +36,12 @@ dateCreated: 2024-02-12T12:03:38.257Z
 | ![600x_9_14_noeldad_240212_234148.webp](/assets/global/characters/cornehl/600x_9_14_noeldad_240212_234148.webp) | 诺艾儿的父亲。<br><br>目前柯涅尔家族的家主，管教严厉，对柯涅尔家族成员能力自信的同时又极为看重家族的声望，认为诺艾儿这样天赋异禀的人会遭到嫉妒，将诺艾儿两周前遇到的事故视为家族的耻辱。虽然反对诺艾儿继续进修军官课程，但尊重诺艾儿本人的意愿。 |
 
 
-- 大哥：杰斯·柯涅尔（<ruby>ゼス<rt>Zeth</rt>·コルネール<rt>Cornehl</rt></ruby>）[^1]
-- 母亲：希特拉斯·柯涅尔（<ruby>シトラス<rt>Citrus</rt>·コルネール<rt>Cornehl</rt></ruby>）
-- 祖父：贝利尔·柯涅尔（<ruby>ベリル<rt>Beryl</rt>·コルネール<rt>Cornehl</rt></ruby>）
-- 祖母：夏丝塔·柯涅尔（<ruby>シャスタ<rt>Shastar</rt>·コルネール<rt>Cornehl</rt></ruby>）
+- 大哥：杰斯・柯涅尔（<ruby lang="ja">ゼス<rt>Zeth</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）[^1]
+- 母亲：希特拉斯・柯涅尔（<ruby lang="ja">シトラス<rt>Citrus</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）
+- 祖父：贝利尔・柯涅尔（<ruby lang="ja">ベリル<rt>Beryl</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）
+- 祖母：夏丝塔・柯涅尔（<ruby lang="ja">シャスタ<rt>Shastar</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）
 
-## 贝尔米特学园
+# 贝尔米特学园
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-ixiapixel.webp"><div class="character-title">伊夏・波利斯塔切尔（<ruby lang="ja">イクシャ<rt>Ixia</rt></ruby>・<ruby lang="ja">ポリスタキア<rt>Polystachya</rt></ruby>）</div></div> ||
 | --- | --------- |
@@ -64,7 +63,7 @@ dateCreated: 2024-02-12T12:03:38.257Z
 | --- | --- |
 | ![蒂格蕾娜・索菈](/assets/global/characters/bermit/600x_9_14_tigrina_250221_155535.avif) | 机械工学科IV级生，住在精灵之村。在故事开始时与诺艾儿并不相识。<br>是机械工学科里最有天赋的学生，但性情古怪。曾未经学校上级允许私自闯入武器库，黑入最新式的设备。<br>在学校社团里创办了 “前沿工学及魔族交流研究部”，在诺艾儿加入前曾有其他部员，现已全部变成幽灵部员。<br><br>通过诺艾儿取回落在武器库的存储卡后，可以利用全息影像技术进行模拟战斗。 |
 
-## 其他角色
+# 其他角色
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-nightingalepixel.webp"><div class="character-title">南丁格尔（<ruby>ナイチンゲール<rt>Nightingale</rt></ruby>）</div></div> ||
 | --- | --- |
