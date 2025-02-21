@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2025-02-21T13:09:44.704Z
+date: 2025-02-21T15:00:35.864Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
@@ -90,17 +90,8 @@ dateCreated: 2024-02-12T12:03:38.257Z
 | ![酒保](/assets/global/characters/other/600x_9_14_barten_250221_160034.avif) | 一名在「三月兔」酒吧中工作的魔族酒保。<br><br>酒保通常出现在「三月兔」酒吧的吧台后。<br>在进入酒吧贮藏室剧情时，酒保会在酒吧贮藏室出现。<br><div style="width:30em"></div> |
 
 
-<details>
-  <summary>未实装角色</summary>
-
-<div class="table-container"> 
-  
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-alicepixel.webp"><div class="character-title">“幽灵”</div></div> ||
 | --- | --- |
-| ![300px-alice.webp](/assets/global/characters/other/600x_9_14_alice_250221.avif) | ひなゆあ和橋野みずは都从未说过这位角色的名字，但是通过解包分析 s00_alc_treecrack.cmd 和本地化文件 zh-cn_tx 可以得知此粉红色头发的角色名字是爱丽丝。 |
-  
-</div> 
-
-</details>
+| ![爱丽丝.webp](/assets/global/characters/other/600x_9_14_alice_250221.avif) | ▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊ |
 
 [^1]: 该角色未出场，仅在丽薇歌塔与诺艾儿的对话中提及。
