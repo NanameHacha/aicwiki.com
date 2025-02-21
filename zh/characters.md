@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2025-02-21T15:00:35.864Z
+date: 2025-02-21T15:03:48.975Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
@@ -92,6 +92,6 @@ dateCreated: 2024-02-12T12:03:38.257Z
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-alicepixel.webp"><div class="character-title">“幽灵”</div></div> ||
 | --- | --- |
-| ![爱丽丝.webp](/assets/global/characters/other/600x_9_14_alice_250221.avif) | ▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊ |
+| ![爱丽丝.webp](/assets/global/characters/other/600x_9_14_alice_250221.avif) | ▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊ |
 
 [^1]: 该角色未出场，仅在丽薇歌塔与诺艾儿的对话中提及。
