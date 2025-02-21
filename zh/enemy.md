@@ -2,7 +2,7 @@
 title: 魔族
 description: 一种外观普遍为通体漆黑、带有红色轮廓和标志性白色方块印记的生物
 published: true
-date: 2025-02-21T11:55:44.632Z
+date: 2025-02-21T12:01:33.784Z
 tags: gameplay, index
 editor: markdown
 dateCreated: 2024-01-29T18:11:16.969Z
@@ -67,7 +67,7 @@ dateCreated: 2024-01-29T18:11:16.969Z
 
 ## NPC
 
-- [木偶商人](/zh/enemy/puppet-npc)：在野外随机出现的可以与诺艾儿交易的魔族。
+- [木偶店主](/zh/enemy/sales-puppet)：在野外随机出现的可以与诺艾儿交易的魔族。
 
 > 另见：[登场角色](/zh/characters)
 {.is-info}
