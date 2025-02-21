@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2025-02-21T15:07:15.596Z
+date: 2025-02-21T15:22:39.043Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
@@ -61,7 +61,7 @@ dateCreated: 2024-02-12T12:03:38.257Z
 
 | <div class="character-header"><div class="character-title">蒂格蕾娜・索菈（<ruby lang="ja">ティグリナ<rt>Tigrina</rt></ruby>・<ruby lang="ja">ソアラ<rt>Soala</rt></ruby>）</div></div> ||
 | --- | --- |
-| <div style="width:300px;">![蒂格蕾娜・索菈](/assets/global/characters/bermit/600x_9_14_tigrina_250221_155535.avif)</div> | 机械工学科IV级生，住在精灵之村。在故事开始时与诺艾儿并不相识。<br>是机械工学科里最有天赋的学生，但性情古怪。曾未经学校上级允许私自闯入武器库，黑入最新式的设备。<br>在学校社团里创办了 “前沿工学及魔族交流研究部”，在诺艾儿加入前曾有其他部员，现已全部变成幽灵部员。<br><br>通过诺艾儿取回落在武器库的存储卡后，可以利用全息影像技术进行模拟战斗。 |
+| <div style="width:300px;">![蒂格蕾娜・索菈](/assets/global/characters/bermit/600x_9_14_Tigrina_250221_155535.avif)</div> | 机械工学科IV级生，住在精灵之村。在故事开始时与诺艾儿并不相识。<br>是机械工学科里最有天赋的学生，但性情古怪。曾未经学校上级允许私自闯入武器库，黑入最新式的设备。<br>在学校社团里创办了 “前沿工学及魔族交流研究部”，在诺艾儿加入前曾有其他部员，现已全部变成幽灵部员。<br><br>通过诺艾儿取回落在武器库的存储卡后，可以利用全息影像技术进行模拟战斗。 |
 
 # 其他角色
 
@@ -87,11 +87,11 @@ dateCreated: 2024-02-12T12:03:38.257Z
 
 | <div class="character-header"><div class="character-title">酒保（<ruby lang="ja">バーテンダー<rt>Bartender</rt></ruby>）</div></div> ||
 | --- | --- |
-| <div style="width:300px;">![酒保](/assets/global/characters/other/600x_9_14_barten_250221_160034.avif)</div> | 一名在「三月兔」酒吧中工作的魔族酒保。<br><br>酒保通常出现在「三月兔」酒吧的吧台后。<br>在进入酒吧贮藏室剧情时，酒保会在酒吧贮藏室出现。<br><div style="width:30em"></div> |
+| <div style="width:300px;">![酒保](/assets/global/characters/other/600x_9_14_Barten_250221_160034.avif)</div> | 一名在「三月兔」酒吧中工作的魔族酒保。<br><br>酒保通常出现在「三月兔」酒吧的吧台后。<br>在进入酒吧贮藏室剧情时，酒保会在酒吧贮藏室出现。<br><div style="width:30em"></div> |
 
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-alicepixel.webp"><div class="character-title">“幽灵”</div></div> ||
 | --- | --- |
-| <div style="width:300px;">![爱丽丝.webp](/assets/global/characters/other/600x_9_14_alice_250221.avif)</div> | ▊▊▊▊▊ |
+| <div style="width:300px;">![爱丽丝.webp](/assets/global/characters/other/600x_9_14_Alice_250221.avif)</div> | ▊▊▊▊▊ |
 
 [^1]: 该角色未出场，仅在丽薇歌塔与诺艾儿的对话中提及。
