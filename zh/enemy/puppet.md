@@ -2,7 +2,7 @@
 title: 木偶
 description: 一种普通魔族，身体呈现机械的人形。
 published: true
-date: 2024-09-18T08:19:17.066Z
+date: 2025-03-21T17:34:42.542Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-28T11:21:35.486Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-28T11:21:35.486Z
 | 初始 MP | 20 ~ 70 |
 | 掉落素材 | [木偶的右手](/zh/item/golem’s-right-hand) |
 | H 演出 | 无 |
-| 相关魔物 | [巨人](/zh/enemy/giant)、[木偶的造物：噪声无人机](/zh/enemy/golemtoy-rm)、[木偶的造物：弓](/zh/enemy/golemtoy-bow)、[木偶的造物：导弹](/zh/enemy/golemtoy-pod)、[三角木马](/zh/enemy/wooden-horse) |
+| 相关魔物 | [巨人](/zh/enemy/giant)、[杂波干扰器](/zh/enemy/rainmaker)、[光束发射台](/zh/enemy/laser)、[导弹发射架](/zh/enemy/missile-launcher)、[三角木马](/zh/enemy/wooden-horse) |
 
 # 出现地点
 
