@@ -1,27 +1,27 @@
 ---
-title: 机甲木偶
-description: 一种特殊魔族，身体呈现巨大的组装机甲人偶状。
+title: 机甲木偶（污染体）
+description: 一种污染体变种魔族，身体呈现巨大的组装机甲人偶状。
 published: true
-date: 2025-02-21T12:04:08.185Z
-tags: enemy, enemy-special
+date: 2025-03-23T09:39:06.112Z
+tags: enemy, enemy-contaminated
 editor: markdown
 dateCreated: 2024-05-01T09:21:46.425Z
 ---
 
-**机甲木偶**是一种特殊魔族，身体呈现巨大的组装机甲人偶状。
+**机甲木偶（污染体）**是一种污染体变种魔族，身体呈现巨大的组装机甲人偶状。
 
 <!-- 在这里放置图像 -->
 
-| 机甲木偶 ||
+| 机甲木偶（污染体） ||
 | - | - |
-| 日文名称 | <span lang="ja">機甲木偶</span> |
-| 英文名称 | Armoured Wooden Puppet |
-| 最大 HP | 常规：70<br>污染体：1085 |
-| 最大 MP | 常规：180<br>污染体：450 |
+| 日文名称 | <span lang="ja">機甲木偶 (汚染体)</span> |
+| 英文名称 | Armoured Wooden Puppet (Contaminated) |
+| 最大 HP | 1085 |
+| 最大 MP | 450 |
 | 初始 MP | 50 ~ 150 |
 | 掉落素材 | 无 |
 | H 演出 | 有 |
-| 相关魔物 | [木偶店主](/zh/enemy/sales-puppet)、[木偶](/zh/enemy/puppet)、[巨人](/zh/enemy/giant) |
+| 相关魔物 | [木偶店主](/zh/enemy/sales-puppet)、[木偶](/zh/enemy/puppet)、[机甲木偶](/zh/enemy/armoured-wooden-puppet)、[巨人](/zh/enemy/giant) |
 
 # 出现地点
 
