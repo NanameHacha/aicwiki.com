@@ -2,7 +2,7 @@
 title: 机甲木偶
 description: 一种普通魔族，身体呈现组装机甲人偶状
 published: true
-date: 2025-03-23T09:43:30.953Z
+date: 2025-03-23T09:53:44.807Z
 tags: enemy
 editor: markdown
 dateCreated: 2025-03-23T09:43:30.953Z
@@ -25,7 +25,7 @@ dateCreated: 2025-03-23T09:43:30.953Z
 
 # 出现地点
 
-（待补充）
+机甲木偶会在诺艾儿杀死[木偶店主](/zh/enemy/sales-puppet)后在以下战斗点随机出现：裂隙看守者、盗掘者、遛狗公园、机关人偶、菌丝之王、装配试验间，且只会以污染体形态出现。详见[木偶复仇战](/zh/battle-locations/puppet-revenge)。
 
 # 行动方式
 
