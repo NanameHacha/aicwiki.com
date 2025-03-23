@@ -2,7 +2,7 @@
 title: 木偶店主
 description: 在野外随机出现的可以与诺艾儿交易的魔族。
 published: true
-date: 2025-02-21T12:01:21.810Z
+date: 2025-03-23T09:45:45.749Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-09-17T14:54:48.297Z
@@ -21,7 +21,7 @@ dateCreated: 2024-09-17T14:54:48.297Z
 | 初始 MP | 0 |
 | 掉落素材 | 无 |
 | H 演出 | 无 |
-| 相关魔物 | [机甲木偶](/zh/enemy/armoured-wooden-puppet) |
+| 相关魔物 | [机甲木偶（污染体）](/zh/enemy/armoured-wooden-puppet-contaminated) |
 
 # 出现地点
 
