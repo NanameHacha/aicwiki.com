@@ -2,7 +2,7 @@
 title: 魔族
 description: 一种外观普遍为通体漆黑、带有红色轮廓和标志性白色方块印记的生物
 published: true
-date: 2025-02-21T12:01:33.784Z
+date: 2025-03-23T09:44:42.757Z
 tags: gameplay, index
 editor: markdown
 dateCreated: 2024-01-29T18:11:16.969Z
@@ -36,6 +36,7 @@ dateCreated: 2024-01-29T18:11:16.969Z
 - [史莱姆](/zh/enemy/slime)：一种普通魔族，身体呈现果冻状。
 - [蘑菇](/zh/enemy/mushroom)：一种普通魔族，身体呈现蘑菇形状。
 - [木偶](/zh/enemy/puppet)：一种普通魔族，身体呈现机械的人形。
+- [机甲木偶](/zh/enemy/armoured-wooden-puppet)：一种普通魔族，身体呈现组装机甲人偶状。
 - [杂波干扰器](/zh/enemy/rainmaker)：一种仅能经由木偶的建造生成的机关。
 - [光束发射台](/zh/enemy/laser)：一种仅能经由木偶的建造生成的机关。
 - [导弹发射架](/zh/enemy/missile-launcher)：一种仅能经由木偶的建造生成的机关。
@@ -54,6 +55,7 @@ dateCreated: 2024-01-29T18:11:16.969Z
 - [史莱姆（污染体）](/zh/enemy/slime-contaminated)：一种污染体变种魔族，相比普通史莱姆体型更大，更具攻击性。
 - [蘑菇（污染体）](/zh/enemy/mushroom-contaminated)：一种污染体变种魔族，相比普通蘑菇体型更大，更具攻击性。
 - [巨人](/zh/enemy/giant)：一种污染体变种魔族，相比普通木偶体型更大，更具攻击性。
+- [机甲木偶（污染体）](/zh/enemy/armoured-wooden-puppet)：一种污染体变种魔族，身体呈现巨大的组装机甲人偶状。
 - [剑山（污染体）](/zh/enemy/urchin-contaminated)：一种污染体变种魔族，相比普通剑山体型更大，更具攻击性。
 
 ## BOSS
@@ -62,7 +64,6 @@ dateCreated: 2024-01-29T18:11:16.969Z
 
 ## 特殊
 
-- [机甲木偶](/zh/enemy/armoured-wooden-puppet)：一种特殊魔族，身体呈现巨大的组装机甲人偶状。
 - [乳牛](/zh/enemy/cow)：一种出现在牧场的魔族牛。
 
 ## NPC
