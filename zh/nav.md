@@ -2,7 +2,7 @@
 title: 快速参考
 description: 此页面列举了所有内容和索引
 published: true
-date: 2025-02-21T15:40:51.928Z
+date: 2025-04-25T06:18:31.855Z
 tags: index
 editor: markdown
 dateCreated: 2024-01-29T19:10:30.693Z
@@ -29,7 +29,7 @@ dateCreated: 2024-01-29T19:10:30.693Z
 - [烹饪](/zh/cooking)
 - [炼金](/zh/alchemy)
 - [香薰](/zh/aloma)
-- [酿造](/zh/actihol)
+- [鸡尾饮料](/zh/actihol)
 
 ## 图鉴
 - [物品](/zh/items)
