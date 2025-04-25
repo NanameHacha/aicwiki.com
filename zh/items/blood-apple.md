@@ -2,7 +2,7 @@
 title: 血苹果
 description: 吃下去可以恢复一些体力。这种水果不但吃起来很美味，而且附带治愈效果，有珍贵的药用价值呢。
 published: true
-date: 2025-04-25T06:25:55.859Z
+date: 2025-04-25T06:27:29.125Z
 tags: item, item-food, item-healing, item-fruit, item-heals-hp
 editor: markdown
 dateCreated: 2024-01-29T19:12:30.417Z
@@ -74,7 +74,3 @@ dateCreated: 2024-01-29T19:12:30.417Z
 ### 魔女的杂货店
 
 血苹果可在魔女的杂货店购买取得。
-
-基础购入价格：15
-
-出售价格：4
