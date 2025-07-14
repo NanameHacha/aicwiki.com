@@ -2,7 +2,7 @@
 title: 剧情章节
 description: Alice In Cradle 剧情章节（详细内容）
 published: true
-date: 2025-07-14T14:31:29.230Z
+date: 2025-07-14T14:31:38.119Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-11-18T09:05:50.747Z
@@ -16,6 +16,7 @@ dateCreated: 2024-11-18T09:05:50.747Z
 - 【0】序幕（<ruby>プロローグ<rt>Prologue</rt></ruby>）
 - 【1】苏醒的睡美人 （<ruby>目覚めし眠り姫<rt>Sleeping Beauty Awakened</rt></ruby>）
 - 【2】幽灵（<ruby>幽霊<rt>The Ghost</rt></ruby>）
+
 以下剧情目前未实装，译名为暂定，可能与最终作品不同。
 - 【3】忒修斯之船（<ruby>テセウスの舟<rt>Ship of Theseus</rt></ruby>）
 - 【4】奇异仙境（<ruby>ふしぎな世界<rt>Wonderland</rt></ruby>）
