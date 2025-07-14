@@ -2,7 +2,7 @@
 title: 剧情章节
 description: Alice In Cradle 剧情章节（详细内容）
 published: true
-date: 2024-11-18T09:05:50.747Z
+date: 2025-07-14T14:31:29.230Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-11-18T09:05:50.747Z
@@ -15,9 +15,8 @@ dateCreated: 2024-11-18T09:05:50.747Z
 
 - 【0】序幕（<ruby>プロローグ<rt>Prologue</rt></ruby>）
 - 【1】苏醒的睡美人 （<ruby>目覚めし眠り姫<rt>Sleeping Beauty Awakened</rt></ruby>）
-  
-以下剧情目前未实装，译名为暂定，可能与最终作品不同。
 - 【2】幽灵（<ruby>幽霊<rt>The Ghost</rt></ruby>）
+以下剧情目前未实装，译名为暂定，可能与最终作品不同。
 - 【3】忒修斯之船（<ruby>テセウスの舟<rt>Ship of Theseus</rt></ruby>）
 - 【4】奇异仙境（<ruby>ふしぎな世界<rt>Wonderland</rt></ruby>）
 - 【5】Alice·in·Cradle（<ruby>アリス・イン・クレイドル<rt>Alice In Cradle</rt></ruby>）
@@ -30,5 +29,6 @@ dateCreated: 2024-11-18T09:05:50.747Z
   诺艾儿受姐姐丽薇歌塔·柯涅尔之托外出采集素材，途中遇到了遭遇魔族并展开了战斗。回家途中遇到了同学伊夏·波利斯塔切尔，其对诺艾儿的身体状况很关心，并表示修好的魔法道具已交给老师普莉姆拉。
 - **当天晚上**
   诺艾儿回到家中，被父亲数落，陷入自我怀疑，问自己 “到底是为了什么而战斗”，之后被老师普莉姆拉所安慰。两人在夜空下读起古代神话《爱丽丝梦游仙境》，聊起家族过去的兴衰，传授新的魔法，并在星空下吐露梦想与心声。
-  
+- **寻找伊夏**
+- **再次寻找伊夏，击败大型魔族**
 （待补充）
