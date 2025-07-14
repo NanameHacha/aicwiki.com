@@ -1,8 +1,8 @@
 ---
-title: 诺艾儿乳
+title: 牧场纯牛奶
 description: 牛奶这种东西就是要45度角叉着腰把仰望天空的pose摆好了才能喝……
 published: true
-date: 2025-07-14T10:51:17.564Z
+date: 2025-07-14T10:51:37.715Z
 tags: item, item-food, item-healing, item-heals-hp, item-water, item-milk, item-recovers-mp
 editor: markdown
 dateCreated: 2025-07-14T10:51:17.564Z
