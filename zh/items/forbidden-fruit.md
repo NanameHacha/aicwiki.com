@@ -2,8 +2,8 @@
 title: 禁忌的苹果
 description: 形状奇妙的苹果。或许跟古老的神话有着一些联系…？
 published: true
-date: 2025-07-14T10:10:22.039Z
-tags: item, item-food, item-fruit
+date: 2025-07-14T10:29:22.459Z
+tags: item, item-food, item-fruit, item-calms-ep
 editor: markdown
 dateCreated: 2025-07-14T10:10:22.039Z
 ---
