@@ -2,7 +2,7 @@
 title: 魔族
 description: 一种外观普遍为通体漆黑、带有红色轮廓和标志性白色方块印记的生物
 published: true
-date: 2025-03-23T10:12:56.508Z
+date: 2025-07-14T10:22:16.484Z
 tags: gameplay, index
 editor: markdown
 dateCreated: 2024-01-29T18:11:16.969Z
@@ -61,6 +61,10 @@ dateCreated: 2024-01-29T18:11:16.969Z
 ## BOSS
 
 - [森之领主](/zh/enemy/lord-of-the-forest)：一种BOSS魔族，身体呈现以巨大花朵为核心的大树状。
+
+## 公会任务
+>待补充{.is-info}
+<!-- TalkDe: 休息时间太短了！！！这个还没有打捏。有没有人来补一下。 -->
 
 ## 特殊
 
