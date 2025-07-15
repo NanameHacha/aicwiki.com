@@ -2,8 +2,8 @@
 title: 煤炭
 description: 因为会弄脏手所以不太想碰，但要使用炼金术就绝对会用到。
 published: true
-date: 2025-07-15T02:37:52.173Z
-tags: item, item_crafting
+date: 2025-07-15T02:40:33.645Z
+tags: item, item-crafting
 editor: markdown
 dateCreated: 2024-05-05T15:38:11.202Z
 ---
