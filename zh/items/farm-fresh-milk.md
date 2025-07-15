@@ -2,7 +2,7 @@
 title: 牧场纯牛奶
 description: 牛奶这种东西就是要45度角叉着腰把仰望天空的pose摆好了才能喝……
 published: true
-date: 2025-07-14T10:51:37.715Z
+date: 2025-07-15T02:05:09.819Z
 tags: item, item-food, item-healing, item-heals-hp, item-water, item-milk, item-recovers-mp
 editor: markdown
 dateCreated: 2025-07-14T10:51:17.564Z
@@ -57,3 +57,6 @@ dateCreated: 2025-07-14T10:51:17.564Z
 # 获取方式
 ## 挤奶
 恩惠之城「格拉提亚」牧场区奶农处挤奶。
+## 交易
+### 天空设施商店
+牧场纯牛奶可在天空设施商店处购入。
