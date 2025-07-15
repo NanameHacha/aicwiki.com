@@ -2,8 +2,8 @@
 title: 石英
 description: 就是块略带闪耀光泽的石头。
 published: true
-date: 2025-07-15T02:48:29.995Z
-tags: item, item-crafting
+date: 2025-07-15T04:01:44.884Z
+tags: item, item-material, item-crafting
 editor: markdown
 dateCreated: 2025-07-15T02:48:29.994Z
 ---
@@ -11,7 +11,7 @@ dateCreated: 2025-07-15T02:48:29.994Z
 | <div markdown>![物品图标](/assets/global/items/common_item.png) <span>石英（<ruby lang="ja">水晶<rt>Quartz</rt></ruby>）</span></div>||
 | - | - |
 | 就是块略带闪耀光泽的石头。 ||
-| 类别 | 工艺原料 |
+| 类别 | 素材、工艺原料 |
 | 基础价格/售价 | 25/10 ✦<br>37/15 ✦✦<br>50/20 ✦✦✦<br>62/25 ✦✦✦✦<br>75/30 ✦✦✦✦✦ |
 | 可堆叠 | 20 |
 { .info-table }
