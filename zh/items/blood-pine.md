@@ -2,7 +2,7 @@
 title: 血菠萝
 description: 吃下去可以恢复一些体力。这种水果不但吃起来很美味，而且附带治愈效果，有珍贵的药用价值呢。
 published: true
-date: 2025-04-25T06:37:50.491Z
+date: 2025-07-15T02:30:39.965Z
 tags: item, item-food, item-healing, item-fruit, item-heals-hp
 editor: markdown
 dateCreated: 2024-01-29T19:11:58.662Z
@@ -54,10 +54,12 @@ dateCreated: 2024-01-29T19:11:58.662Z
 
 # 获取方式
 ## 采集
-血菠萝可在野外进行采集。
 
-<!--![采集血菠萝](/assets/items/blood_pine/get_blood_pine.png)
-- A：血菠萝✦ x1-2、血菠萝✦✦ x1-2-->
+> 此处缺少一张必要图片 {.is-info}
+
+血菠萝可在野外进行采集。
+<!--![采集血菠萝](/assets/items/blood_pine/get_blood_pine.png)-->
+- A：血菠萝✦ x1-2、血菠萝✦✦ x1-2
 
 ## 宝箱
 包含该物品的宝箱：
@@ -67,7 +69,7 @@ dateCreated: 2024-01-29T19:11:58.662Z
 
 ### 魔女的杂货店
 
-血苹果可在魔女的杂货店购买取得。
+血菠萝可在魔女的杂货店购买取得。
 
 | 品质 | 基础购入价格 | 出售价格 |
 | - | - | - |
