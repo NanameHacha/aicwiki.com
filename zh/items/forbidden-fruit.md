@@ -2,7 +2,7 @@
 title: 禁忌的苹果
 description: 形状奇妙的苹果。或许跟古老的神话有着一些联系…？
 published: true
-date: 2025-07-14T10:29:22.459Z
+date: 2025-07-15T13:18:37.779Z
 tags: item, item-food, item-fruit, item-calms-ep
 editor: markdown
 dateCreated: 2025-07-14T10:10:22.039Z
@@ -50,7 +50,7 @@ dateCreated: 2025-07-14T10:10:22.039Z
 - HWG-新醅
 
 ## 剧情
-在南丁格尔的“帮忙跑腿……”支线任务中，要求将<ruby>独一无二的特殊苹果<rt>禁忌的苹果</rt></ruby>交给南丁格尔小姐，交付后获得480G，再次遇见则解锁“商人小姐的秘密采购”剧情，并解锁[取卵器](egg-remover)交易选项。
+在南丁格尔的“帮忙跑腿……”支线任务中，要求将<ruby>独一无二的特殊苹果<rt>禁忌的苹果</rt></ruby>交给南丁格尔小姐，交付后获得480G，再次遇见则解锁“商人小姐的秘密采购”剧情，并解锁[取卵器](/zh/items/egg-remover)交易选项。
 
 # 获取方式
 
