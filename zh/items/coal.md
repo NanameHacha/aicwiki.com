@@ -2,8 +2,8 @@
 title: 煤炭
 description: 因为会弄脏手所以不太想碰，但要使用炼金术就绝对会用到。
 published: true
-date: 2025-07-15T02:44:39.581Z
-tags: item, item-crafting
+date: 2025-07-15T03:58:58.626Z
+tags: item, item-material, item-crafting
 editor: markdown
 dateCreated: 2024-05-05T15:38:11.202Z
 ---
@@ -11,7 +11,7 @@ dateCreated: 2024-05-05T15:38:11.202Z
 | <div markdown>![物品图标](/assets/global/items/common_item.png) <span>煤炭（<ruby lang="ja">石炭<rt>Coal</rt></ruby>）</span></div>||
 | - | - |
 | 因为会弄脏手所以不太想碰，但要使用炼金术就绝对会用到。 ||
-| 类别 | 工艺原料 |
+| 类别 | 素材、工艺原料 |
 | 基础价格/售价 | 10/4 ✦<br>12/5 ✦✦<br>15/6 ✦✦✦<br>17/7 ✦✦✦✦<br>20/8 ✦✦✦✦✦ |
 | 可堆叠 | 30 |
 { .info-table }
@@ -58,7 +58,6 @@ dateCreated: 2024-05-05T15:38:11.202Z
 | ✦✦✦ | 15 | 4 |
 | ✦✦✦✦ | 17 | 5 |
 | ✦✦✦✦✦ | 20 | 6 |
-
 
 ### 木偶的路边小站
 
