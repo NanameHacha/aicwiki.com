@@ -2,8 +2,8 @@
 title: 铁矿
 description: 人们口中常说的铁矿石。
 published: true
-date: 2025-07-15T03:39:22.029Z
-tags: item, item-minerals
+date: 2025-07-15T04:02:11.454Z
+tags: item, item-material, item-minerals
 editor: markdown
 dateCreated: 2025-07-15T03:39:22.029Z
 ---
@@ -11,7 +11,7 @@ dateCreated: 2025-07-15T03:39:22.029Z
 | <div markdown>![物品图标](/assets/global/items/common_ore.png) <span>铁矿（<ruby lang="ja">鉄<rt>Iron</rt></ruby>）</span></div>||
 | - | - |
 | 人们口中常说的铁矿石。 ||
-| 类别 | 珠宝矿石 |
+| 类别 | 素材、珠宝矿石 |
 | 基础价格/售价 | 48/19 ✦<br>60/24 ✦✦<br>72/28 ✦✦✦<br>84/33 ✦✦✦✦<br>96/38 ✦✦✦✦✦ |
 | 可堆叠 | 10 |
 { .info-table }
