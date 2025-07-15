@@ -2,8 +2,8 @@
 title: 紫水晶
 description: 随处可见的矿物，跟石英区别不大。但是姐姐似乎挺喜欢这种石头，帮她收集的话她肯定会很开心。
 published: true
-date: 2025-07-15T03:50:10.517Z
-tags: item, item-minerals
+date: 2025-07-15T03:57:46.819Z
+tags: item, item-material, item-minerals
 editor: markdown
 dateCreated: 2025-07-15T03:46:29.494Z
 ---
@@ -11,7 +11,7 @@ dateCreated: 2025-07-15T03:46:29.494Z
 | <div markdown>![物品图标](/assets/global/items/common_ore.png) <span>紫水晶（<ruby lang="ja">アメシスト<rt>Amethyst</rt></ruby>）</span></div>||
 | - | - |
 | 随处可见的矿物，跟石英区别不大。<br>但是姐姐似乎挺喜欢这种石头，帮她收集的话她肯定会很开心。 ||
-| 类别 | 珠宝矿石 |
+| 类别 | 素材、珠宝矿石 |
 | 基础价格/售价 | 40/16 ✦<br>60/24 ✦✦<br>80/32 ✦✦✦<br>100/40 ✦✦✦✦<br>120/48 ✦✦✦✦✦ |
 | 可堆叠 | 10 |
 { .info-table }
