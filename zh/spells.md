@@ -2,7 +2,7 @@
 title: 魔法
 description: Alice In Cradle 魔法
 published: true
-date: 2025-07-15T04:05:44.013Z
+date: 2025-07-15T04:06:18.353Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T17:59:25.550Z
@@ -62,7 +62,7 @@ dateCreated: 2024-01-29T17:59:25.550Z
 
 可以将各个水球锁定不同的目标发射出去，也可以使其保持漂浮状态，如护盾一般环绕在施法者身边，此时再次咏唱该魔法可进入瞄准锁定状态。
 
-## 未实装技能
+## 未实装魔法
 
 ### 雷霆电击
 
