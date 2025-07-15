@@ -2,7 +2,7 @@
 title: 黑暗精华
 description: 魔族被击败后掉落的带有粘性的液体。
 published: true
-date: 2025-07-15T02:26:55.811Z
+date: 2025-07-15T02:29:00.992Z
 tags: item, item-food, item-water
 editor: markdown
 dateCreated: 2025-07-15T02:26:55.811Z
@@ -39,6 +39,9 @@ dateCreated: 2025-07-15T02:26:55.811Z
 - 魔力软糖
 - 魔力炸弹
 
+## 合成
+可用于：
+- 背包扩容
 
 # 获取方式
 
