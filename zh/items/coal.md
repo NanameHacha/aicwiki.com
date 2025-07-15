@@ -2,7 +2,7 @@
 title: 煤炭
 description: 因为会弄脏手所以不太想碰，但要使用炼金术就绝对会用到。
 published: true
-date: 2025-07-15T02:40:33.645Z
+date: 2025-07-15T02:43:04.508Z
 tags: item, item-crafting
 editor: markdown
 dateCreated: 2024-05-05T15:38:11.202Z
@@ -29,6 +29,10 @@ dateCreated: 2024-05-05T15:38:11.202Z
 - 土制榴弹
 - 闪光弹
 - 魔力炸弹
+
+## 合成
+可用于：
+- 背包扩容
 
 # 获取方式
 ## 宝箱
