@@ -2,7 +2,7 @@
 title: 地图
 description: Alice In Cradle 地图
 published: true
-date: 2025-07-05T12:50:56.124Z
+date: 2025-07-15T04:45:06.242Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:06:39.646Z
@@ -257,7 +257,7 @@ dateCreated: 2024-01-29T18:06:39.646Z
 
 ## 贝尔米特士官学园
 
-![贝尔米特士官学园](/assets/zh_cn/地图/alice_in_cradle_地图_贝尔米特学园_ver.20250201a.png =476x){ .pixelated-image }
+![贝尔米特士官学园](/assets/zh_cn/地图/alice_in_cradle_地图_贝尔米特学园_ver.20250715a.png =476x){ .pixelated-image }
 
 ### 房间名
 
