@@ -2,7 +2,7 @@
 title: 格拉提亚正教
 description: 
 published: true
-date: 2025-07-15T13:01:30.747Z
+date: 2025-07-15T13:05:19.245Z
 tags: book
 editor: markdown
 dateCreated: 2025-07-15T13:01:30.747Z
@@ -68,4 +68,4 @@ dateCreated: 2025-07-15T13:01:30.747Z
 
 ## 你知道吗？
 - 在剧情“星空奇谭”中，普莉姆拉引用了：「在降下恩典甘霖的云上面，在比大树母亲还要高的<ruby>「摇篮」<rt>Cradle</rt></ruby>里，我们的「父」睡了。」
-- 在书本[《黄金之美杜莎》](/zh/stroy/book/medusas-light)中引用了：「黄金圣光照耀大地时，天空的美杜莎将显露面容。」
+- 在书本[《黄金之美杜莎》](/zh/story/book/medusas-light)中引用了：「黄金圣光照耀大地时，天空的美杜莎将显露面容。」
