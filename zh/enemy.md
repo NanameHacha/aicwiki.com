@@ -2,7 +2,7 @@
 title: 魔族
 description: 一种外观普遍为通体漆黑、带有红色轮廓和标志性白色方块印记的生物
 published: true
-date: 2025-07-14T10:22:16.484Z
+date: 2025-07-16T13:21:02.887Z
 tags: gameplay, index
 editor: markdown
 dateCreated: 2024-01-29T18:11:16.969Z
@@ -49,6 +49,9 @@ dateCreated: 2024-01-29T18:11:16.969Z
 - [妖狐](/zh/enemy/nine-tailed-fox)：一种普通魔族，身体呈现燃烧的九尾狐状。
 - [壁虎](/zh/enemy/lizard)：一种普通魔族，身体呈现壁虎形状。
 - [沼蛙](/zh/enemy/frog)：一种普通魔族，身体呈现巨大的青蛙状。
+- [酒壶](/zh/enemy/lambda)：一种普通魔族，身体呈现细颈壶状。
+- [巢厄](/zh/enemy/hive)：魔族巢穴，扎根地面后，会有小型魔族从中钻出。
+- [蜂巢](/zh/enemy/honeycomb)：具有六边形巢穴的结构，其中栖息着大量幼虫。
 
 ## 污染体
 
@@ -64,7 +67,10 @@ dateCreated: 2024-01-29T18:11:16.969Z
 
 ## 公会任务
 >待补充{.is-info}
-<!-- TalkDe: 休息时间太短了！！！这个还没有打捏。有没有人来补一下。 -->
+
+- [五足](/zh/enemy/pentapod)
+- [野猪](/zh/enemy/boar)
+- [触须怪](/zh/enemy/roper)
 
 ## 特殊
 
@@ -73,6 +79,13 @@ dateCreated: 2024-01-29T18:11:16.969Z
 ## NPC
 
 - [木偶店主](/zh/enemy/sales-puppet)：在野外随机出现的可以与诺艾儿交易的魔族。
+
+# 魔族生态
+
+> 以下内容可能含有**轻微剧透成分**，可能影响观赏作品兴趣，请酌情阅读
+{.is-info}
+
+
 
 > 另见：[登场角色](/zh/characters)
 {.is-info}
