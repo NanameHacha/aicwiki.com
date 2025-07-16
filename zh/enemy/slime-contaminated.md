@@ -1,8 +1,8 @@
 ---
 title: 史莱姆（污染体）
-description: 不仅吸取了大量魔力，还完全没有理智可言。一旦被它吞入体内，就会被它本能地使用输卵管进行侵犯。因此千万要注意别被它被抓住。
+description: 相比普通史莱姆体型更大，更具攻击性。不仅吸取了大量魔力，还完全没有理智可言。
 published: true
-date: 2025-07-16T13:25:37.979Z
+date: 2025-07-16T13:31:04.980Z
 tags: enemy, enemy-contaminated
 editor: markdown
 dateCreated: 2024-03-01T07:51:03.528Z
