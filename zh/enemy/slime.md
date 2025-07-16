@@ -1,8 +1,8 @@
 ---
 title: 史莱姆
-description: 原始的魔族。虽然智力低下，但跳跃力意外地强。会成群结队地来袭，小心别被吸干了魔力。
+description: 原始的魔族。虽然智力低下，但跳跃力意外地强。
 published: true
-date: 2025-07-16T13:24:48.472Z
+date: 2025-07-16T13:30:13.478Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-03-01T07:42:39.673Z
