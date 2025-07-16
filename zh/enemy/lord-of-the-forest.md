@@ -1,14 +1,16 @@
 ---
 title: 森之领主
-description: 一种BOSS魔族，身体呈现以巨大花朵为核心的大树状。
+description: 栖息于森林的大型魔族。
 published: true
-date: 2024-09-18T08:47:04.422Z
+date: 2025-07-16T13:43:00.711Z
 tags: enemy, enemy-boss
 editor: markdown
 dateCreated: 2024-04-30T10:58:47.115Z
 ---
 
 **森之领主**是一种BOSS魔族，身体呈现以巨大花朵为核心的大树状。
+
+栖息于森林的大型魔族。
 
 <!-- 在这里放置图像 -->
 
