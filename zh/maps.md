@@ -2,7 +2,7 @@
 title: 地图
 description: Alice In Cradle 地图
 published: true
-date: 2025-07-16T13:08:03.445Z
+date: 2025-07-17T13:50:06.128Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:06:39.646Z
@@ -266,3 +266,8 @@ dateCreated: 2024-01-29T18:06:39.646Z
 ## 恩惠圣母之石
 
 ![alice_in_cradle_地图_恩惠圣母之石_025a.png](/assets/zh_cn/地图/alice_in_cradle_地图_恩惠圣母之石_025a.png)
+
+## 拓荒者山岳
+
+> 该区域尚未实装
+{.is-info}
