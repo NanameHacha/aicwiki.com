@@ -2,7 +2,7 @@
 title: 语言与书写系统
 description: 关于游戏内的架空文字
 published: true
-date: 2025-07-20T07:34:53.625Z
+date: 2025-07-20T07:46:18.859Z
 tags: world-outlook
 editor: markdown
 dateCreated: 2025-07-20T07:01:38.240Z
@@ -21,7 +21,9 @@ dateCreated: 2025-07-20T07:01:38.240Z
 
 # 通用文字（暂定）
 
-游戏内有一套独特的通用文字，根据其样式可分为印刷字体和像素字体，如图所示。
+这是一种由精灵和兽人共同使用的文字。
+
+该文字根据其样式可分为印刷字体和像素字体，如图所示。
 
 ![AliceInCradle文字解译.png](/assets/zh_cn/彩蛋/aliceincradle文字解译_20241209b.png =500x){.align-center}
 
