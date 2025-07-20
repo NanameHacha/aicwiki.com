@@ -2,7 +2,7 @@
 title: 彩蛋
 description: 隐藏于游戏中的彩蛋
 published: true
-date: 2024-12-09T11:05:16.325Z
+date: 2025-07-20T06:51:22.213Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:23:32.002Z
@@ -68,7 +68,8 @@ dateCreated: 2024-01-29T18:23:32.002Z
 
 </div>
 
-## 文字
+## 通用文字（暂定）
+
 游戏内有一套独特的文字，根据其样式可分为印刷字体和像素字体，如图所示。
 
 ![AliceInCradle文字解译.png](/assets/zh_cn/彩蛋/aliceincradle文字解译_20241209b.png =500x){.align-center}
@@ -100,5 +101,17 @@ dateCreated: 2024-01-29T18:23:32.002Z
 印刷字体通常出现在书籍封面，其余情况大多以手写形式出现。
 
 夜间遭遇战的开场动画中使用了一种较为粗犷的书写形式表示了 “Sudden Attack”。
+
+## 矮人文字
+
+从 0.28 版本开始，游戏中出现了一种新的矮人文字，该文字是基于日文的映射。
+
+“矮人” 一词取自游戏文件对该文字的描述：“dwarf”。
+
+目前该文字的完成度并不高。
+
+### 游戏内表现
+
+当诺艾儿第一次遇到 “幽灵” 时，会听到其说出矮人语。
 
 [^1]: 即《和班尼特福迪一起攻克难关》（*Getting Over It with Bennett Foddy*）
