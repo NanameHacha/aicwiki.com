@@ -2,13 +2,16 @@
 title: 语言与书写系统
 description: 关于游戏内的架空文字
 published: true
-date: 2025-07-20T07:13:26.519Z
+date: 2025-07-20T07:19:05.053Z
 tags: world-outlook
 editor: markdown
 dateCreated: 2025-07-20T07:01:38.240Z
 ---
 
 在 Alice In Cradle 的世界观中存在一套独特的符号体系。目前已知的文字有通用文字（暂定）和矮人文字。
+
+> 以下内容可能含有**剧透成分**，可能影响观赏作品兴趣，请酌情阅读。
+{ .is-warning }
 
 # 通用文字（暂定）
 
