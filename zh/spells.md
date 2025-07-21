@@ -2,7 +2,7 @@
 title: 魔法
 description: Alice In Cradle 魔法
 published: true
-date: 2025-07-15T04:06:18.353Z
+date: 2025-07-21T03:59:13.484Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T17:59:25.550Z
@@ -85,3 +85,5 @@ dateCreated: 2024-01-29T17:59:25.550Z
 能够释放出强力热浪的炸弹。
 
 布设后可摧毁特定地形，还能清除范围内的所有实体（如榴弹等）。爆炸效果猛烈，但直接杀伤的效率一般，以魔法霰弹的形式才能发挥最大的威力。
+
+该魔法可能是激活兽人布置的炸弹时所使用的剧情专用魔法。
