@@ -2,7 +2,7 @@
 title: 地图
 description: Alice In Cradle 地图
 published: true
-date: 2025-07-19T13:24:58.570Z
+date: 2025-07-23T08:49:31.597Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:06:39.646Z
@@ -259,13 +259,10 @@ dateCreated: 2024-01-29T18:06:39.646Z
 
 ![贝尔米特士官学园](/assets/zh_cn/地图/alice_in_cradle_地图_贝尔米特学园_ver.20250715a.png =476x){ .pixelated-image }
 
+<!-- 旧版信息，需要更新
 ### 房间名
 
-![贝尔米特士官学园:带房间名](/assets/zh_cn/地图/alice_in_cradle_地图_贝尔米特士官学园_025a_roomnames.png)
-
-## 恩惠圣母之石
-
-![alice_in_cradle_地图_恩惠圣母之石_025a.png](/assets/zh_cn/地图/alice_in_cradle_地图_恩惠圣母之石_025a.png)
+![贝尔米特士官学园:带房间名](/assets/zh_cn/地图/alice_in_cradle_地图_贝尔米特士官学园_025a_roomnames.png)-->
 
 ## 拓荒者山岳
 
