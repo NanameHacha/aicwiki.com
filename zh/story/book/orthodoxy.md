@@ -2,7 +2,7 @@
 title: 格拉提亚正教
 description: 
 published: true
-date: 2025-07-15T13:05:19.245Z
+date: 2025-07-23T02:38:02.026Z
 tags: book
 editor: markdown
 dateCreated: 2025-07-15T13:01:30.747Z
@@ -10,7 +10,7 @@ dateCreated: 2025-07-15T13:01:30.747Z
 
 <!-- 半年终于休息一次，没时间整上discord号 TalkDe -->
 # 《格拉提亚正教》
-位于天空设施图书馆最右侧。
+位于天空设施藏书室右数第一个。
 
 ## 正文
 最初，这个世界充满了混沌与纷争。
