@@ -1,8 +1,8 @@
 ---
-title: 格拉提亚正教
+title: 《格拉提亚正教》
 description: 
 published: true
-date: 2025-07-23T02:38:02.026Z
+date: 2025-07-23T02:53:28.306Z
 tags: book
 editor: markdown
 dateCreated: 2025-07-15T13:01:30.747Z
