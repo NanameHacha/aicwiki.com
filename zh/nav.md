@@ -2,7 +2,7 @@
 title: 快速参考
 description: 此页面列举了所有内容和索引
 published: true
-date: 2025-04-25T06:18:31.855Z
+date: 2025-07-23T08:22:22.377Z
 tags: index
 editor: markdown
 dateCreated: 2024-01-29T19:10:30.693Z
@@ -13,12 +13,14 @@ dateCreated: 2024-01-29T19:10:30.693Z
 - [登场角色](/zh/characters)
 - [彩蛋](/zh/easter-eggs)
 - [剧情](/zh/story)
+- [书籍](/zh/story/book)
 - [音乐](/zh/music-list)
 - [版本记录](/zh/version)
 
 ## 游戏机制
 - [魔法](/zh/spells)
 - [魔力系统](/zh/mana-crystal)
+- [法杖](/zh/magic-cane)
 - [技能](/zh/skills)
 - [插件](/zh/enhancers)
 - [异常状态](/zh/effects-debuffs)
