@@ -2,7 +2,7 @@
 title: 《黄金之美杜莎》
 description: 
 published: true
-date: 2025-07-23T02:57:29.459Z
+date: 2025-07-23T03:01:46.591Z
 tags: book
 editor: markdown
 dateCreated: 2025-07-23T02:57:29.459Z
@@ -52,3 +52,5 @@ dateCreated: 2025-07-23T02:57:29.459Z
 切记，那道光芒千万不可直视，
 
 更是绝对不可触碰。
+## 你知道吗？
+- 在文档的注释中注有“紫外線の擬人化の話。”，意指“美杜莎”即紫外线。
