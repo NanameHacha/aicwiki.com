@@ -1,8 +1,8 @@
 ---
-title: 相关音乐
-description: Alice In Cradle 相关音乐
+title: 音乐
+description: Alice In Cradle 中所出现的原创音乐
 published: true
-date: 2025-07-14T18:44:29.487Z
+date: 2025-07-23T08:34:30.553Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:29:14.198Z
@@ -14,8 +14,6 @@ dateCreated: 2024-01-29T18:29:14.198Z
 
 > 关于音乐和其他游戏素材的使用限制请阅读[【游戏内素材使用条例】](https://docs.nanamehacha.dev/zh/alice_in_cradle/license/the_use_of_game_assets)
 {.is-warning}
-
-# 相关音乐
 
 >外部版权（非官方原创）曲目不在此列表中
 {.is-info}
