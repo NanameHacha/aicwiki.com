@@ -259,6 +259,8 @@ dateCreated: 2024-01-29T18:06:39.646Z
 
 ![贝尔米特士官学园](/assets/zh_cn/地图/alice_in_cradle_地图_贝尔米特学园_ver.20250715a.png =476x){ .pixelated-image }
 
+![贝尔米特士官学园 平面图](/assets/zh_cn/地图/alice_in_cradle_地图_贝尔米特学园_平面图_ver.20250909i.png =476x){ .pixelated-image }
+
 <!-- 旧版信息，需要更新
 ### 房间名
 
