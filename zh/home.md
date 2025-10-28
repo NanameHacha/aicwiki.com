@@ -2,7 +2,7 @@
 title: 简体中文百科
 description: Alice In Cradle 简体中文百科 - 由社区编辑者编写
 published: true
-date: 2025-10-02T02:53:35.897Z
+date: 2025-10-28T10:15:18.940Z
 tags: index
 editor: markdown
 dateCreated: 2024-01-29T14:45:09.477Z
@@ -38,6 +38,8 @@ dateCreated: 2024-01-29T14:45:09.477Z
 {.is-info}
 - 中国大陆：[喵德斯企业店](https://nyads.taobao.com/search.htm?search=y&keyword=aliceincradle)
 - 全球站点：[Nyads Store](https://nyads.net/collections/aliceincradle)
+- WePlay 2025 场限周边（2025/11/22开售）：[展会信息](https://www.bilibili.com/opus/1127209347940614163)
+<img src = https://i0.hdslb.com/bfs/new_dyn/e0134b8f653ce1bc728d1380a47447343493078251866300.png></img>
 ## 表情包
 - Discord：请在 Discord 频道内购买
 - Line：[StickerShop](https://store.line.me/stickershop/product/25649586)
