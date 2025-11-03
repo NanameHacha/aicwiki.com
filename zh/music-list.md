@@ -2,7 +2,7 @@
 title: 音乐
 description: Alice In Cradle 中所出现的原创音乐
 published: true
-date: 2025-10-19T12:42:39.036Z
+date: 2025-11-03T02:21:13.852Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:29:14.198Z
@@ -20,7 +20,7 @@ dateCreated: 2024-01-29T18:29:14.198Z
 
 | 曲目名称 | 出现场景 | 作曲 | 听歌 |
 | --- | --- | --- | --- |
-| Battle Forest| 在编织者之森战斗 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1kZf5YiEUK/) |
+| Battle | 在编织者之森战斗 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1kZf5YiEUK/) |
 | Battle Nusi | 与[森之领主](/zh/enemy/lord-of-the-forest)战斗时 | An-fillnote | [BiliBili](https://www.bilibili.com/video/BV1Wof5YMEnZ/) |
 | Cornehl | 魔女的杂货店 | An-fillnote | [BiliBili](https://www.bilibili.com/video/BV1ejfLYWEiw/) |
 | Cornehl Night | 魔女的杂货店（夜间） | An-fillnote | [BiliBili](https://www.bilibili.com/video/BV19jfLYWELV/) |
@@ -30,9 +30,14 @@ dateCreated: 2024-01-29T18:29:14.198Z
 | Ixia Night | 夜间遇到伊夏 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1vxPReEERx) |
 | Ixia Normal | 参与伊夏的战斗 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1CzFYexEFX) |
 | Ixia Usual | 遇到伊夏 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1ixPReEEhR) |
+<!--
+|  | - |  | [BiliBili]() |
+|  | - |  | [BiliBili]() |
+|  | - |  | [BiliBili]() |
+-->
 | MGM TTR (4ASCEND) | 4ASCEND 小游戏 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1GYFTeeEfW/) |
-| Normal Forest | 编织者之森 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1reF7eCE5C/) |
-| Normal Forest (Nightingale) | 在编织者之森遇到南丁格尔 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1vkFBeZEvm/) |
+| Normal | 编织者之森 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1reF7eCE5C/) |
+| Normal (Nightingale) | 在编织者之森遇到南丁格尔 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1vkFBeZEvm/) |
 | Primula | 剧情 | rN | [BiliBili](https://www.bilibili.com/video/BV1f8FoeUEqG/) |
 | School | 贝尔米特学园 | rN | [BiliBili](https://www.bilibili.com/video/BV1f8FoeUEc3/) |
 | Tigrina Battle | 废弃库房 | ああああ | [BiliBili](https://www.bilibili.com/video/BV1AgFDeuEAx/) |
