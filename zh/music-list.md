@@ -2,7 +2,7 @@
 title: 音乐
 description: Alice In Cradle 中所出现的原创音乐
 published: true
-date: 2025-11-03T02:21:13.852Z
+date: 2025-11-05T09:12:52.410Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:29:14.198Z
@@ -30,11 +30,6 @@ dateCreated: 2024-01-29T18:29:14.198Z
 | Ixia Night | 夜间遇到伊夏 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1vxPReEERx) |
 | Ixia Normal | 参与伊夏的战斗 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1CzFYexEFX) |
 | Ixia Usual | 遇到伊夏 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1ixPReEEhR) |
-<!--
-|  | - |  | [BiliBili]() |
-|  | - |  | [BiliBili]() |
-|  | - |  | [BiliBili]() |
--->
 | MGM TTR (4ASCEND) | 4ASCEND 小游戏 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1GYFTeeEfW/) |
 | Normal | 编织者之森 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1reF7eCE5C/) |
 | Normal (Nightingale) | 在编织者之森遇到南丁格尔 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1vkFBeZEvm/) |
@@ -45,6 +40,13 @@ dateCreated: 2024-01-29T18:29:14.198Z
 | Tower Defence: Phase 1 | 塔防战 | An-fillnote | [BiliBili](https://www.bilibili.com/video/BV1BaMXzDEDa/) |
 | Tower Defence: Phase 2 | 塔防战 | An-fillnote | [BiliBili](https://www.bilibili.com/video/BV1YpuqzvEFW/) |
 | Tower Defence: Phase 3 | 塔防战 | An-fillnote | [BiliBili](https://www.bilibili.com/video/BV1N2urzvEMi/) |
+
+<!-- under ixia usual
+|  | - |  | [BiliBili]() |
+|  | - |  | [BiliBili]() |
+|  | - |  | [BiliBili]() |
+-->
+
 
 <!-- 旧版列表 -->
 <!--<div class="table-container" id="相关音乐-1"></div>-->
