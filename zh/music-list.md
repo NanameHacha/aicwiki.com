@@ -2,7 +2,7 @@
 title: 音乐
 description: Alice In Cradle 中所出现的原创音乐
 published: true
-date: 2025-11-08T12:32:48.655Z
+date: 2025-11-08T20:01:54.676Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:29:14.198Z
@@ -37,7 +37,7 @@ dateCreated: 2024-01-29T18:29:14.198Z
 | MGM TTR (4ASCEND) | 4ASCEND 小游戏 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1GYFTeeEfW/) |
 | Normal | 编织者之森 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1reF7eCE5C/) |
 | Normal (Nightingale) | 在编织者之森遇到南丁格尔 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1vkFBeZEvm/) |
-| Normal (Nightingale Mix) | 在编织者之森遇到南丁格尔 | ginkiha | [BiliBili]() |
+| Normal (Nightingale Mix) | 在编织者之森遇到南丁格尔 | ginkiha | [BiliBili](https://www.bilibili.com/video/BV1T71dBEENs/) |
 | Primula | 剧情 | rN | [BiliBili](https://www.bilibili.com/video/BV1f8FoeUEqG/) |
 | School | 贝尔米特学园 | rN | [BiliBili](https://www.bilibili.com/video/BV1f8FoeUEc3/) |
 | Tigrina Battle | 废弃库房 | ああああ | [BiliBili](https://www.bilibili.com/video/BV1AgFDeuEAx/) |
