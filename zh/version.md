@@ -2,7 +2,7 @@
 title: 版本记录
 description: 记录了各个版本的发布日期
 published: true
-date: 2025-08-14T17:40:00.534Z
+date: 2025-11-21T05:20:35.954Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T19:07:22.980Z
@@ -140,3 +140,9 @@ dateCreated: 2024-01-29T19:07:22.980Z
 | 版本号 | 发布日期 |
 | - | - |
 | 0.09n | 2020 年 11 月 19 日 |
+
+# 展会版本
+## WePlay Expo 2025
+Alice In Cradle 于 2025 年 11 月 22 日至 23 日在 WePlay Expo 2025 上的 B29 展位参展。
+
+该版本基于 0.29 版本修改，提供特别调整过的山岳地图。内容从简易教程开始，无缝衔接 0.28 版本剧情的后续第二章。该版本会锁定为超健全模式。
