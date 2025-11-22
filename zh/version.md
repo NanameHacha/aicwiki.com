@@ -2,7 +2,7 @@
 title: 版本记录
 description: 记录了各个版本的发布日期
 published: true
-date: 2025-11-22T09:17:58.532Z
+date: 2025-11-22T09:18:19.581Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T19:07:22.980Z
@@ -143,6 +143,6 @@ dateCreated: 2024-01-29T19:07:22.980Z
 
 # 其他版本
 
-| 版本号 | 发布日期 |
+| 版本名称 | 发布日期 |
 | - | - |
 | [WePlay Expo Edition](/zh/version/weplay_expo_edition) | 2025 年 11 月 22 日 |
