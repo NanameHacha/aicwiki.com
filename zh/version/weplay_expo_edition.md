@@ -1,8 +1,8 @@
 ---
 title: Weplay Expo Edition
-description: 
+description: 在 WePlay Expo 2025 上的 B29 展位参展的版本。
 published: true
-date: 2025-11-22T09:15:55.459Z
+date: 2025-11-22T09:16:21.038Z
 tags: game-version
 editor: markdown
 dateCreated: 2025-11-22T09:15:55.459Z
