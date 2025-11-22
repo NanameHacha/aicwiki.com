@@ -2,7 +2,7 @@
 title: 地图
 description: Alice In Cradle 地图
 published: true
-date: 2025-07-23T08:49:31.597Z
+date: 2025-11-22T06:33:22.594Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:06:39.646Z
@@ -268,5 +268,7 @@ dateCreated: 2024-01-29T18:06:39.646Z
 
 ## 拓荒者山岳
 
-> 该区域尚未实装
+> 该区域尚未实装，内容经供参考，更多信息需正式发布后补充
 {.is-info}
+
+![alice_in_cradle_地图_拓荒者山岳_ver.20251122a.png](/assets/zh_cn/地图/alice_in_cradle_地图_拓荒者山岳_ver.20251122a.png =666x){ .pixelated-image }
