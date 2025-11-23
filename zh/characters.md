@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2025-11-23T17:48:19.047Z
+date: 2025-11-23T17:58:53.791Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
@@ -18,12 +18,12 @@ dateCreated: 2024-02-12T12:03:38.257Z
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-noelpixel.webp" /><div class="character-title">诺艾儿・柯涅尔（<ruby lang="ja">ノエル<rt>Noel</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）</div></div> ||
 | --- | --- |
-| <div style="width:200px;">![诺艾儿・柯涅尔](/assets/global/characters/cornehl/600x_9_14_noel_240212_233954.webp)</div> | 本作的女主角。<br>出身于正统精灵的炼金术师的家系中分出的柯涅尔家族的后裔，是精灵和兽人的混血。<br><br>立志成为姐姐一样帅气优秀的魔法使，并对老师所说的、传说在魔法云雾外 “镶嵌在夜空的天花板上的宝石般的繁星” 感到憧憬。在第二天得知前一天夜里出现魔族暴动、伊夏同学陷入危险后，踏上旅途。 |
+| <div style="width:200px;">![诺艾儿・柯涅尔](/assets/global/characters/cornehl/600x_9_14_noel_240212_233954.webp)</div> | 本作的女主角。第四子<br>出身于正统精灵的炼金术师的家系中分出的柯涅尔家族的后裔，是精灵和兽人的混血。因继承了血脉的兽人基因，头顶长有猫耳般的突起（无听觉功能），魔法天赋尚可但不及姐姐，在校成绩处于中上水平。<br><br>立志成为姐姐一样帅气优秀的魔法使，并对老师所说的、传说在魔法云雾外 “镶嵌在夜空的天花板上的宝石般的繁星” 感到憧憬。在第二天得知前一天夜里出现魔族暴动、伊夏同学陷入危险后，踏上旅途。|
 
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-laevigatapixel.webp"><div class="character-title">丽薇歌塔・柯涅尔（<ruby lang="ja">レヴィガータ<rt>Laevigata</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）</div></div> ||
 | --- | --------- |
-| <div style="width:200px;">![丽薇歌塔・柯涅尔](/assets/global/characters/cornehl/600x_9_14_laevi_240212_234049.webp)</div> | **角色设计：**[ふた@ナベフタ工房]<br>诺艾儿的二姐。<br>经营着一家魔法杂货店，也就是游戏中的据点 “魔女杂货店”，诺艾儿一家也居住在这里。自家人买东西还收钱的屑姐姐。<br>不过由于位于森林深处，而且荆棘众多，导致她的杂货店鲜有人光顾，再加上本人魔法技艺非常优秀，导致关于诺艾儿家出现了许多奇怪的 “都市传说”。<br><br>魔女杂货店除了售卖物品之外，还会为前来的客人提供一些各种你懂的服务。<span class="spoiler">从剧情对话中可以看出姐姐貌似很喜欢各种奇怪的 SM，比如荆棘 play 和掐脖 play。</span><span class="spoiler">谁让这是 R18 游戏呢！</span> |
+| <div style="width:200px;">![丽薇歌塔・柯涅尔](/assets/global/characters/cornehl/600x_9_14_laevi_240212_234049.webp)</div> | 家中次女，诺艾儿的二姐。<br>她继承了浓厚的精灵血统，在魔法与炼金术领域展现出非凡才华。经营着一家魔法杂货店，也就是游戏中的据点 “魔女杂货店”，诺艾儿一家也居住在这里。<br><br>她在工坊制作的魔法道具品质卓越，炼金术材料有时需使用精灵或兽人的<span class="spoiler">精液</span>，为此工坊内设有“休息室”。为服务老主顾，或开发突然兴起的客源，几乎总由丽薇歌塔穿着暴露的服装担任售货员。丽薇歌塔本人只关心工坊发展与创作精美作品，对身体被玷污毫不在意，只要有人指名，便会将售货工作交给诺艾儿或其他兄弟，自己便蹦蹦跳跳地钻进“休息室”。</span> |
 
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-tildepixel.webp"><div class="character-title">提尔德・柯涅尔（<ruby lang="ja">チルダ<rt>Tilde</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）</div></div> ||
