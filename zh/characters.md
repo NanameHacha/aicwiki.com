@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2025-11-23T17:58:53.791Z
+date: 2025-11-23T18:19:26.952Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
@@ -18,28 +18,43 @@ dateCreated: 2024-02-12T12:03:38.257Z
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-noelpixel.webp" /><div class="character-title">诺艾儿・柯涅尔（<ruby lang="ja">ノエル<rt>Noel</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）</div></div> ||
 | --- | --- |
-| <div style="width:200px;">![诺艾儿・柯涅尔](/assets/global/characters/cornehl/600x_9_14_noel_240212_233954.webp)</div> | 本作的女主角。第四子<br>出身于正统精灵的炼金术师的家系中分出的柯涅尔家族的后裔，是精灵和兽人的混血。因继承了血脉的兽人基因，头顶长有猫耳般的突起（无听觉功能），魔法天赋尚可但不及姐姐，在校成绩处于中上水平。<br><br>立志成为姐姐一样帅气优秀的魔法使，并对老师所说的、传说在魔法云雾外 “镶嵌在夜空的天花板上的宝石般的繁星” 感到憧憬。在第二天得知前一天夜里出现魔族暴动、伊夏同学陷入危险后，踏上旅途。|
+| <div style="width:200px;">![诺艾儿・柯涅尔](/assets/global/characters/cornehl/600x_9_14_noel_240212_233954.webp)</div> | 本作的女主角，家中第四子。<br>出身于正统精灵的炼金术师的家系中分出的柯涅尔家族的后裔，是精灵和兽人的混血。因继承了血脉的兽人基因，头顶长有猫耳般的突起（无听觉功能），魔法天赋尚可但不及姐姐，在校成绩处于中上水平。<br><br>立志成为姐姐一样帅气优秀的魔法使，并对老师所说的、传说在魔法云雾外 “镶嵌在夜空的天花板上的宝石般的繁星” 感到憧憬。在第二天得知前一天夜里出现魔族暴动、伊夏同学陷入危险后，踏上旅途。|
 
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-laevigatapixel.webp"><div class="character-title">丽薇歌塔・柯涅尔（<ruby lang="ja">レヴィガータ<rt>Laevigata</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）</div></div> ||
 | --- | --------- |
-| <div style="width:200px;">![丽薇歌塔・柯涅尔](/assets/global/characters/cornehl/600x_9_14_laevi_240212_234049.webp)</div> | 家中次女，诺艾儿的二姐。<br>她继承了浓厚的精灵血统，在魔法与炼金术领域展现出非凡才华。经营着一家魔法杂货店，也就是游戏中的据点 “魔女杂货店”，诺艾儿一家也居住在这里。<br><br>她在工坊制作的魔法道具品质卓越，炼金术材料有时需使用精灵或兽人的<span class="spoiler">精液</span>，为此工坊内设有“休息室”。为服务老主顾，或开发突然兴起的客源，几乎总由丽薇歌塔穿着暴露的服装担任售货员。丽薇歌塔本人只关心工坊发展与创作精美作品，对身体被玷污毫不在意，只要有人指名，便会将售货工作交给诺艾儿或其他兄弟，自己便蹦蹦跳跳地钻进“休息室”。</span> |
+| <div style="width:200px;">![丽薇歌塔・柯涅尔](/assets/global/characters/cornehl/600x_9_14_laevi_240212_234049.webp)</div> | 诺艾儿的二姐，家中次女。<br>她继承了浓厚的精灵血统，在魔法与炼金术领域展现出非凡才华。经营着一家魔法杂货店，也就是游戏中的据点 “魔女杂货店”，诺艾儿一家也居住在这里。<br><br>她在工坊制作的魔法道具品质卓越，炼金术材料有时需使用精灵或兽人的<span class="spoiler">精液</span>，为此工坊内设有“休息室”。为服务老主顾，或开发突然兴起的客源，几乎总由丽薇歌塔穿着暴露的服装担任售货员。丽薇歌塔本人只关心工坊发展与创作精美作品，对身体被玷污毫不在意，只要有人指名，便会将售货工作交给诺艾儿或其他兄弟，自己便蹦蹦跳跳地钻进“休息室”。|
 
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-tildepixel.webp"><div class="character-title">提尔德・柯涅尔（<ruby lang="ja">チルダ<rt>Tilde</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）</div></div> ||
 | --- | --------- |
-| <div style="width:200px;">![提尔德・柯涅尔](/assets/global/characters/cornehl/600x_9_14_tilde_240212_234036.webp)</div> | 诺艾儿的二哥。擅长烹饪，教过诺艾儿厨艺。<br>比较喜欢损诺艾儿，比如在教诺艾儿做饭时会吐槽她。<span class="spoiler">以及趁诺艾儿洗澡时把她唯一的一套衣服拿去洗了然后让诺艾儿披着浴巾回房间结果让她被路过的父亲撞倒并被后者看光。</span><br><br>在 0.24 版本后会随机出现在编织者之森中，可以给诺艾儿借用烹饪锅一次来做饭（在未使用的情况下退出烹饪界面可再次申请使用），不用回到家。 |
+| <div style="width:200px;">![提尔德・柯涅尔](/assets/global/characters/cornehl/600x_9_14_tilde_240212_234036.webp)</div> | 诺艾儿的兄长，家中第三子。就读于格拉提亚大学生物系，因复杂的身世常遭同学欺负，但凭借与生俱来的洒脱举止，总能巧妙周旋于人际关系中。<br><br>爱好烹饪，教过诺艾儿厨艺。<br>比较喜欢损诺艾儿，比如在教诺艾儿做饭时会吐槽她。<span class="spoiler">以及趁诺艾儿洗澡时把她唯一的一套衣服拿去洗了然后让诺艾儿披着浴巾回房间结果让她被路过的父亲撞倒并被后者看光。</span> |
+
+
+| <div class="character-header"><div class="character-title">杰斯・柯涅尔（<ruby lang="ja">ゼス<rt>Zeth</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）</div></div> ||
+| --- | --- |
+|| 诺艾儿的兄长，家中长子。<br>天资聪颖，以首席身份考入精灵村的大学。 |
 
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-delfinipixel.webp"><div class="character-title">德尔菲尼・柯涅尔（<ruby lang="ja">デルフィニ<rt>Delfini</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）</div></div> ||
 | --- | --------- |
-| <div style="width:200px;">![德尔菲尼・柯涅尔](/assets/global/characters/cornehl/600x_9_14_noeldad_240212_234148.webp)</div> | 诺艾儿的父亲。<br><br>目前柯涅尔家族的家主，管教严厉，对柯涅尔家族成员能力自信的同时又极为看重家族的声望，认为诺艾儿这样天赋异禀的人会遭到嫉妒，将诺艾儿两周前遇到的事故视为家族的耻辱。虽然反对诺艾儿继续进修军官课程，但尊重诺艾儿本人的意愿。 |
+| <div style="width:200px;">![德尔菲尼・柯涅尔](/assets/global/characters/cornehl/600x_9_14_noeldad_240212_234148.webp)</div> | 诺艾儿的父亲，在精灵村庄出生长大的纯血精灵。<br><br>目前柯涅尔家族的家主，管教严厉，对柯涅尔家族成员能力自信的同时又极为看重家族的声望，认为诺艾儿这样天赋异禀的人会遭到嫉妒，将诺艾儿两周前遇到的事故视为家族的耻辱。虽然反对诺艾儿继续进修军官课程，但尊重诺艾儿本人的意愿。 |
 
 
-- 大哥：杰斯・柯涅尔（<ruby lang="ja">ゼス<rt>Zeth</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）[^1]
-- 母亲：希特拉斯・柯涅尔（<ruby lang="ja">シトラス<rt>Citrus</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）
-- 祖父：贝利尔・柯涅尔（<ruby lang="ja">ベリル<rt>Beryl</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）
-- 祖母：夏丝塔・柯涅尔（<ruby lang="ja">シャスタ<rt>Shastar</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）
+| <div class="character-header"><div class="character-title">希特拉斯・柯涅尔（<ruby lang="ja">シトラス<rt>Citrus</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）</div></div> ||
+| --- | --- |
+|| 诺埃尔的母亲，兽人与精灵的混血儿。<br>在生下第四子诺艾儿时去世。 |
+
+
+| <div class="character-header"><div class="character-title">贝利尔・柯涅尔（<ruby lang="ja">ベリル<rt>Beryl</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）</div></div> ||
+| --- | --- |
+|| 诺埃尔的祖父。 |
+
+
+| <div class="character-header"><div class="character-title">夏丝塔・柯涅尔（<ruby lang="ja">シャスタ<rt>Shastar</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）</div></div> ||
+| --- | --- |
+|| 诺埃尔的祖母，已故。她生前似乎是个相当放荡不羁的兽人，其生活方式对失去记忆的普利姆拉产生了深远影响。 |
+
 
 # 贝尔米特学园
 
