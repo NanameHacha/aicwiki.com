@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2025-11-23T19:02:08.135Z
+date: 2025-11-23T19:02:22.945Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
@@ -82,7 +82,7 @@ dateCreated: 2024-02-12T12:03:38.257Z
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-nightingalepixel.webp"><div class="character-title">南丁格尔（<ruby>ナイチンゲール<rt>Nightingale</rt></ruby>）</div></div> ||
 | --- | --- |
-| <div style="width:200px;">![南丁格尔](/assets/global/characters/other/600x_9_10_nightingale_240212_234202.webp)</div> | **角色设计：**[彩月わくら]<br>旅行商人。<br>南丁格尔并非是其真名。之所以自称南丁格尔，是从上古神话中看到一个女神明在其他神明的纷争上救死扶伤而被称为 “白衣天使”，认为这非常酷，于是就叫自己南丁格尔。<br><br>虽出身精灵村落，却因不愿归家，在魔族出没的区域过着流浪生活，靠与冒险者交易维持生计。因此她的行囊配备了野外露营所需的全套装备，背负着足有自身两三倍大的背包，她本人则穿着便于行动的冒险者装束。<br><br>常称呼诺艾儿为 “小公主”，在旅途中处处关照对方。第一次见到诺艾儿时直接在诺艾儿身上摸来摸去。<span class="spoiler">看了她的胖次以及揉胸。</span><br>表面装作不擅长理论知识与魔法的呆萌角色，实则天资过人...尤其精通冒险与商贸所需的数学（计算统计）、医学、探险技巧及魔族知识。进入商人模式时总是笑眯眯地抠门到分文不让，但偶尔也会严肃地为诺艾儿操心，展现出可靠姐姐的一面。|
+| <div style="width:200px;">![南丁格尔](/assets/global/characters/other/600x_9_10_nightingale_240212_234202.webp)</div> | **角色设计：**[彩月わくら]<br>旅行商人。<br>南丁格尔并非是其真名。之所以自称南丁格尔，是从上古神话中看到一个女神明在其他神明的纷争上救死扶伤而被称为 “白衣天使”，认为这非常酷，于是就叫自己南丁格尔。<br><br>虽出身精灵之村，却因不愿归家，在魔族出没的区域过着流浪生活，靠与冒险者交易维持生计。因此她的行囊配备了野外露营所需的全套装备，背负着足有自身两三倍大的背包，她本人则穿着便于行动的冒险者装束。<br><br>常称呼诺艾儿为 “小公主”，在旅途中处处关照对方。第一次见到诺艾儿时直接在诺艾儿身上摸来摸去。<span class="spoiler">看了她的胖次以及揉胸。</span><br>表面装作不擅长理论知识与魔法的呆萌角色，实则天资过人...尤其精通冒险与商贸所需的数学（计算统计）、医学、探险技巧及魔族知识。进入商人模式时总是笑眯眯地抠门到分文不让，但偶尔也会严肃地为诺艾儿操心，展现出可靠姐姐的一面。|
 
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-walrosspixel.webp"><div class="character-title">瓦罗斯（<ruby>ヴァーロス<rt>Walross</rt></ruby>）</div></div> ||
