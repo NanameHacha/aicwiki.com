@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2025-11-23T18:40:29.219Z
+date: 2025-11-23T18:45:12.731Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
@@ -60,7 +60,7 @@ dateCreated: 2024-02-12T12:03:38.257Z
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-ixiapixel.webp"><div class="character-title">伊夏・波利斯塔切尔（<ruby lang="ja">イクシャ<rt>Ixia</rt></ruby>・<ruby lang="ja">ポリスタキア<rt>Polystachya</rt></ruby>）</div></div> ||
 | --- | --------- |
-| <div style="width:200px;">![伊夏・波利斯塔切尔](/assets/global/characters/bermit/600x_9_14_ixia_240212_234145.webp)</div> | 纯血精灵，诺艾儿的同学。<br>将诺艾儿视为竞争对手和好朋友，喜欢和诺艾儿进行魔法技巧上的切磋。<span class="spoiler">这不就一傲娇嘛！</span><br><br>会骑着法杖贴地飞行，而且速度很快。<br>她天资卓越，在学园里成绩名列前茅，却总因各种意外（比如上学途中遭魔族突袭）导致考试失分，宛如生来背负不幸星辰的少女。<span class="spoiler">尤其无法忍受输给出身平民的诺艾儿，每逢机会便以傲慢姿态试图压制对方。但她家教良好且重情重义，若被诺艾儿所救，定要彻底偿还这份恩情。</spam> |
+| <div style="width:200px;">![伊夏・波利斯塔切尔](/assets/global/characters/bermit/600x_9_14_ixia_240212_234145.webp)</div> | **角色设计：**[せきらあめ]<br>诺艾儿的同学，纯血精灵。<br>将诺艾儿视为竞争对手和好朋友，喜欢和诺艾儿进行魔法技巧上的切磋。<span class="spoiler">这不就一傲娇嘛！</span><br><br>会骑着法杖贴地飞行，而且速度很快。<br>她天资卓越，在学园里成绩名列前茅，却总因各种意外（比如上学途中遭魔族突袭）导致考试失分，宛如生来背负不幸星辰的少女。<span class="spoiler">尤其无法忍受输给出身平民的诺艾儿，每逢机会便以傲慢姿态试图压制对方。但她家教良好且重情重义，若被诺艾儿所救，定要彻底偿还这份恩情。</spam> |
 
 
 
