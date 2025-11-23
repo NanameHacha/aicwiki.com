@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2025-11-23T18:19:26.952Z
+date: 2025-11-23T18:40:29.219Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
@@ -23,22 +23,22 @@ dateCreated: 2024-02-12T12:03:38.257Z
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-laevigatapixel.webp"><div class="character-title">丽薇歌塔・柯涅尔（<ruby lang="ja">レヴィガータ<rt>Laevigata</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）</div></div> ||
 | --- | --------- |
-| <div style="width:200px;">![丽薇歌塔・柯涅尔](/assets/global/characters/cornehl/600x_9_14_laevi_240212_234049.webp)</div> | 诺艾儿的二姐，家中次女。<br>她继承了浓厚的精灵血统，在魔法与炼金术领域展现出非凡才华。经营着一家魔法杂货店，也就是游戏中的据点 “魔女杂货店”，诺艾儿一家也居住在这里。<br><br>她在工坊制作的魔法道具品质卓越，炼金术材料有时需使用精灵或兽人的<span class="spoiler">精液</span>，为此工坊内设有“休息室”。为服务老主顾，或开发突然兴起的客源，几乎总由丽薇歌塔穿着暴露的服装担任售货员。丽薇歌塔本人只关心工坊发展与创作精美作品，对身体被玷污毫不在意，只要有人指名，便会将售货工作交给诺艾儿或其他兄弟，自己便蹦蹦跳跳地钻进“休息室”。|
+| <div style="width:200px;">![丽薇歌塔・柯涅尔](/assets/global/characters/cornehl/600x_9_14_laevi_240212_234049.webp)</div> | **角色设计：**[ふた@ナベフタ工房]<br>诺艾儿的二姐，家中次女。<br>她继承了浓厚的精灵血统，在魔法与炼金术领域展现出非凡才华。经营着一家魔法杂货店，也就是游戏中的据点 “魔女杂货店”，诺艾儿一家也居住在这里。<br><br>她在工坊制作的魔法道具品质卓越，炼金术材料有时需使用精灵或兽人的<span class="spoiler">精液</span>，为此工坊内设有“休息室”。为服务老主顾，或开发突然兴起的客源，几乎总由丽薇歌塔穿着暴露的服装担任售货员。丽薇歌塔本人只关心工坊发展与创作精美作品，对身体被玷污毫不在意，只要有人指名，便会将售货工作交给诺艾儿或其他兄弟，自己便蹦蹦跳跳地钻进“休息室”。|
 
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-tildepixel.webp"><div class="character-title">提尔德・柯涅尔（<ruby lang="ja">チルダ<rt>Tilde</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）</div></div> ||
 | --- | --------- |
-| <div style="width:200px;">![提尔德・柯涅尔](/assets/global/characters/cornehl/600x_9_14_tilde_240212_234036.webp)</div> | 诺艾儿的兄长，家中第三子。就读于格拉提亚大学生物系，因复杂的身世常遭同学欺负，但凭借与生俱来的洒脱举止，总能巧妙周旋于人际关系中。<br><br>爱好烹饪，教过诺艾儿厨艺。<br>比较喜欢损诺艾儿，比如在教诺艾儿做饭时会吐槽她。<span class="spoiler">以及趁诺艾儿洗澡时把她唯一的一套衣服拿去洗了然后让诺艾儿披着浴巾回房间结果让她被路过的父亲撞倒并被后者看光。</span> |
+| <div style="width:200px;">![提尔德・柯涅尔](/assets/global/characters/cornehl/600x_9_14_tilde_240212_234036.webp)</div> | 诺艾儿的兄长，家中第三子。就读于生物系，因复杂的身世常遭同学欺负，但凭借与生俱来的洒脱举止，总能巧妙周旋于人际关系中。<br><br>爱好烹饪，教过诺艾儿厨艺。<br>比较喜欢损诺艾儿，比如在教诺艾儿做饭时会吐槽她。<span class="spoiler">以及趁诺艾儿洗澡时把她唯一的一套衣服拿去洗了然后让诺艾儿披着浴巾回房间结果让她被路过的父亲撞倒并被后者看光。</span> |
 
 
 | <div class="character-header"><div class="character-title">杰斯・柯涅尔（<ruby lang="ja">ゼス<rt>Zeth</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）</div></div> ||
 | --- | --- |
-|| 诺艾儿的兄长，家中长子。<br>天资聪颖，以首席身份考入精灵村的大学。 |
+|| 诺艾儿的兄长，家中长子。<br>天资聪颖，以首席身份考入精灵之村的大学。 |
 
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-delfinipixel.webp"><div class="character-title">德尔菲尼・柯涅尔（<ruby lang="ja">デルフィニ<rt>Delfini</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）</div></div> ||
 | --- | --------- |
-| <div style="width:200px;">![德尔菲尼・柯涅尔](/assets/global/characters/cornehl/600x_9_14_noeldad_240212_234148.webp)</div> | 诺艾儿的父亲，在精灵村庄出生长大的纯血精灵。<br><br>目前柯涅尔家族的家主，管教严厉，对柯涅尔家族成员能力自信的同时又极为看重家族的声望，认为诺艾儿这样天赋异禀的人会遭到嫉妒，将诺艾儿两周前遇到的事故视为家族的耻辱。虽然反对诺艾儿继续进修军官课程，但尊重诺艾儿本人的意愿。 |
+| <div style="width:200px;">![德尔菲尼・柯涅尔](/assets/global/characters/cornehl/600x_9_14_noeldad_240212_234148.webp)</div> | 诺艾儿的父亲，在精灵之村出生长大的纯血精灵。<br><br>目前柯涅尔家族的家主，管教严厉，对柯涅尔家族成员能力自信的同时又极为看重家族的声望，认为诺艾儿这样天赋异禀的人会遭到嫉妒，将诺艾儿两周前遇到的事故视为家族的耻辱。虽然反对诺艾儿继续进修军官课程，但尊重诺艾儿本人的意愿。 |
 
 
 | <div class="character-header"><div class="character-title">希特拉斯・柯涅尔（<ruby lang="ja">シトラス<rt>Citrus</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）</div></div> ||
@@ -60,13 +60,13 @@ dateCreated: 2024-02-12T12:03:38.257Z
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-ixiapixel.webp"><div class="character-title">伊夏・波利斯塔切尔（<ruby lang="ja">イクシャ<rt>Ixia</rt></ruby>・<ruby lang="ja">ポリスタキア<rt>Polystachya</rt></ruby>）</div></div> ||
 | --- | --------- |
-| <div style="width:200px;">![伊夏・波利斯塔切尔](/assets/global/characters/bermit/600x_9_14_ixia_240212_234145.webp)</div> | **角色设计：**[せきらあめ]<br>诺艾儿的同学。<br>将诺艾儿视为竞争对手和好朋友，喜欢和诺艾儿进行魔法技巧上的切磋。<span class="spoiler">这不就一傲娇嘛！</span><br>会骑着法杖贴地飞行，而且速度很快。<br>魔族暴动时恰巧在为诺艾儿递送魔法设备（技能 “聚能火球” 与 “圣光爆发”）的路上被土蛇击倒，在危难之际，诺艾儿的法杖捕捉到了她的法杖发出的求救信号，及时赶到并救下了她。~~不过如果输掉的话那就是另一个剧情了～~~<br><br>之后被森之领主困住时法杖遗落，第二次被诺艾儿搭救。 |
+| <div style="width:200px;">![伊夏・波利斯塔切尔](/assets/global/characters/bermit/600x_9_14_ixia_240212_234145.webp)</div> | 纯血精灵，诺艾儿的同学。<br>将诺艾儿视为竞争对手和好朋友，喜欢和诺艾儿进行魔法技巧上的切磋。<span class="spoiler">这不就一傲娇嘛！</span><br><br>会骑着法杖贴地飞行，而且速度很快。<br>她天资卓越，在学园里成绩名列前茅，却总因各种意外（比如上学途中遭魔族突袭）导致考试失分，宛如生来背负不幸星辰的少女。<span class="spoiler">尤其无法忍受输给出身平民的诺艾儿，每逢机会便以傲慢姿态试图压制对方。但她家教良好且重情重义，若被诺艾儿所救，定要彻底偿还这份恩情。</spam> |
 
 
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-primulapixel.webp"><div class="character-title">普莉姆拉（<ruby lang="ja">プリムラ<rt>Primula</rt></ruby>）</div></div> ||
 | --- | --- |
-| <div style="width:200px;">![普莉姆拉](/assets/global/characters/bermit/600x_9_15_primula_240212_234104.webp)</div> | **角色设计：**[すなぷあ]<br>诺艾儿的老师。<br>十分欣赏诺艾儿，认为诺艾儿天资聪颖。<br>在魔族危机之后的两周后，老师亲自来到诺艾儿家，为她进行魔力使用的复健（也就是新手教程）。<br><br>在知道诺艾儿的心声之后，她给予了诺艾儿安慰，两人在夜空下读起古代神话《爱丽丝梦游仙境》，聊起家族过去的兴衰，传授新的魔法，并在星空下吐露梦想与心声。 |
+| <div style="width:200px;">![普莉姆拉](/assets/global/characters/bermit/600x_9_15_primula_240212_234104.webp)</div> | **角色设计：**[すなぷあ]<br>诺艾儿的老师，担任贝尔米特学园校医的兽人<br>作为学园任职的资深校医，她曾协助柯涅尔家祖父母的临终医疗与分娩护理，是家族世代托付的守护者。<br><br>在魔族危机之后的两周后，老师亲自来到诺艾儿家，为她进行魔力使用的复健。<br>在知道诺艾儿的心声之后，她给予了诺艾儿安慰，两人在夜空下读起古代神话《爱丽丝梦游仙境》，聊起家族过去的兴衰，传授新的魔法，并在星空下吐露梦想与心声，为诺艾儿的旅程故事埋下最初的契机。 |
 
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-almapixel.webp"><div class="character-title">阿尔玛・奥普菲帕姆（<ruby lang="ja">アルマ<rt>Alma</rt></ruby>・<ruby lang="ja">オプフェバム<rt>Opfebaum</rt></ruby>）</div></div> ||
@@ -76,13 +76,13 @@ dateCreated: 2024-02-12T12:03:38.257Z
 
 | <div class="character-header"><div class="character-title">蒂格蕾娜・索菈（<ruby lang="ja">ティグリナ<rt>Tigrina</rt></ruby>・<ruby lang="ja">ソアラ<rt>Soala</rt></ruby>）</div></div> ||
 | --- | --- |
-| <div style="width:200px;">![蒂格蕾娜・索菈](/assets/global/characters/bermit/600x_9_14_Tigrina_250221_155535.avif)</div> | 机械工学科IV级生，住在精灵之村。在故事开始时与诺艾儿并不相识。<br>是机械工学科里最有天赋的学生，但性情古怪。曾未经学校上级允许私自闯入武器库，黑入最新式的设备。<br>在学校社团里创办了 “前沿工学及魔族交流研究部”，在诺艾儿加入前曾有其他部员，现已全部变成幽灵部员。<br><br>通过诺艾儿取回落在武器库的存储卡后，可以利用全息影像技术进行模拟战斗。 |
+| <div style="width:200px;">![蒂格蕾娜・索菈](/assets/global/characters/bermit/600x_9_14_Tigrina_250221_155535.avif)</div> | 机械工学科IV级生，住在精灵之村。在故事开始时与诺艾儿并不相识。<br><br>是机械工学科里最有天赋的学生，但性情古怪。曾未经学校上级允许私自闯入武器库，黑入最新式的设备。<br>在学校社团里创办了 “前沿工学及魔族交流研究部”，在诺艾儿加入前曾有其他部员，现已全部变成幽灵部员。<br><br>通过诺艾儿取回落在武器库的存储卡后，可以利用全息影像技术进行模拟战斗。 |
 
 # 其他角色
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-nightingalepixel.webp"><div class="character-title">南丁格尔（<ruby>ナイチンゲール<rt>Nightingale</rt></ruby>）</div></div> ||
 | --- | --- |
-| <div style="width:200px;">![南丁格尔](/assets/global/characters/other/600x_9_10_nightingale_240212_234202.webp)</div> | **角色设计：**[彩月わくら]<br>旅行商人。<br>南丁格尔并非是其真名。之所以自称南丁格尔，是从上古神话中看到一个女神明在其他神明的纷争上救死扶伤而被称为 “白衣天使”，认为这非常酷，于是就叫自己南丁格尔。<br>做旅行商人的原因貌似是因为离家出走，为了维持生计而做起了商人，这也是她不愿意靠近诺艾儿所在的小镇的原因，那里有卫兵，而且贴了她的寻人启事，会被人发现。<br>称呼诺艾儿为 “小公主”。第一次见到诺艾儿时直接在诺艾儿身上摸来摸去。<span class="spoiler">看了她的胖次以及揉胸。</span><br>擅长吹口琴。在游戏中，如果在长椅所在的场景听到了 ginkiha 编写的口琴曲声，那么就说明她在当前场景内，四处找找就可以找到她的身影。<br><br>当然，你也可以从她那里购买一个 “旅行商人的铃铛”，坐在长椅上等待她听到铃声来找你。 |
+| <div style="width:200px;">![南丁格尔](/assets/global/characters/other/600x_9_10_nightingale_240212_234202.webp)</div> | **角色设计：**[彩月わくら]<br>旅行商人。<br>南丁格尔并非是其真名。之所以自称南丁格尔，是从上古神话中看到一个女神明在其他神明的纷争上救死扶伤而被称为 “白衣天使”，认为这非常酷，于是就叫自己南丁格尔。<br><br>虽出身精灵村落，却因不愿归家，在魔族出没的区域过着流浪生活，靠与冒险者交易维持生计。因此她的行囊配备了野外露营所需的全套装备，背负着足有自身两三倍大的背包,她本人则穿着便于行动的冒险者装束。<br><br>常称呼诺艾儿为 “小公主”，在旅途中处处关照对方。第一次见到诺艾儿时直接在诺艾儿身上摸来摸去。<span class="spoiler">看了她的胖次以及揉胸。</span><br>表面装作不擅长理论知识与魔法的呆萌角色，实则天资过人...尤其精通冒险与商贸所需的数学（计算统计）、医学、探险技巧及魔族知识。进入商人模式时总是笑眯眯地抠门到分文不让，但偶尔也会严肃地为诺艾儿操心，展现出可靠姐姐的一面。|
 
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-walrosspixel.webp"><div class="character-title">瓦罗斯（<ruby>ヴァーロス<rt>Walross</rt></ruby>）</div></div> ||
@@ -97,7 +97,7 @@ dateCreated: 2024-02-12T12:03:38.257Z
 
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-mephapixel.webp"><div class="character-title">梅法・格里亚德（<ruby lang="ja">メーファ<rt>Mepha</rt></ruby>・<ruby lang="ja">グリッドヤード<rt>Gridyard</rt></ruby>）</div></div> ||
 | --- | --- |
-| <div style="width:200px;">![梅法・格里亚德](/assets/global/characters/other/600x_9_14_mepha_240212_234207.webp)</div> | 高阶卫兵。<br>精灵之村武装力量 “<ruby>述命者军<rt>LifeTeller Army</rt></ruby>” 的队长。塌方发生后，负责看守被收起的、连接小恶魔之丘与酸液巨树的大吊桥。随着清除瓦砾和爆破障碍物的工作顺利进行，回到述命者军中追捕出没于格拉提亚郊外的大型魔族，在诺艾儿将其击退后与其结识。<br><br>希望有朝一日与诺艾儿在精灵之村相会。<span class="spoiler">然而由于柯涅尔一家几乎都被禁止进入精灵之村，这一愿望似乎不能实现。</span> |
+| <div style="width:200px;">![梅法・格里亚德](/assets/global/characters/other/600x_9_14_mepha_240212_234207.webp)</div> | 精灵之村武装力量 “<ruby>述命者军<rt>LifeTeller Army</rt></ruby>” 的队长，在精灵之村出生长大的纯血精灵。出身于中产家庭的普通精灵，凭借才华与不懈努力，最终攀升至精灵军战斗部队最高指挥官的地位。<br><br>塌方发生后，负责看守被收起的、连接小恶魔之丘与酸液巨树的大吊桥。随着清除瓦砾和爆破障碍物的工作顺利进行，回到述命者军中追捕出没于格拉提亚郊外的大型魔族，在诺艾儿将其击退后与其结识。<br><br>希望有朝一日与诺艾儿在精灵之村相会。<span class="spoiler">然而由于柯涅尔一家几乎都被禁止进入精灵之村，这一愿望似乎不能实现。</span> |
 
 
 | <div class="character-header"><div class="character-title">酒保（<ruby lang="ja">バーテンダー<rt>Bartender</rt></ruby>）</div></div> ||
@@ -108,5 +108,3 @@ dateCreated: 2024-02-12T12:03:38.257Z
 | <div class="character-header"><img src="/assets/global/characters/45px_pixels/45px-alicepixel.webp"><div class="character-title">爱丽丝（<ruby lang="ja">アリス<rt>Alice</rt></ruby>）</div></div> ||
 | --- | --- |
 | <div style="width:200px;">![爱丽丝](/assets/global/characters/other/600x_9_14_Alice_250221.avif)</div> | 可操作角色<br>▊▊▊▊矮人，▊▊▊▊▊是▊▊▊“▊▊▊▊▊”▊▊▊▊▊▊▊▊▊，并非精灵、▊▊或▊▊，而是▊▊▊▊▊的存在。凭借与诺艾儿不同的特殊扩展插槽，可获得▊▊▊▊和诺艾儿无法实现的强力移动手段。<br>爱丽丝因▊▊▊▊▊▊▊而▊▊▊▊▊▊▊▊▊▊▊▊▊。<br>当目睹▊▊828\*yp(=\|▊RNP:,,=4_cD▊▊3S'JY$_}vR7HDY▊#v?XYuH7s'p_B}:-Q+Vn\<$▊;nR4t▊▊y/7M;%_▊▊▊▊▊d@FkwT▊Ak_j;S:uU,cv.\>P▊▊▊hz/Tj+;'R,cTAwP4#▊▊#m7sf▊r*\[@j3▊▊2KDf:jV=▊wDU<br>......<br>因此，尽管▊▊▊▊▊▊▊▊▊▊▊▊▊，爱丽丝▊▊▊▊▊仍▊▊▊▊▊▊▊▊。 |
-
-[^1]: 该角色未出场，仅在丽薇歌塔与诺艾儿的对话中提及。
