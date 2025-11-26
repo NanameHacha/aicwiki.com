@@ -2,7 +2,7 @@
 title: 音乐
 description: Alice In Cradle 中所出现的原创音乐
 published: true
-date: 2025-11-21T15:02:23.586Z
+date: 2025-11-26T05:53:10.372Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:29:14.198Z
@@ -33,7 +33,7 @@ dateCreated: 2024-01-29T18:29:14.198Z
 | Ixia Night | 夜间遇到伊夏 | ginkiha | Chapter 1 | [BiliBili](https://www.bilibili.com/video/BV1vxPReEERx) |
 | Ixia Normal | 参与伊夏的战斗 | ginkiha | Chapter 1 | [BiliBili](https://www.bilibili.com/video/BV1CzFYexEFX) |
 | Ixia Usual | 遇到伊夏 | ginkiha | Chapter 1 | [BiliBili](https://www.bilibili.com/video/BV1ixPReEEhR) |
-| Lull - a Trailblazer | 在拓荒者山岳战斗 | yoho | Chapter 2 | [BiliBili](https://www.bilibili.com/video/BV1LtUVBHE6K/) |
+| Lull-a Trailblazer | 在拓荒者山岳战斗 | yoho | Chapter 2 | [BiliBili](https://www.bilibili.com/video/BV1LtUVBHE6K/) |
 | MGM TTR (4ASCEND) | 4ASCEND 小游戏 | ginkiha | Chapter 1 | [BiliBili](https://www.bilibili.com/video/BV1GYFTeeEfW/) |
 | Normal | 编织者之森 | ginkiha | Chapter 1 | [BiliBili](https://www.bilibili.com/video/BV1reF7eCE5C/) |
 | Normal (Nightingale) | 在编织者之森遇到南丁格尔 | ginkiha | Chapter 1 | [BiliBili](https://www.bilibili.com/video/BV1vkFBeZEvm/) |
