@@ -2,7 +2,7 @@
 title: 音乐
 description: Alice In Cradle 中所出现的原创音乐
 published: true
-date: 2025-11-26T05:53:10.372Z
+date: 2026-01-28T18:09:00.134Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:29:14.198Z
@@ -40,6 +40,7 @@ dateCreated: 2024-01-29T18:29:14.198Z
 | Normal (Nightingale Mix) | 在编织者之森遇到南丁格尔 | ginkiha | Chapter 1 | [BiliBili](https://www.bilibili.com/video/BV1T71dBEENs/) |
 | Primula | 剧情 | rN | Chapter 1 | [BiliBili](https://www.bilibili.com/video/BV1f8FoeUEqG/) |
 | School | 贝尔米特学园 | rN | Chapter 1 | [BiliBili](https://www.bilibili.com/video/BV1f8FoeUEc3/) |
+| S | 与[]战斗时 | _ | Chapter 2 | [BiliBili]() |
 | Tigrina Battle | 废弃库房 | ああああ | Chapter 1 | [BiliBili](https://www.bilibili.com/video/BV1AgFDeuEAx/) |
 | Tigrina Normal | 在废弃库房战斗 | ああああ | Chapter 1 | [BiliBili](https://www.bilibili.com/video/BV1FjFDeNEVv/) |
 | Tower Defence: Phase 1 | 塔防战 | An-fillnote | Chapter 1 | [BiliBili](https://www.bilibili.com/video/BV1BaMXzDEDa/) |
