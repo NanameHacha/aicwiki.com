@@ -1,8 +1,8 @@
 ---
 title: 魔女杂货店
-description: 柯涅尔家族的住所。
+description: 柯涅尔家族的住所，诺艾儿的家。
 published: true
-date: 2026-02-20T05:57:07.605Z
+date: 2026-02-20T05:57:37.446Z
 tags: map
 editor: markdown
 dateCreated: 2026-02-20T05:56:38.427Z
