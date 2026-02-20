@@ -2,7 +2,7 @@
 title: 恩惠之城「格拉提亚」
 description: 精灵与兽人的城镇。
 published: true
-date: 2026-02-20T06:06:08.313Z
+date: 2026-02-20T07:37:35.408Z
 tags: map
 editor: markdown
 dateCreated: 2026-02-20T06:05:38.923Z
@@ -12,7 +12,7 @@ dateCreated: 2026-02-20T06:05:38.923Z
 
 # 地图
 
-![恩惠之城「格拉提亚」](/assets/zh_cn/地图/alice_in_cradle_地图_格拉提亚_ver.20250719a.png =476x){ .pixelated-image }
+![恩惠之城「格拉提亚」](/assets/zh_cn/地图/alice_in_cradle_地图_格拉提亚_ver.20260220a.png =476x){ .pixelated-image }
 
 ## 贝尔米特士官学园
 
