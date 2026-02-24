@@ -2,7 +2,7 @@
 title: 语言与书写系统
 description: 关于游戏内的架空文字
 published: true
-date: 2026-02-24T08:19:04.152Z
+date: 2026-02-24T08:19:34.051Z
 tags: world-outlook
 editor: markdown
 dateCreated: 2025-07-20T07:01:38.240Z
@@ -57,7 +57,7 @@ dateCreated: 2025-07-20T07:01:38.240Z
 
 夜间遭遇战的开场动画中使用了一种较为粗犷的书写形式表示了 “Sudden Attack”。
 
-在野外区域中，存在两个解谜房间，使用了天平来引导认识数字。
+在野外区域中，存在一些解谜房间，使用了天平来引导认识数字。
 
 # 矮人文字
 
