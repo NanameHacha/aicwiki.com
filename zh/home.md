@@ -2,7 +2,7 @@
 title: 简体中文百科
 description: Alice In Cradle 简体中文百科 - 由社区编辑者编写
 published: true
-date: 2026-02-06T04:29:56.969Z
+date: 2026-02-25T06:24:31.449Z
 tags: index
 editor: markdown
 dateCreated: 2024-01-29T14:45:09.477Z
@@ -28,6 +28,8 @@ dateCreated: 2024-01-29T14:45:09.477Z
 本游戏由官方开发团队进行简体中文版、日文版与英文版的制作，其他语言的译本为粉丝与志愿者投稿。如无特别说明，本百科中的人名、事件、物品、魔法、地名等译名均以简体中文版为准。
 
 如需快速了解本 Wiki 的所有内容，请见[快速参考](/zh/nav)。
+
+游戏基本操作说明请见[操作说明](/zh/home/control-guide)。
 
 # 内容讨论与问题反馈
 请加入 [Alice in Cradle Discord](https://go.aliceincradle.com/discord) 后访问 `wiki-discussion` 频道。
