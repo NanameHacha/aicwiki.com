@@ -2,11 +2,16 @@
 title: 烹饪
 description: 一种制作料理的方法
 published: true
-date: 2025-02-12T15:59:06.488Z
+date: 2026-02-25T06:29:11.853Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-11T09:16:03.298Z
 ---
+
+<!-- 加载外部表格文件 START -->
+<script type="module" src="/assets/zh_cn/excel/料理与烹饪/loader/料理与烹饪-1.js"></script>
+<script type="module" src="/assets/zh_cn/excel/料理与烹饪/loader/料理与烹饪-2.js"></script>
+<!-- 加载外部表格文件 END -->
 
 > 关于制作消耗品或容器的炼金系统，请见[炼金](/zh/alchemy)。
 {.is-info}
