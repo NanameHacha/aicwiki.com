@@ -2,7 +2,7 @@
 title: 魔女杂货店
 description: 柯涅尔家族的住所，诺艾儿的家。
 published: true
-date: 2026-02-20T07:15:14.045Z
+date: 2026-02-26T12:29:59.028Z
 tags: map
 editor: markdown
 dateCreated: 2026-02-20T05:56:38.427Z
@@ -13,3 +13,7 @@ dateCreated: 2026-02-20T05:56:38.427Z
 # 地图
 
 ![魔女的杂货店](/assets/zh_cn/地图/alice_in_cradle_地图_魔女的杂货店_ver.20260220a.png =324x){ .pixelated-image }
+
+# 连接区域
+
+- 右：[编织者之森](/zh/maps/forest)
