@@ -2,7 +2,7 @@
 title: 拓荒者山岳
 description: 包含矿井和工业设施的野外区域。
 published: true
-date: 2026-02-20T07:17:49.730Z
+date: 2026-02-26T12:30:53.175Z
 tags: map
 editor: markdown
 dateCreated: 2026-02-20T06:09:42.404Z
@@ -184,4 +184,7 @@ dateCreated: 2026-02-20T06:09:42.404Z
 </div>
     
 </details> 
-  
+
+# 连接区域
+
+- 左：[恩惠之城「格拉提亚」](/zh/maps/city)
