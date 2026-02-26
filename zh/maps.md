@@ -2,7 +2,7 @@
 title: 地图索引
 description: 各区域地图列表
 published: true
-date: 2026-02-20T06:15:21.396Z
+date: 2026-02-26T12:20:22.950Z
 tags: index
 editor: markdown
 dateCreated: 2024-01-29T18:06:39.646Z
@@ -16,4 +16,5 @@ dateCreated: 2024-01-29T18:06:39.646Z
 # 野外区域
 
 - [编织者之森](/zh/maps/forest)
+- [恩惠圣母之石](/zh/maps/sacred)
 - [拓荒者山岳](/zh/maps/mount)
