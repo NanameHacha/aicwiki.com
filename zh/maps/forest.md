@@ -2,7 +2,7 @@
 title: 编织者之森
 description: 包含森林、荆棘与许多魔族的野外区域。
 published: true
-date: 2026-02-20T07:16:45.304Z
+date: 2026-02-26T12:29:28.965Z
 tags: map
 editor: markdown
 dateCreated: 2026-02-20T06:01:34.419Z
@@ -244,3 +244,8 @@ dateCreated: 2026-02-20T06:01:34.419Z
 </div>
 
 </details>
+
+# 连接区域
+
+- 左：[魔女杂货店](/zh/maps/house)
+- 右：[恩惠之城「格拉提亚」](/zh/maps/city)
