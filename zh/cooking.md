@@ -2,7 +2,7 @@
 title: 烹饪
 description: 一种制作料理的方法
 published: true
-date: 2026-02-26T18:52:40.740Z
+date: 2026-02-26T18:56:01.648Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-11T09:16:03.298Z
@@ -57,7 +57,7 @@ dateCreated: 2024-05-11T09:16:03.298Z
 | 效果 | 属性值上限 |
 | --- | --- |
 | 增加最大HP | <font color=red>-100%</font> ~ +100% |
-# | 增加最大MP | <font color=red>-100%</font> ~ +100% |
+| 增加最大MP | <font color=red>-100%</font> ~ +100% |
 | 使用魔法后散落的魔力更不容易被敌人回收 | <font color=red>-88%</font> ~ +88% |
 | 强化护盾 | <font color=red>-10%</font> ~ +10% |
 | 物理攻击力与魔法霰弹攻击力 | <font color=red>-75%</font> ~ +75% |
