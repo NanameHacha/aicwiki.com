@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2026-02-27T18:17:19.815Z
+date: 2026-02-27T18:19:11.129Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
@@ -43,7 +43,7 @@ dateCreated: 2024-02-12T12:03:38.257Z
 
 | <div class="character-header"><div class="character-title">希特拉斯・柯涅尔（<ruby lang="ja">シトラス<rt>Citrus</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）</div></div> ||
 | --- | --- |
-|| 诺埃尔的母亲（生母），兽人与精灵的混血儿。<br>在生下第四子诺艾儿时去世。 |
+|| 诺埃尔的母亲，兽人与精灵的混血儿。<br>在生下第四子诺艾儿时去世。 |
 
 
 | <div class="character-header"><div class="character-title">贝利尔・柯涅尔（<ruby lang="ja">ベリル<rt>Beryl</rt></ruby>・<ruby lang="ja">コルネール<rt>Cornehl</rt></ruby>）</div></div> ||
