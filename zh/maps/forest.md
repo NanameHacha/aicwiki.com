@@ -2,7 +2,7 @@
 title: 编织者之森
 description: 包含森林、荆棘与许多魔族的野外区域。
 published: true
-date: 2026-02-26T12:29:28.965Z
+date: 2026-02-27T17:44:37.147Z
 tags: map
 editor: markdown
 dateCreated: 2026-02-20T06:01:34.419Z
@@ -19,7 +19,7 @@ dateCreated: 2026-02-20T06:01:34.419Z
 
 ### NPC刷新点
 
-![编织者之森NPC刷新点](/assets/zh_cn/地图/alice_in_cradle_地图_编织者之森_npc刷新点_ver.20260211a.png =875x){ .pixelated-image }
+![编织者之森NPC刷新点](/assets/zh_cn/地图/alice_in_cradle_地图_编织者之森_npc刷新点_ver.20260228a.png =875x){ .pixelated-image }
 
 ### 钓鱼点
 
