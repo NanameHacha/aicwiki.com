@@ -2,7 +2,7 @@
 title: 木偶复仇战
 description: 一种特殊的遭遇战
 published: true
-date: 2026-02-28T17:15:23.243Z
+date: 2026-02-28T17:17:27.744Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:27:21.373Z
@@ -35,7 +35,7 @@ dateCreated: 2024-01-29T18:27:21.373Z
 ## 魔物生成
 - 木偶复仇战中，会出现许多强大的魔物与诺艾儿战斗。其中[机甲木偶](/zh/enemy/armoured-wooden-puppet)与[机甲木偶（污染体）](/zh/enemy/armoured-wooden-puppet-contaminated)是木偶复仇战中的特有魔物。
 - 在编织者之森，木偶复仇战中可能会出现的魔物有：[木偶](/zh/enemy/puppet)、[木偶（污染体）](/zh/enemy/giant)、[机甲木偶](/zh/enemy/armoured-wooden-puppet)、[机甲木偶（污染体）](/zh/enemy/armoured-wooden-puppet-contaminated)。木偶可能会建造木偶造物。
-- 在拓荒者山岳，木偶复仇战中可能会出现的魔物有：[木马](/zh/enemy/wooden-horse)、[杂波干扰器](/zh/enemy/rainmaker)、[导弹发射架](/zh/enemy/missile-launcher)、[光束发射台](/zh/enemy/laser)、[机甲木偶](/zh/enemy/armoured-wooden-puppet)、[机甲木偶（污染体）](armoured-wooden-puppet-contaminated)。
+- 在拓荒者山岳，木偶复仇战中可能会出现的魔物有：[木马](/zh/enemy/wooden-horse)、[杂波干扰器](/zh/enemy/rainmaker)、[导弹发射架](/zh/enemy/missile-launcher)、[光束发射台](/zh/enemy/laser)、[机甲木偶](/zh/enemy/armoured-wooden-puppet)、[机甲木偶（污染体）](/zh/enemy/armoured-wooden-puppet-contaminated)。
 - 木偶复仇战中，魔物生成的速度受危险度影响。危险度越高，魔物生成的时间间隔越紧凑。<!--需要验证-->
 - 雷雨天时，木偶仍有概率会转化为木偶（污染体），但机甲木偶不会转化为机甲木偶（污染体）。
 
