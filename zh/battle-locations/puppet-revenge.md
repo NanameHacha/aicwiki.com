@@ -2,7 +2,7 @@
 title: 木偶复仇战
 description: 一种特殊的遭遇战
 published: true
-date: 2026-03-01T18:00:45.898Z
+date: 2026-03-01T19:00:48.056Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:27:21.373Z
@@ -67,7 +67,7 @@ dateCreated: 2024-01-29T18:27:21.373Z
 
 - 发生在编织者之森的木偶复仇战会固定掉落以下宝箱：素材+、矿石2、矿石3、魔族素材3。击杀复仇战中的污染体还可能额外掉落以下秘密宝箱：矿石+（它有 40% 的概率劣化为矿石1、矿石2、矿石3中的一种）。
 - 发生在拓荒者山岳的木偶复仇战会固定掉落以下宝箱：素材++、煤炭1、矿石3。击杀复仇战中的污染体还可能额外掉落以下秘密宝箱：宝石+、矿石+（它有 40% 的概率劣化为矿石1、矿石2、矿石3中的一种）。
-- 木偶复仇战中可能掉落的秘密宝箱或其劣化变种的数量上限为 3 个。<!--数据来源：smnp.SummonerPlayer.prepareEnemyConentInner() -> summoner_drop_od_enemy_box_max-->每个污染体掉落它们的概率与[区域危险度](/zh/battle-locations#危险度)（计入工会任务危险度补正）有关，在`0 <= 区域危险度 <= 80`阶段由下限 20% 线性上升至上限 50%。<!--数据来源：NightController.summoner_drop_od_enemy_box_ratio()-->
+- 木偶复仇战中可能掉落的秘密宝箱或其劣化变种的数量上限为 3 个。<!--数据来源：smnp.SummonerPlayer.prepareEnemyConentInner() -> summoner_drop_od_enemy_box_max-->每个污染体掉落它们的概率与[区域危险度](/zh/battle-locations#危险度)（计入工会任务危险度补正）有关，在$区域危险度 \in [0, 80]$时由下限 20% 随之线性升高至上限 50%。<!--数据来源：NightController.summoner_drop_od_enemy_box_ratio()-->
 - 独立于上述战斗掉落，机甲木偶（污染体）还有 50% 的概率额外掉落以下宝箱：素材++。<!--数据来源：StreamingAssets/Enemies/_nodd.dat -> MECHGOLEM-->
 
 ## 你知道吗？
