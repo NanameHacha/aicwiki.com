@@ -2,7 +2,7 @@
 title: 战斗点
 description: Alice In Cradle 战斗点
 published: true
-date: 2026-03-01T18:49:42.091Z
+date: 2026-03-01T19:10:59.440Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:09:10.227Z
@@ -90,7 +90,7 @@ SupplyManager.GetForSummoner() -> _replace_secret_to_lower
 resources.assets -> reel_supply
 -->
 
-在战斗点没有被替换为[木偶复仇战](/zh/battle-locations/puppet-revenge)的情况下，秘密宝箱或其劣化变种的掉落数量上限与[区域危险度](/zh/battle-locations#危险度)（计入工会任务危险度补正）有关，为`min(区域危险度 / 16, 3)`个（四舍六入五成双取整）。<!--数据来源：NightController.summoner_drop_od_enemy_box_max()-->每个污染体掉落它们的概率同样与[区域危险度](/zh/battle-locations#危险度)（计入工会任务危险度补正）有关，在`0 <= 区域危险度 <= 80`阶段由下限 20% 线性上升至上限 50%。<!--数据来源：NightController.summoner_drop_od_enemy_box_ratio()-->
+在战斗点没有被替换为[木偶复仇战](/zh/battle-locations/puppet-revenge)的情况下，秘密宝箱或其劣化变种的掉落数量上限与[区域危险度](/zh/battle-locations#危险度)（计入工会任务危险度补正）有关，为$min(区域危险度 \div 16, 3)$个（四舍六入五成双取整）。<!--数据来源：NightController.summoner_drop_od_enemy_box_max()-->每个污染体掉落它们的概率同样与[区域危险度](/zh/battle-locations#危险度)（计入工会任务危险度补正）有关，在$区域危险度 \in [0, 80]$时由下限 20% 随之线性升高至上限 50%。<!--数据来源：NightController.summoner_drop_od_enemy_box_ratio()-->
 
 ## 战斗点列表
 
