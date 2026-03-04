@@ -2,7 +2,7 @@
 title: 沙盒
 description: 仅供测试编辑使用
 published: false
-date: 2024-10-11T04:59:46.388Z
+date: 2026-03-04T09:50:13.187Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-07T16:15:21.071Z
@@ -27,6 +27,15 @@ dateCreated: 2024-05-07T16:15:21.071Z
 { .info-table }
 
 
+<script>
+  let goal = document.getElementsByClassName('decmp');
+  for (let i = 0; i < goal.length; ++i) {
+    goal[i].innerHTML = "TEST"
+  }
+</script>
+
+<div class='decmp'></div>
+
 # Tabs {.tabset}
 ## First Tab
 ![宝箱(无色种类序).jpg](/宝箱(无色种类序).jpg)
@@ -38,3 +47,7 @@ dateCreated: 2024-05-07T16:15:21.071Z
 ![资源采集点.jpg](/资源采集点.jpg)
 ## Third Tab
 ![宝箱(无色顺序序).jpg](/宝箱(无色顺序序).jpg)
+
+
+
+
