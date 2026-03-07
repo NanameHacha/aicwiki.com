@@ -2,7 +2,7 @@
 title: 宝箱转轮
 description: Alice In Cradle 宝箱转轮
 published: true
-date: 2026-03-02T20:46:15.879Z
+date: 2026-03-07T07:05:53.098Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:00:41.508Z
@@ -48,9 +48,9 @@ resources.assets -> reel_supply
 | 矿石+ | 矿石1、矿石2、矿石3 |
 | 蘑菇+ | 绿色蔬菜1、红黄色蔬菜1、各类蔬菜1、蘑菇1 |
 | 肉类+ | 肉类1 |
+| 宝石+ | 煤炭1、火药1、宝石1 |
 | 魔族素材4 | 毒水1、魔族素材1、魔族素材2、魔族素材3 |
 
-特殊地，作为秘密宝箱出现的「宝石+」不会劣化。
 <!--
 数据来源：
 ReelManager.ReplaceToLowerGrade()
