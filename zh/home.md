@@ -1,8 +1,8 @@
 ---
 title: 简体中文百科
-description: Alice In Cradle 简体中文百科 - 由社区编辑者编写
+description: Alice in Cradle 简体中文百科 - 由社区编辑者编写
 published: true
-date: 2026-02-25T06:24:31.449Z
+date: 2026-03-08T16:24:14.160Z
 tags: index
 editor: markdown
 dateCreated: 2024-01-29T14:45:09.477Z
