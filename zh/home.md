@@ -2,7 +2,7 @@
 title: 简体中文百科
 description: Alice in Cradle 简体中文百科 - 由社区编辑者编写
 published: true
-date: 2026-03-12T13:33:23.101Z
+date: 2026-03-12T13:35:01.655Z
 tags: index
 editor: markdown
 dateCreated: 2024-01-29T14:45:09.477Z
@@ -36,7 +36,7 @@ dateCreated: 2024-01-29T14:45:09.477Z
 
 # 相关内容
 ## 周边
-> **全球站点**的支持国家请以网站内实际情况为准。
+> **全球站点**的支持地区请以网站/店铺内实际情况为准。
 {.is-info}
 
 ### 常驻周边
