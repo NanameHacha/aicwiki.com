@@ -2,7 +2,7 @@
 title: 木马
 description: 
 published: true
-date: 2026-03-26T15:06:49.966Z
+date: 2026-03-26T17:06:56.724Z
 tags: enemy
 editor: markdown
 dateCreated: 2024-04-29T05:34:51.598Z
@@ -21,7 +21,7 @@ dateCreated: 2024-04-29T05:34:51.598Z
 
 # 出现地点
 
-木马可能经由[木偶](/zh/enemy/puppet)的机关建造生成，也可能在拓荒者山岳的[木偶复仇战](/zh/battle-locations/puppet-revenge)中自然生成。
+木马可能经由[木偶](/zh/enemy/puppet)的机关建造生成，或者在拓荒者山岳的[木偶复仇战](/zh/battle-locations/puppet-revenge)中自然生成。
 
 # 行动方式
 
@@ -33,6 +33,6 @@ dateCreated: 2024-04-29T05:34:51.598Z
 
 ## 备注
 
-- 三角木马建成后可以在全图范围移动。
+- 建成后除飞行时外仅能在地面移动，无法跃上台阶。
 
 - 建造时使用的木板数量：4 + 5 + 4（3列）。
