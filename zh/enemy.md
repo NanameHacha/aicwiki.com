@@ -2,7 +2,7 @@
 title: 魔族
 description: 一种外观普遍为通体漆黑、带有红色轮廓和标志性白色方块印记的生物
 published: true
-date: 2026-03-23T14:45:13.335Z
+date: 2026-03-31T11:47:18.650Z
 tags: gameplay, index
 editor: markdown
 dateCreated: 2024-01-29T18:11:16.969Z
@@ -54,7 +54,7 @@ dateCreated: 2024-01-29T18:11:16.969Z
 - [巢厄](/zh/enemy/hive)：魔族巢穴，扎根地面后，会有小型魔族从中钻出。
 - [蜂巢](/zh/enemy/honeycomb)：这一魔族生物具有六边形巢穴的结构，其中栖息着大量幼虫。
 - [蚂蝗](/zh/enemy/leech)：栖息在山中的蠕虫状魔族，个体相当脆弱。
-- [女王蚂蟥](/zh/enemy/leechqueen)<!--等待图鉴完善-->
+- [女王蚂蟥](/zh/enemy/queen-leech)<!--等待图鉴完善-->
 - [皇后](/zh/enemy/empress)<!--等待图鉴完善-->
 - [宝箱怪](/zh/enemy/mimic)<!--等待图鉴完善-->
 
@@ -64,24 +64,24 @@ dateCreated: 2024-01-29T18:11:16.969Z
 - [蘑菇（污染体）](/zh/enemy/mushroom-contaminated)：或许是想发泄曾经无法移动的怨气，如今拥有了惊人的机动性。
 - [木偶（污染体）](/zh/enemy/giant)：体型更为巨大，且手里的投石器也换成了巨大的棍棒肆意挥舞。
 - [剑山（污染体）](/zh/enemy/urchin-contaminated)：变为污染体后身体十分沉重无法再漂浮，因此只能将刺扎入地面和墙壁支撑自身滚动。
-- [机甲木偶（污染体）](/zh/enemy/armoured-wooden-puppet)<!--等待图鉴完善-->
+- [机甲木偶（污染体）](/zh/enemy/armoured-wooden-puppet-contaminated)<!--等待图鉴完善-->
 - [蚂蝗（污染体）](/zh/enemy/leech-contaminated)<!--等待图鉴完善-->
 
 ## BOSS
 
 - [森之领主](/zh/enemy/lord-of-the-forest)：栖息于森林的大型魔族。
-- [山蜘蛛](/zh/enemy/boss-spider)<!--等待图鉴完善-->
+- [山蜘蛛](/zh/enemy/mountain-spider)<!--等待图鉴完善-->
 
 ## 特殊
 
 - [奶牛](/zh/enemy/cow)
-- [鸡](/zh/enemy/chicken)
+- [鸡]()
 
 ## NPC
 
 - [木偶店主](/zh/enemy/sales-puppet)
-- [酒保](/zh/enemy/bartender)
-- [钓鱼人](/zh/enemy/fisherman)
+- [酒保]()
+- [钓鱼人]()
 
 # 属性附加
 
