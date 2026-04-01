@@ -2,7 +2,7 @@
 title: 机甲木偶（污染体）
 description: 
 published: true
-date: 2026-03-31T14:09:06.567Z
+date: 2026-04-01T16:48:58.439Z
 tags: enemy, enemy-contaminated
 editor: markdown
 dateCreated: 2024-05-01T09:21:46.425Z
@@ -37,4 +37,4 @@ dateCreated: 2024-05-01T09:21:46.425Z
 
 ## 备注
 
-- 机甲木偶在地面活动，无法跃上台阶。
+- 机甲木偶（污染体）在地面活动，无法跃上台阶。
