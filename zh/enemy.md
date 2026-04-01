@@ -2,7 +2,7 @@
 title: 魔族
 description: 一种外观普遍为通体漆黑、带有红色轮廓和标志性白色方块印记的生物
 published: true
-date: 2026-03-31T11:49:39.720Z
+date: 2026-04-01T15:07:24.580Z
 tags: gameplay, index
 editor: markdown
 dateCreated: 2024-01-29T18:11:16.969Z
@@ -80,8 +80,8 @@ dateCreated: 2024-01-29T18:11:16.969Z
 ## NPC
 
 - [木偶店主](/zh/enemy/sales-puppet)
-- [酒保](/zh/enemy/bartender)
-- [钓鱼人](/zh/enemy/fisherman)
+- [酒保](/zh/enemy/barten)
+- [钓鱼人](/zh/enemy/firstman)
 
 # 属性附加
 
