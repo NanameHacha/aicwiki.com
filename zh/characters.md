@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2026-04-02T09:34:23.267Z
+date: 2026-04-02T09:36:51.305Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
@@ -71,7 +71,7 @@ dateCreated: 2024-02-12T12:03:38.257Z
 
 | <div id=alma class="character-header"><img src="/assets/global/characters/45px_pixels/45px-almapixel.webp"><div class="character-title">阿尔玛・奥普菲帕姆（<ruby lang="ja">アルマ<rt>Alma</rt></ruby>・<ruby lang="ja">オプフェバム<rt>Opfebaum</rt></ruby>）</div></div> ||
 | --- | --- |
-| <div style="width:200px;">![阿尔玛・奥普菲帕姆](/assets/global/characters/bermit/600x_9_14_alma_240212_234018.webp)</div> | 诺艾儿的同班同学，虽是纯血精灵，却是个平平无奇的普通女孩。<br>很文静，魔法成绩比较差（本人语）。因为她本人并不是很喜欢。<br><span class="spoiler">她▊▊▊▊▊▊▊，▊▊▊▊▊▊▊▊。▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊，▊▊▊▊▊▊▊▊。</span><br><br>在两周前的魔族危机中被诺艾儿所救，并因此十分感激诺艾儿，也因看到诺艾儿被魔族吞噬时自己被吓到脚软而未能帮助诺艾儿脱身而感到自责和愧疚（<span class="spoiler">※▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊，但▊▊▊▊▊▊▊▊▊▊▊，▊▊▊▊▊▊▊。</span>）。<br><br><br>魔族危机过后，被诺艾儿救下自己的英勇行为所鼓舞，开始在家偷偷进行“魔法特训”（<span class="spoiler">▊▊▊▊▊▊▊▊▊▊，▊▊▊▊▊▊，▊▊▊▊▊▊▊▊▊，▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊，▊▊▊▊▊▊▊▊。</span> ）|
+| <div style="width:200px;">![阿尔玛・奥普菲帕姆](/assets/global/characters/bermit/600x_9_14_alma_240212_234018.webp)</div> | 诺艾儿的同班同学，虽是纯血精灵，却是个平平无奇的普通女孩。<br>很文静，魔法成绩比较差（本人语）。因为她本人并不是很喜欢。<br><span class="spoiler">她▊▊▊▊▊▊▊，▊▊▊▊▊▊▊▊。▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊，▊▊▊▊▊▊▊▊。</span><br><br>在两周前的魔族危机中被诺艾儿所救，并因此十分感激诺艾儿，也因看到诺艾儿被魔族吞噬时自己被吓到脚软而未能帮助诺艾儿脱身而感到自责和愧疚（<span class="spoiler">※▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊，但▊▊▊▊▊▊▊▊▊▊▊，▊▊▊▊▊▊▊。</span>）。<br><br><br>魔族危机过后，被诺艾儿救下自己的英勇行为所鼓舞，开始在家偷偷进行“魔法特训”（<span class="spoiler">▊▊▊▊▊▊▊▊▊▊，▊▊▊▊▊▊，▊▊▊▊▊▊▊▊▊，▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊，▊▊▊▊▊▊▊▊。</span> ）。|
 
 
 | <div id=tigrina class="character-header"><div class="character-title">蒂格蕾娜・索菈（<ruby lang="ja">ティグリナ<rt>Tigrina</rt></ruby>・<ruby lang="ja">ソアラ<rt>Soala</rt></ruby>）</div></div> ||
