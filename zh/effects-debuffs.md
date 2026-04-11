@@ -1,8 +1,8 @@
 ---
 title: 异常状态
-description: 在战斗等事件中获取的负面状态效果。
+description: 在战斗等事件中获取的大多为负面的状态效果。
 published: true
-date: 2026-04-11T19:03:13.686Z
+date: 2026-04-11T19:15:26.518Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T18:17:50.485Z
