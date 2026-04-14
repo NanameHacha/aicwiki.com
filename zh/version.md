@@ -2,13 +2,13 @@
 title: 版本记录
 description: 记录了各个版本的发布日期
 published: true
-date: 2026-04-14T17:15:38.044Z
+date: 2026-04-14T17:16:23.997Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-01-29T19:07:22.980Z
 ---
 
-> Alice In Cradle 目前仍处于开发阶段，不定期发布免费试玩版本。
+> Alice in Cradle 目前仍处于开发阶段，不定期发布免费试玩版本。
 {.is-info}
 
 # 开发版本
