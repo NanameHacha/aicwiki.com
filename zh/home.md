@@ -2,14 +2,13 @@
 title: 简体中文百科
 description: Alice in Cradle 简体中文百科 - 由社区编辑者编写
 published: true
-date: 2026-04-02T14:28:15.241Z
+date: 2026-05-22T06:13:36.283Z
 tags: index
 editor: markdown
 dateCreated: 2024-01-29T14:45:09.477Z
 ---
 
 <!-- 此页用于引用的图片/链接 -->
-[fantia]: https://fantia.jp/fanclubs/24531
 [ci-en]: https://ci-en.dlsite.com/creator/12611
 [官网]: https://get.aliceincradle.dev
 [中文官网]: https://cn.aliceincradle.com
@@ -23,7 +22,7 @@ dateCreated: 2024-01-29T14:45:09.477Z
 
 <img style="float: right;" src="/assets/global/hello.png"/>《**<ruby style="color: #b47f4d;">Alice<rt>アリス</rt>&nbsp;in<rt>イン</rt>&nbsp;Cradle<rt>クレイドル</rt></ruby>**》是一款由<a href="https://twitter.com/hinayua_r18" target="_blank" style="color: #56bcf9;" lang="ja">ひなゆあ</a>、<a href="https://twitter.com/HashinoMizuha" target="_blank" style="color: #f6c5cb;" lang="ja">橋野みずは</a>开发的轻度Ryona类银河恶魔城游戏，目前正在制作中。
 
-游戏不定期在 [ci-en]、[fantia]、[官网]和[中文官网]进行免费的试玩版发布，目前最新的试玩版本为 <code id="aic_zip_verdis_global_windows">Loading</code>。
+游戏不定期在 [ci-en]、[官网]和[中文官网]进行免费的试玩版发布，目前最新的试玩版本为 <code id="aic_zip_verdis_global_windows">Loading</code>。
 
 本游戏由官方开发团队进行简体中文版、日文版与英文版的制作，其他语言的译本为粉丝与志愿者投稿。如无特别说明，本百科中的人名、事件、物品、魔法、地名等译名均以简体中文版为准。
 
