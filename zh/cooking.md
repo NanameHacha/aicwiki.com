@@ -2,7 +2,7 @@
 title: 烹饪
 description: 一种制作料理的方法
 published: true
-date: 2026-08-13T06:34:51.007Z
+date: 2026-08-13T06:46:01.913Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-11T09:16:03.298Z
@@ -21,7 +21,7 @@ dateCreated: 2024-05-11T09:16:03.298Z
 <details>
   <summary>点击展开</summary>
 
-<div class="table-container"><excel src="/zh_cn/assets/excel/料理与烹饪/料理与烹饪-1.xlsx"></excel></div>
+<div class="table-container" data-excel-src="/zh_cn/assets/excel/料理与烹饪/料理与烹饪-1.xlsx"></div>
   
 </details>
 
@@ -32,7 +32,7 @@ dateCreated: 2024-05-11T09:16:03.298Z
 <details>
   <summary>点击展开</summary>
 
-<div class="table-container"><excel src="/zh_cn/assets/excel/料理与烹饪/料理与烹饪-2.xlsx"></excel></div>
+<div class="table-container" data-excel-src="/zh_cn/assets/excel/料理与烹饪/料理与烹饪-2.xlsx"></div>
 
 </details>
 
