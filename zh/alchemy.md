@@ -2,16 +2,11 @@
 title: 炼金
 description: 一种可以制作各种冒险所需的消耗品或容器的方法
 published: true
-date: 2026-02-26T19:04:22.419Z
+date: 2026-08-13T06:34:30.536Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-05-11T09:40:09.328Z
 ---
-
-<!-- 加载外部表格文件 START -->
-<script type="module" src="/assets/zh_cn/excel/炼金与合成/loader/炼金-1.js"></script>
-<script type="module" src="/assets/zh_cn/excel/炼金与合成/loader/炼金-2.js"></script>
-<!-- 加载外部表格文件 END -->
 
 > 关于制作扩容材料的合成系统，请见[合成](/zh/crafting)；关于制作食物的烹饪系统，请见[烹饪](/zh/cooking)。
 {.is-info}
@@ -29,7 +24,7 @@ dateCreated: 2024-05-11T09:40:09.328Z
 <details>
   <summary>点击展开</summary>
 
-<div class="table-container" id="炼金-1"></div>
+  <div class="table-container"><excel src="/zh_cn/assets/excel/料理与烹饪/炼金-1.xlsx"></excel></div>
 
 </details>
 
@@ -40,7 +35,7 @@ dateCreated: 2024-05-11T09:40:09.328Z
 <details>
   <summary>点击展开</summary>
 
-<div class="table-container" id="炼金-2"></div> 
+<div class="table-container"><excel src="/zh_cn/assets/excel/料理与烹饪/炼金-2.xlsx"></excel></div> 
 
 </details>
 
