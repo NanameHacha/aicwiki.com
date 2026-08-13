@@ -2,7 +2,7 @@
 title: 表格单元格合并
 description: 
 published: true
-date: 2024-11-01T08:14:44.957Z
+date: 2026-08-13T06:54:46.559Z
 tags: wiki-guide
 editor: markdown
 dateCreated: 2024-01-29T18:45:02.560Z
@@ -90,48 +90,17 @@ srgb代码则为 `#******` 格式，例如天蓝色 `#66ccff`
 `/assets/zh_cn/excel/烹饪与料理/`
 文件名为 ``烹饪与料理-1.xlsx``
 
-### 3.设置加载器
-
-#### 设置加载ID和加载路径
-
-重命名加载器模板文件，使其与Excel文件名一致，例如`烹饪与料理-1.js`
-使用任意文本编辑器打开此文件进行编辑：
-修改 `let url ="https://aicwiki.com/zh_cn/assets/excel/template/template.xlsx";`
-中的 `folder` 为实际文件夹名，`template.xlsx` 为实际文件名；
-修改 `let elementId = "template-x";` 中的 `template-x` 为实际ID，ID应与文件名一致。
-
-例如对于 `烹饪与料理-1.xlsx` 应为
-`let url ="https://aicwiki.com/zh_cn/assets/excel/烹饪与料理/烹饪与料理-1.xlsx";`
-`let elementId = "烹饪与料理-1";`
-
-设置完成后保存更改。
-
-#### 上传加载器
-
-文件应当上传至区块目录中的 `loader` 文件夹中。
-
-例如对于 `烹饪与料理-1.js` 应上传至
-`/assets/zh_cn/excel/烹饪与料理/loader`
-
-#### 启用加载器
-
-在需要插入表格的页面的编辑界面中，于本页源文本头部
-按每行一个填写
-`<script type="module" src="/assets/zh_cn/excel/区块目录/loader/表格加载器-x.js"></script>`
-
-例如对于 `烹饪与料理-1.js` 应填写
-`<script type="module" src="/assets/zh_cn/excel/料理与烹饪/loader/料理与烹饪-1.js"></script>`
 
 #### 在文本中插入表格
 
 在需要插入表格的地方填写
-`<div class="table-container" id="实际ID"></div>`
+`<div class="table-container" data-excel-src="文件路径"></div>`
 
 例如我要在`文本①`和`文本②`中间插入表格`烹饪与料理-1.xlsx`:
 ```
 文本①
 
-<div class="table-container" id="烹饪与料理-1"></div>
+<div class="table-container" data-excel-src="/assets/zh_cn/excel/料理与烹饪/料理与烹饪-1.xlsx"></div>
 
 文本②
 ```
