@@ -2,7 +2,7 @@
 title: 表格单元格合并
 description: 
 published: true
-date: 2026-08-13T06:54:46.559Z
+date: 2026-08-17T13:28:52.847Z
 tags: wiki-guide
 editor: markdown
 dateCreated: 2024-01-29T18:45:02.560Z
@@ -43,7 +43,7 @@ dateCreated: 2024-01-29T18:45:02.560Z
 > 此方法步骤较为复杂，每一步需严格按照要求进行，出现失误可能导致表格渲染不正常/无法渲染。
 {.is-warning}
 
-### 1. 下载模板文件/需要编辑的文件
+### 1. 下载需要编辑的文件
 
 请前往[网站资源](/zh/useful-resource)下载文件到本地。
 
