@@ -2,7 +2,7 @@
 title: 法杖
 description: 施展法术所使用的武器
 published: true
-date: 2026-02-26T20:56:14.108Z
+date: 2026-08-29T18:35:17.219Z
 tags: gameplay
 editor: markdown
 dateCreated: 2025-07-23T08:10:43.760Z
@@ -17,6 +17,9 @@ dateCreated: 2025-07-23T08:10:43.760Z
 在格拉提亚天空设施的藏书室中，可以找到一本名为[《格拉提亚的起源》](/zh/story/book/grazias-beginnings)的书籍，讲述了法杖的起源。
 
 # 属性基值概览
+
+> **此章节的内容已过期！**
+> 数据来源于 0.29 版本，部分数据与最新版本不同。 {.is-warning}
 
 ## 威力属性
 
