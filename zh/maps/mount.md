@@ -2,7 +2,7 @@
 title: 拓荒者山岳
 description: 包含矿井和工业设施的野外区域。
 published: true
-date: 2026-02-27T17:50:35.505Z
+date: 2026-08-31T06:06:05.463Z
 tags: map
 editor: markdown
 dateCreated: 2026-02-20T06:09:42.404Z
@@ -16,15 +16,15 @@ dateCreated: 2026-02-20T06:09:42.404Z
 
 ### 总览
 
-![拓荒者山岳](/assets/zh_cn/地图/alice_in_cradle_地图_拓荒者山岳_ver.20260228b.png? =685x){ .pixelated-image }
+![拓荒者山岳](/assets/zh_cn/地图/alice_in_cradle_地图_拓荒者山岳_ver.20260831a.png? =685x){ .pixelated-image }
 
 ### NPC刷新点
 
-![拓荒者山岳](/assets/zh_cn/地图/alice_in_cradle_地图_拓荒者山岳_npc刷新点_ver.20260220a.png =685x){ .pixelated-image }
+![拓荒者山岳](/assets/zh_cn/地图/alice_in_cradle_地图_拓荒者山岳_npc刷新点_ver.20260831a.png =685x){ .pixelated-image }
 
 ### 钓鱼点
 
-![拓荒者山岳](/assets/zh_cn/地图/alice_in_cradle_地图_拓荒者山岳_钓鱼点_ver.20260220a.png =685x){ .pixelated-image }
+![拓荒者山岳](/assets/zh_cn/地图/alice_in_cradle_地图_拓荒者山岳_钓鱼点_ver.20260831a.png =685x){ .pixelated-image }
 
 # 地图明细 
 
