@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2026-09-01T05:43:02.933Z
+date: 2026-09-01T05:45:56.109Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
@@ -93,7 +93,7 @@ dateCreated: 2024-02-12T12:03:38.257Z
 
 | <div id=alice class="character-header"><img src="" style="height:45px"><div class="character-title">「幽灵/▊▊▊▊」爱丽丝（<ruby lang="ja">アリス<rt>Alice</rt></ruby>）</div></div> ||
 | --- | --- |
-| <div style="width:200px;">![爱丽丝](/assets/global/characters/other/600x_9_14_Alice_250221.avif)</div> | ▊▊▊▊矮人，▊▊▊▊▊是▊▊▊“▊▊▊▊▊”▊▊▊▊▊▊▊▊▊，并非精灵、▊▊或▊▊，而是▊▊▊▊▊的存在。凭借与诺艾儿不同的特殊扩展插槽，可获得▊▊▊▊和诺艾儿无法实现的强力移动手段。<br>爱丽丝因▊▊▊▊▊▊▊而▊▊▊▊▊▊▊▊▊▊▊▊▊。<br>当目睹▊▊828yp(=▊RNP:,,=4_cD▊▊3S'JY$vR7HDY▊#v?XYp_B}:-Q+Vn\$▊;nR4t▊▊yM;%▊▊▊▊▊d@FkwT▊Ak_j;S:uU,cv.P▊▊▊hz/Tj+;'R,cTAwP4#▊▊#m7<br>......<br>因此，尽管▊▊▊▊▊▊▊▊▊▊▊▊▊，爱丽丝▊▊▊▊▊仍▊▊▊▊▊▊▊▊。 |
+| <div style="width:200px;">![爱丽丝](/assets/global/characters/other/600x_9_14_Alice_250221.avif)</div> | ----矮人，-----是---“-----”---------，并非精灵、--或--，而是-----的存在。凭借与诺艾儿不同的特殊扩展插槽，可获得----和诺艾儿无法实现的强力移动手段。<br>爱丽丝因-------而-------------。<br>当目睹--828yp(=-RNP:,,=4_cD--3S'JY$vR7HDY-#v?XYp_B}:-Q+Vn\$-;nR4t--yM;%-----d@FkwT-Ak_j;S:uU,cv.P---hz/Tj+;'R,cTAwP4#--#m7<br>......<br>因此，尽管-------------，爱丽丝-----仍--------。 |
 
 
 # 其他角色
