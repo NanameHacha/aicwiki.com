@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2026-09-01T05:48:13.201Z
+date: 2026-09-01T05:48:53.650Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
@@ -88,7 +88,7 @@ dateCreated: 2024-02-12T12:03:38.257Z
 
 | <div id=bartender class="character-header"><img src="/assets/global/characters/pixels/bartender.webp" style="height:45px"><div class="character-title">「酒保/▊▊▊▊」▊▊▊▊（<ruby lang="ja">▊▊▊▊▊<rt>▊▊▊▊▊▊</rt></ruby>）</div></div> ||
 | --- | --- |
-| <div style="width:200px;">![酒保](/assets/global/characters/other/600x_9_14_Barten_250221_160034.avif)</div> | 一名在「三月兔」酒吧中工作的“魔族”酒保。<br><br>酒保通常出现在「三月兔」酒吧的吧台后。<br>在进入酒吧贮藏室剧情时，酒保会在酒吧贮藏室出现。</div> |
+| <div style="width:200px;">![酒保](/assets/global/characters/other/600x_9_14_Barten_250221_160034.avif)</div> | 一名在「三月兔」酒吧中工作的“魔族”「酒保」。<br><br>「酒保」通常出现在「三月兔」酒吧的吧台后。<br>在进入酒吧贮藏室剧情时，「酒保」会在酒吧贮藏室出现。</div> |
 
 
 | <div id=alice class="character-header"><!-- <img src="" style="height:45px">--><div class="character-title">「幽灵/▊▊▊▊」爱丽丝（<ruby lang="ja">アリス<rt>Alice</rt></ruby>）</div></div> ||
