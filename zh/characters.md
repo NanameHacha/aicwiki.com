@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2026-07-16T07:36:36.016Z
+date: 2026-09-01T05:35:02.209Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
@@ -79,14 +79,19 @@ dateCreated: 2024-02-12T12:03:38.257Z
 | <div style="width:200px;">![蒂格蕾娜・索菈](/assets/global/characters/bermit/600x_9_14_Tigrina_250221_155535.avif)</div> | 机械工学科IV级生，住在精灵之村。在故事开始时与诺艾儿并不相识。<br><br>是机械工学科里最有天赋的学生，但性情古怪。曾未经学校上级允许私自闯入武器库，黑入最新式的设备。<br>在学校社团里创办了 “前沿工学及魔族交流研究部”，在诺艾儿加入前曾有其他部员，现已全部变成幽灵部员。<br><br>通过诺艾儿取回落在武器库的存储卡后，可以利用全息影像技术进行模拟战斗。 |
 
 
-# ▊▊
+# 「 ▊▊」
 
-| <div id=bartender class="character-header"><img src="/assets/global/characters/pixels/bartender.webp" style="height:45px"><div class="character-title">酒保（<ruby lang="ja">バーテンダー<rt>Bartender</rt></ruby>）</div></div> ||
+<!-- | <div id= class="character-header"><img src="/assets/global/characters/pixels/bartender.webp" style="height:45px"><div class="character-title">「酒保/▊▊▊▊」▊▊▊▊（<ruby lang="ja">▊▊▊▊▊<rt>▊▊▊▊▊▊</rt></ruby>）</div></div> ||
 | --- | --- |
-| <div style="width:200px;">![酒保](/assets/global/characters/other/600x_9_14_Barten_250221_160034.avif)</div> | ▊▊▊▊，一名在「三月兔」酒吧中工作的魔族酒保。<br><br>酒保通常出现在「三月兔」酒吧的吧台后。<br>在进入酒吧贮藏室剧情时，酒保会在酒吧贮藏室出现。</div> |
+| <div style="width:200px;">![酒保](/assets/global/characters/other/600x_9_14_Barten_250221_160034.avif)</div> | ▊▊▊▊，一名在「三月兔」酒吧中工作的魔族酒保。<br><br>酒保通常出现在「三月兔」酒吧的吧台后。<br>在进入酒吧贮藏室剧情时，酒保会在酒吧贮藏室出现。</div> | -->
 
 
-| <div id=alice class="character-header"><img src="" style="height:45px"><div class="character-title">爱丽丝（<ruby lang="ja">アリス<rt>Alice</rt></ruby>）</div></div> ||
+| <div id=bartender class="character-header"><img src="/assets/global/characters/pixels/bartender.webp" style="height:45px"><div class="character-title">「酒保/▊▊▊▊」▊▊▊▊（<ruby lang="ja">▊▊▊▊▊<rt>▊▊▊▊▊▊</rt></ruby>）</div></div> ||
+| --- | --- |
+| <div style="width:200px;">![酒保](/assets/global/characters/other/600x_9_14_Barten_250221_160034.avif)</div> | 一名在「三月兔」酒吧中工作的“魔族”酒保。<br><br>酒保通常出现在「三月兔」酒吧的吧台后。<br>在进入酒吧贮藏室剧情时，酒保会在酒吧贮藏室出现。</div> |
+
+
+| <div id=alice class="character-header"><img src="" style="height:45px"><div class="character-title">「幽灵/▊▊▊▊」爱丽丝（<ruby lang="ja">アリス<rt>Alice</rt></ruby>）</div></div> ||
 | --- | --- |
 | <div style="width:200px;">![爱丽丝](/assets/global/characters/other/600x_9_14_Alice_250221.avif)</div> | ▊▊▊▊矮人，▊▊▊▊▊是▊▊▊“▊▊▊▊▊”▊▊▊▊▊▊▊▊▊，并非精灵、▊▊或▊▊，而是▊▊▊▊▊的存在。凭借与诺艾儿不同的特殊扩展插槽，可获得▊▊▊▊和诺艾儿无法实现的强力移动手段。<br>爱丽丝因▊▊▊▊▊▊▊而▊▊▊▊▊▊▊▊▊▊▊▊▊。<br>当目睹▊▊828yp(=▊RNP:,,=4_cD▊▊3S'JY$vR7HDY▊#v?XYp_B}:-Q+Vn\$▊;nR4t▊▊yM;%▊▊▊▊▊d@FkwT▊Ak_j;S:uU,cv.P▊▊▊hz/Tj+;'R,cTAwP4#▊▊#m7<br>......<br>因此，尽管▊▊▊▊▊▊▊▊▊▊▊▊▊，爱丽丝▊▊▊▊▊仍▊▊▊▊▊▊▊▊。 |
 
