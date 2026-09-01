@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2026-09-01T05:47:17.187Z
+date: 2026-09-01T05:48:13.201Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
@@ -81,7 +81,7 @@ dateCreated: 2024-02-12T12:03:38.257Z
 
 # 「 ▊▊」
 
-| <div id=he class="character-header"><img src="/assets/global/characters/pixels/bartender.webp" style="height:45px"><div class="character-title">「他/▊▊▊▊」▊▊▊（<ruby lang="ja">▊▊▊▊▊▊<rt>▊▊▊▊▊▊▊▊</rt></ruby>）</div></div> ||
+| <div id=he class="character-header"><!-- <img src="" style="height:45px"> --><div class="character-title">「他/▊▊▊▊」▊▊▊（<ruby lang="ja">▊▊▊▊▊▊<rt>▊▊▊▊▊▊▊▊</rt></ruby>）</div></div> ||
 | --- | --- |
 | <div style="width:200px;">![他](/assets/global/characters/other/600x_9_14_He_xxxxxx_xxxxxx.avif)</div> | 一名穿着便服的人形“魔族”。<br><br>「他」隐居在山洞中，当诺艾儿遇到「他」时，「他」并没有攻击她，而是借给她鱼竿一起钓鱼。<br>随着剧情发展，「他」会给诺艾儿各种物品，还尝试用精灵语和她交流，诺艾儿开始对「他」产生一种奇特的友谊和信任感。</div> |
 
