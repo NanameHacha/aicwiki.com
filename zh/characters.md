@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2026-09-02T08:27:53.386Z
+date: 2026-09-02T08:28:58.984Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
@@ -81,9 +81,9 @@ dateCreated: 2024-02-12T12:03:38.257Z
 
 # 「 ▊▊」
 
-| <div id=he class="character-header"><!-- <img src="" style="height:45px"> --><div class="character-title">「▊▊▊▊▊」▊▊▊（<ruby lang="ja">▊▊▊▊▊<rt>▊▊▊▊▊▊▊</rt></ruby>）</div></div> ||
+<!-- | <div id=he class="character-header"><img src="" style="height:45px"><div class="character-title">「▊▊▊▊▊」▊▊▊（<ruby lang="ja">▊▊▊▊▊<rt>▊▊▊▊▊▊▊</rt></ruby>）</div></div> ||
 | --- | --- |
-| <div style="width:200px;"><!-- ![](/assets/global/characters/other/) --></div> | - |
+| <div style="width:200px;">![](/assets/global/characters/other/)</div> | - | -->
 
 | <div id=he class="character-header"><!-- <img src="" style="height:45px"> --><div class="character-title">「垂钓者/第一人类」▊▊▊（<ruby lang="ja">▊▊▊▊▊▊<rt>▊▊▊▊▊▊▊▊</rt></ruby>）</div></div> ||
 | --- | --- |
