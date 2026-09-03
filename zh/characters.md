@@ -2,7 +2,7 @@
 title: 登场角色
 description: Alice In Cradle 登场角色
 published: true
-date: 2026-09-02T08:29:54.527Z
+date: 2026-09-03T06:48:00.714Z
 tags: gameplay
 editor: markdown
 dateCreated: 2024-02-12T12:03:38.257Z
@@ -79,7 +79,7 @@ dateCreated: 2024-02-12T12:03:38.257Z
 | <div style="width:200px;">![蒂格蕾娜・索菈](/assets/global/characters/bermit/600x_9_14_Tigrina_250221_155535.avif)</div> | 机械工学科IV级生，住在精灵之村。在故事开始时与诺艾儿并不相识。<br><br>是机械工学科里最有天赋的学生，但性情古怪。曾未经学校上级允许私自闯入武器库，黑入最新式的设备。<br>在学校社团里创办了 “前沿工学及魔族交流研究部”，在诺艾儿加入前曾有其他部员，现已全部变成幽灵部员。<br><br>通过诺艾儿取回落在武器库的存储卡后，可以利用全息影像技术进行模拟战斗。 |
 
 
-# 「 ▊▊」
+# 未知
 
 | <div id=he class="character-header"><!-- <img src="" style="height:45px"> --><div class="character-title">「垂钓者/第一人类」▊▊▊（<ruby lang="ja">▊▊▊▊▊▊<rt>▊▊▊▊▊▊▊▊</rt></ruby>）</div></div> ||
 | --- | --- |
