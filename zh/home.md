@@ -2,7 +2,7 @@
 title: 简体中文百科
 description: Alice in Cradle 简体中文百科 - 由社区编辑者编写
 published: true
-date: 2026-09-15T05:22:42.354Z
+date: 2026-09-15T06:40:55.741Z
 tags: index
 editor: markdown
 dateCreated: 2024-01-29T14:45:09.477Z
@@ -49,7 +49,7 @@ dateCreated: 2024-01-29T14:45:09.477Z
 ### 限定周边
 
 - WePlay 2025 场限周边（2025/11/22开售）：
-[展会信息](https://www.bilibili.com/opus/1127209347940614163) | [余量线上购买](https://www.bilibili.com/opus/1150209765367873589)
+[展会信息](https://www.bilibili.com/opus/1127209347940614163) | [线上余量](https://www.bilibili.com/opus/1150209765367873589)
 <!-- - WePlay 2026 场限周边（2026/11/22开售）：
 [展会信息]() | [线上通贩]() -->
 
